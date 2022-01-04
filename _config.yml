@@ -122,15 +122,15 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/HartharnSam"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-square"
+      # url: "https://www.linkedin.com/in/sam-hartharn-evans/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/dhruvbalwada"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/pixel1989/"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/channel/UC20DqoCTidfiHR_MwFsY60w/featured"
 
 # Site Footer
 footer:
