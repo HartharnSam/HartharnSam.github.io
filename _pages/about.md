@@ -7,5 +7,8 @@ header:
   caption: "Increase in Sea Ice Melt season length in the Kara Sea."
 ---
 
-[CV][1]
+0.  [CV][1]
+
+{: reversed="reversed"}
+
 [1]: /assets/documents/CV.pdf
