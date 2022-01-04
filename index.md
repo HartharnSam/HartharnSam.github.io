@@ -18,7 +18,10 @@ My PhD Project, titled “internal solitary waves in ice-covered waters” inves
 
 -          How do internal solitary waves interact with sea ice in the Arctic Ocean?
 
-Watch a recent presentation to find out more about our research: https://youtu.be/tFY4UQiwxl0
+Watch a recent presentation to find out more about our research:
+<div style="width:350px; float: center">
+    {% include video id="tFY4UQiwxl0" provider="youtube" %}
+</div>
 
 ---
 ### Supervisors
