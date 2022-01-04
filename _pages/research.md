@@ -13,6 +13,14 @@ My research focuses on understanding how the cryosphere and oceans interact in a
 
 With my PhD, I have turned to more of a process-based approach. In the first part I have investigated how the dynamics of shoaling internal solitary wave change in different stratification types. I hope to then apply this understanding of internal wave dynamics, instabilities and mixing, and experimental techniques to ice-ocean dynamics.
 
+In the first part I have investigated how the dynamics of shoaling internal solitary wave change in different stratification types. I hope to then apply this understanding of internal wave dynamics, instabilities and mixing, and experimental techniques to ice-ocean dynamics. To see my published work proceed to [publications](/publications). For short summaries of some of the research I have worked on, visit [research](/research). 
+
+My PhD  Three research questions are being addressed during this project so far:
+
+-          How stratification affects the behaviour of shoaling Internal Solitary Waves?
+-          How stratification impacts boluses produced by fissioning Internal Solitary Waves?
+-          How do internal solitary waves interact with sea ice in the Arctic Ocean?
+
 ## Overview of Internal Waves
 Density stratification in the world’s oceans support the propagation of Internal Waves. These waves are a crucial mechanism in the global cascade of energy from large scale inputs (tides and wind), to molecular scale output. In the Arctic Ocean, these waves are much less energetic, but are particularly important in driving the circulation and distribution of water masses. With declines of sea ice, understanding how internal waves interact with sea ice, and how sea ice affects them is required to understand the Arctic’s future. Observing waves in situ is particularly difficult so my project uses laboratory experiments to investigate the interactions between sea ice and internal waves.
 
