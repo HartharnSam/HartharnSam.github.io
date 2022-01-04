@@ -20,7 +20,7 @@ title                    : "Sam Hartharn-Evans"
 title_separator          : "|"
 subtitle                 : "Stir & Mix" # site tagline that appears below site title in masthead
 name                     : "Sam Hartharn-Evans"
-description              : "Oceanography, turbulence, transport, Lagrangian, tracers."
+description              : "Studying oceanographic processes in the laboratory."
 url                      : "https://hartharnsam.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "hartharnsam/hartharnsam.github.id"  # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -108,8 +108,8 @@ analytics:
 # Site Author
 author:
   name             : "Sam Hartharn-Evans"
-  avatar           : "/assets/images/bio-photo_balwada.jpg"
-  bio              : "Oceanographer, engineer, & data enthusiast."
+  avatar           : "/assets/images/bio-sam.jpg"
+  bio              : "Studying oceanographic processes in the laboratory."
   location         : "Newcastle, UK"
   email            : "s.hartharn-evans2@ncl.ac.uk"
   links:
