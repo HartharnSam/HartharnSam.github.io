@@ -16,10 +16,10 @@ minimal_mistakes_skin    : 'air' #"default" # "air", "aqua", "contrast", "dark",
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dhruv Balwada"
+title                    : "Sam Hartharn-Evans"
 title_separator          : "|"
 subtitle                 : "Stir & Mix" # site tagline that appears below site title in masthead
-name                     : "Dhruv Balwada"
+name                     : "Sam Hartharn-Evans"
 description              : "Oceanography, turbulence, transport, Lagrangian, tracers."
 url                      : "https://hartharnsam.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -107,7 +107,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dhruv Balwada"
+  name             : "Sam Hartharn-Evans"
   avatar           : "/assets/images/bio-photo_balwada.jpg"
   bio              : "Oceanographer, engineer, & data enthusiast."
   location         : "New York, NY"
