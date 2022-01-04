@@ -4,6 +4,8 @@ author_profile: true
 title: "Scientist Profile"
 header:
   image: /assets/images/ShoalingWaveTS.png
+  caption: "Time series of experimental Internal Solitary Wave passing."
+  
 ---
 
 ### Academic Roadmap
