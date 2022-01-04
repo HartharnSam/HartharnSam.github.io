@@ -7,41 +7,24 @@ header:
 ---
 
 ### Academic Roadmap
-I am an associate research scientist at the [Lamont-Doherty Earth Observatory](https://www.ldeo.columbia.edu/), Columbia University exploring the richness of oceanic turbulence, and using machine learning tools to parameterize this turbulence in climate models as part of the [M<sup>2</sup>LInES project](https://m2lines.github.io/). Prior to moving to Columbia University, I was a postdoc at the [Courant Institute of Mathematical Sciences][cims], [NYU][nyu] and the [School of Oceanography](https://www.ocean.washington.edu/), UW. I received a PhD at the [Geophysical Fluid Dynamics Institute, FSU][gfdi] in Tallahassee, Florida, and an undergraduate chemical engineering degree from the [Birla Institute of Technology and Science][bits] in [Goa](https://en.wikipedia.org/wiki/Goa), [India](https://en.wikipedia.org/wiki/India).
+I am a PhD Researcher at Newcastle University's School of Mathematics, Statistics and Physics, funded as part of the [ONE Planet Doctoral Training Programme](https://research.ncl.ac.uk/one-planet/ourprogramme/). Initially studying a degree in Marine Biology and Oceanography at Bangor University, I have an interest in understanding physical processes in the ocean, and how they interact with different systems, in particular sea ice in the rapidly changing Arctic Ocean. Previously I investigated the role of freshwater in the Arctic Ocean, but now in my PhD focus on the specific processes around internal waves.
 
 ### Research Interests
-My research is primarily focused on understanding how the [swirling flows](https://visibleearth.nasa.gov/view.php?id=77120) in the ocean, at scales of 100m - 100km, stir, mix and transport tracers. This stirring and transport plays an integral role in influencing the [Earth's](https://www.youtube.com/watch?v=P5_GlAOCHyE) [climate](https://www.ipcc.ch/reports/), and also controls the rhythms of oceanic and coastal ecosystems. You can read about the few aspects of this rich problem, which I have addressed with colleagues, on my [research page](/research/), or download my [publications](/publications) for more details.
+My PhD Project, titled “internal solitary waves in ice-covered waters” investigates how oceanic internal solitary waves (which are waves travel along density interfaces within the water column, and act in a “solitary” manner) interacts with sea ice. This research is primarily laboratory based, using a 7m long flume tank in our laboratory, along with numerical simulations. Three research questions are being addressed during this project so far:
 
-A summary of my professional life as a list can be found in my [curriculum vitae](/assets/documents/balwada_CV_mar_2021.pdf).
+-          How stratification affects the behaviour of shoaling Internal Solitary Waves?
 
----
+-          How stratification impacts boluses produced by fissioning Internal Solitary Waves?
 
-### Pathway to Science
-I was born in the Indian state of [Rajasthan](https://en.wikipedia.org/wiki/Rajasthan), which is well known for the [Thar Desert](https://en.wikipedia.org/wiki/Thar_Desert), and ancient palaces and forts (not for a lot of water bodies). I spent most of my childhood and teenage years in and around the capital city, [New Delhi](https://en.wikipedia.org/wiki/New_Delhi), and went to the western coastal state of Goa to study engineering after high-school. Even though living next to some of the most beautiful beaches in India as an undergrad, I had to go back inland, for an internship to [Bangalore](http://www.cmmacs.ernet.in/), to discover that humans spent time studying the ocean. The opportunity to study the fluid dynamics of the turbulent natural environment and to be involved in fieldwork have been the primary hooks that have lead me to where I am now.
+-          How do internal solitary waves interact with sea ice in the Arctic Ocean?
 
-[cims]: https://caos.cims.nyu.edu/
-[nyu]: https://cims.nyu.edu/
-[gfdi]: https://gfdi.fsu.edu/
-[bits]: https://www.bits-pilani.ac.in/Goa/
+Watch a recent presentation to find out more about our research: https://youtu.be/tFY4UQiwxl0
 
 ---
+### Supervisors
 
-### Interesting Random Links
+Magda Carr, School of Mathematics, Statistics and Physics, Newcastle University, UK
+Andrew Willmott, School of Mathematics, Statistics and Physics, Newcastle University, UK
+Adrian Jenkins, Department of Geography and Environmental Sciences, Northumbria University, UK
 
-#### Productivity and mental health
-[Stupidity in Science](https://jcs.biologists.org/content/joces/121/11/1771.full.pdf)  
-[Agile project management](https://www.nature.com/articles/d41586-019-01184-9)  
-
-#### Writing  
-[Ten simple rules for structuring paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619)  
-[The science of science writing](https://www.americanscientist.org/blog/the-long-view/the-science-of-scientific-writing)  
-[Draft no. 4](https://www.newyorker.com/magazine/2013/04/29/draft-no-4)  
-
-#### Podcasts  
-[Forecast](https://forecastpod.org/)  
-[Climate Scientists](https://www.danjonesocean.com/#podcast)  
-[Deep Convection](https://deep-convection.org/)  
-I enjoy learning about the variety of science and scientist's lives and pathways from these podcasts.  
-
-#### History of Oceanography   
-[Fiction/Vision of Autonomous Obs, *(Henry Stommel, 1989)*](https://tos.org/oceanography/article/the-slocum-mission)  
+---
