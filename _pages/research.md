@@ -5,8 +5,8 @@ permalink: /research/
 # collection: research
 # entries_layout: grid
 header:
-  image: /assets/images/vorticity_1km.jpg
-  caption: "[Eddies in a simulation of the Antarctic Circumpolar Current.](/assets/documents/Balwada_et_al2018.pdf)"
+  image: /assets/images/TankImage.jpg
+  caption: "Laboratory setup for studing Internal Solitary Waves"
 ---
 
 My research focuses on understanding how the cryosphere and oceans interact in a variety of scales. My BSc and MSc dissertations both investigated how large-scale freshwater patterns could influence the transfer of heat from warm Atlantic water to waters at the surface (and subsequently ice). To see published work proceed to [publications](/publications). For short summaries of some of the work I am involved in read on. 
