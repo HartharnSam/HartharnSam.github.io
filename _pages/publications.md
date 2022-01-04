@@ -3,8 +3,8 @@ layout: single
 title: "Publications"
 permalink: /publications/
 header:
-  image: /assets/images/global_temp_stripes.png
-  caption: "[Global temp anomaly from 1850-2018.](https://en.wikipedia.org/wiki/Warming_stripes)"
+  image: /assets/images/SeaIceWarmingStripe.png
+  caption: "Increase in Sea Ice Melt season length in the Kara Sea."
 ---
 
 [Google Scholar Profile](https://scholar.google.com/citations?user=naRfL8cAAAAJ&hl=en)
