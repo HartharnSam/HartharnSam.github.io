@@ -33,11 +33,10 @@ As studying internal waves in situ, particularly in the Arctic Ocean, is practic
     {% include video id="1cIrX9ARqjw" provider="youtube" %}
 </div>
 
-We visualise the flow using seeding particles illuminated by a vertical thin light sheet (e.g. https://youtu.be/2FGGAnJFoJo), and use Particle Image Velocimetry in [DigiFlow](http://www.dalzielresearch.com/digiflow/) to calculate synoptic velocity and vorticity fields. This method allows us to gain high spatial and temporal resolution to our observations, and really pick apart any dynamics we observe. 
-
 <div style="width:350px; float: left">
     {% include video id="2FGGAnJFoJo" provider="youtube" %}
 </div>
+We visualise the flow using seeding particles illuminated by a vertical thin light sheet, and use Particle Image Velocimetry in [DigiFlow](http://www.dalzielresearch.com/digiflow/) to calculate synoptic velocity and vorticity fields. This method allows us to gain high spatial and temporal resolution to our observations, and really pick apart any dynamics we observe. 
 
 ### Numerical Methods
 In addition to the laboratory, we have recently been using the SPINS numerical model [(Subrich et al., 2013)](https://doi.org/10.1002/fld.3788) to extend our experimental output further, and to gain a full suite of simultaneous measurements not available in the laboratory.
@@ -50,10 +49,11 @@ Summarised in video
 </div>
 
 ## Internal Waves in Ice Covered Waters
-In the Arctic Ocean, these waves are much less energetic, but are particularly important in driving the circulation and distribution of water masses. With declines of sea ice, understanding how internal waves interact with sea ice, and how sea ice affects them is required to understand the Arctic’s future. Observing waves in situ is particularly difficult so my project uses laboratory experiments to investigate the interactions between sea ice and internal waves. Using floats to model sea ice, we visualise the float motion from above, alongside visualising the wave:
 <div style="width:350px; float: right">
     {% include video id="t112jtM0jik" provider="youtube" %}
 </div>
+In the Arctic Ocean, these waves are much less energetic, but are particularly important in driving the circulation and distribution of water masses. With declines of sea ice, understanding how internal waves interact with sea ice, and how sea ice affects them is required to understand the Arctic’s future. Observing waves in situ is particularly difficult so my project uses laboratory experiments to investigate the interactions between sea ice and internal waves. Using floats to model sea ice, we visualise the float motion from above, alongside visualising the wave:
+
 
 ## Freshwater in the Arctic Ocean
 
