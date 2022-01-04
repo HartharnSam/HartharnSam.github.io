@@ -15,7 +15,7 @@
 minimal_mistakes_skin    : 'air' #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "en-UK"
 title                    : "Sam Hartharn-Evans"
 title_separator          : "|"
 subtitle                 : "Stir & Mix" # site tagline that appears below site title in masthead
@@ -110,18 +110,18 @@ author:
   name             : "Sam Hartharn-Evans"
   avatar           : "/assets/images/bio-photo_balwada.jpg"
   bio              : "Oceanographer, engineer, & data enthusiast."
-  location         : "New York, NY"
-  email            : "dhruvbalwada@gmail.com"
+  location         : "Newcastle, UK"
+  email            : "s.hartharn-evans2@ncl.ac.uk"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      #url: ""
+      url: "mailto:s.hartharn-evans2@ncl.ac.uk"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://dhruvbalwada.github.io"
+      url: "https://HartharnSam.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/BalwadaDhruv"
+      url: "https://twitter.com/HartharnSam"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
