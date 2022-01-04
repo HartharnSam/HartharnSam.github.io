@@ -18,7 +18,7 @@ minimal_mistakes_skin    : 'air' #"default" # "air", "aqua", "contrast", "dark",
 locale                   : "en-UK"
 title                    : "Sam Hartharn-Evans"
 title_separator          : "|"
-subtitle                 : "Stir & Mix" # site tagline that appears below site title in masthead
+subtitle                 : #"Stir & Mix" # site tagline that appears below site title in masthead
 name                     : "Sam Hartharn-Evans"
 description              : "Studying oceanographic processes in the laboratory."
 url                      : "https://hartharnsam.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -101,7 +101,7 @@ social:
 analytics:
   provider               : "google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : UA-144181004-1
+    tracking_id          : G-BFQ2RTGPPB
     anonymize_ip         : false # true, false (default)
 
 
@@ -113,9 +113,9 @@ author:
   location         : "Newcastle, UK"
   email            : "s.hartharn-evans2@ncl.ac.uk"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:s.hartharn-evans2@ncl.ac.uk"
+   # - label: "Email"
+   #   icon: "fas fa-fw fa-envelope-square"
+   #   url: "mailto:s.hartharn-evans2@ncl.ac.uk"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://HartharnSam.github.io"
