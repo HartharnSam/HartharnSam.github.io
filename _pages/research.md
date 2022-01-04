@@ -29,31 +29,30 @@ Internal Solitary Waves are a particular kind of these waves, where a balance of
 ### Laboratory Methods
 As studying internal waves in situ, particularly in the Arctic Ocean, is practically challenging, I study internal waves in the laboratory using a purpose built 7m long, 30cm deep flume at Newcastle University. The tank is initially filled with dense, salty water, before a layer of fresher (lighter) water is slowly added to the surface using an array of sponges to prevent mixing with the lower layer. At one end of the tank is a removable gate, and behind this a further volume of the lighter fluid is added to the surface, to produce a step in the pycnocline. On removal of the gate, an internal wave forms, and propagates along the tank:
 
-<div style="width:300px; float: left">
-    {% include figure image_path="/assets/images/SF.png" caption="Scale-wise kinetic energy in the Gulf of Mexico."%}
-  https://youtu.be/1cIrX9ARqjw
+<div style="width:650px; float: center">
+    {% include video id="1cIrX9ARqjw" provider="youtube" %}
 </div>
 
 We visualise the flow using seeding particles illuminated by a vertical thin light sheet (e.g. https://youtu.be/2FGGAnJFoJo), and use Particle Image Velocimetry in [DigiFlow](http://www.dalzielresearch.com/digiflow/) to calculate synoptic velocity and vorticity fields. This method allows us to gain high spatial and temporal resolution to our observations, and really pick apart any dynamics we observe. 
 
-<div style="width:300px; float: left">
-    {% include figure image_path="/assets/images/SF.png" caption="Scale-wise kinetic energy in the Gulf of Mexico."%}
-  https://www.youtube.com/watch?v=2FGGAnJFoJo
+<div style="width:350px; float: left">
+    {% include video id="2FGGAnJFoJo" provider="youtube" %}
 </div>
 
 ### Numerical Methods
 In addition to the laboratory, we have recently been using the SPINS numerical model [(Subrich et al., 2013)](https://doi.org/10.1002/fld.3788) to extend our experimental output further, and to gain a full suite of simultaneous measurements not available in the laboratory.
 
 ## Shoaling Internal Solitary Waves 
-
+Recently [published](https://doi.org/10.1017/jfm.2021.1049) in Journal of Fluid Mechanics.
+Summarised in video
+<div style="width:650px; float: center">
+    {% include video id="tFY4UQiwxl0" provider="youtube" %}
+</div>
 
 ## Internal Waves in Ice Covered Waters
 In the Arctic Ocean, these waves are much less energetic, but are particularly important in driving the circulation and distribution of water masses. With declines of sea ice, understanding how internal waves interact with sea ice, and how sea ice affects them is required to understand the Arctic’s future. Observing waves in situ is particularly difficult so my project uses laboratory experiments to investigate the interactions between sea ice and internal waves. Using floats to model sea ice, we visualise the float motion from above, alongside visualising the wave:
-
-% Video of the waves
-<div style="width:300px; float: left">
-    {% include figure image_path="/assets/images/SF.png" caption="Scale-wise kinetic energy in the Gulf of Mexico."%}
-  https://youtu.be/t112jtM0jik
+<div style="width:350px; float: right">
+    {% include video id="t112jtM0jik" provider="youtube" %}
 </div>
 
 ## Freshwater in the Arctic Ocean
