@@ -3,7 +3,7 @@ layout: single
 author_profile: true
 title: "Scientist Profile"
 header:
-  image: /assets/images/wave_mix_tyler_penner_unsplash.jpg
+  image: /assets/images/ShoalingWaveTS.png
 ---
 
 ### Academic Roadmap
