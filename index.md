@@ -29,7 +29,9 @@ Watch a recent presentation to find out more about our research:
 ### Supervisors
 
 Magda Carr, School of Mathematics, Statistics and Physics, Newcastle University, UK
+
 Andrew Willmott, School of Mathematics, Statistics and Physics, Newcastle University, UK
+
 Adrian Jenkins, Department of Geography and Environmental Sciences, Northumbria University, UK
 
 ---
