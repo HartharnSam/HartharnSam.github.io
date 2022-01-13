@@ -42,8 +42,7 @@ We visualise the flow using seeding particles illuminated by a vertical thin lig
 In addition to the laboratory, we have recently been using the SPINS numerical model [(Subrich et al., 2013)](https://doi.org/10.1002/fld.3788) to extend our experimental output further, and to gain a full suite of simultaneous measurements not available in the laboratory.
 
 ## Shoaling Internal Solitary Waves 
-Recently [published](https://doi.org/10.1017/jfm.2021.1049) in Journal of Fluid Mechanics.
-Summarised in video
+As the first part of my PhD, recently [published](https://doi.org/10.1017/jfm.2021.1049) in Journal of Fluid Mechanics, I investigated the effects of varying stratification type on the way in which internal solitary waves break when propagating over a smooth, linear slope. Previous work had identified a classification system analogue to the wave breaking classifications of surface waves, but our work identified that some dynamics could be suppressed in other stratification types, depending on the location of the vertical density gradient relative to the dynamics. This altered the previous classification diagram based on wave steepness, and topographic slope, and added another consideration of stratification. This work is summarised in this video:
 <div style="width:650px; float: center">
     {% include video id="tFY4UQiwxl0" provider="youtube" %}
 </div>
