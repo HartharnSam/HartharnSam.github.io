@@ -11,11 +11,6 @@ header:
 
 [ORCID](https://orcid.org/0000-0003-4643-8932)
 
-### In Preparation  
-
-
-### Submitted  
-
 
 ### Peer Reviewed Publications
 0.  [Stratification effects on shoaling Internal Solitary Waves][1]  
@@ -24,6 +19,10 @@ header:
     
 {: reversed="reversed"}
 
+### In Preparation  
+
+
+### Submitted  
 
 [1]: /assets/documents/Hartharn-Evans2022.pdf
 
