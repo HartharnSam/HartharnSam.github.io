@@ -124,10 +124,10 @@ author:
       url: "https://twitter.com/HartharnSam"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-square"
-      # url: "https://www.linkedin.com/in/sam-hartharn-evans/"
+      url: "https://www.linkedin.com/in/sam-hartharn-evans/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/dhruvbalwada"
+      url: "https://github.com/HartharnSam"
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube"
       url: "https://www.youtube.com/channel/UC20DqoCTidfiHR_MwFsY60w/featured"
@@ -137,23 +137,10 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: "https://twitter.com/HartharnSam"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
-
+      url: "https://github.com/HartharnSam"
 
 # Reading Files
 include:
@@ -222,7 +209,7 @@ sass:
 #permalink: /:categories/:title/
 #paginate: 5 # amount of posts to show
 #paginate_path: /page:num/
-#timezone: America/New_York # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+#timezone: Europe/London # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)
