@@ -23,12 +23,12 @@ Watch a recent presentation to find out more about our research:
 
 I am involved in demonstrating within my academic school, and am also engaged in outreach as part of the ONE Planet Outreach project. As ONE Planet Cohort 1 Student Rep, I am engaged with many other aspects of the DTP. I am currently Treasurer of the UK Polar Network ([UKPN](https://polarnetwork.org/)), where I aim to ensure that the network can help support other Polar Early Career Researchers. 
 
-In my spare time, I enjoy cycling, and am a keen trombone player, playing in a local brass band and acting as charity trustee of the UniBrass Foundation to support university level brass banding.
+In my spare time, I enjoy cycling, swimming, and am a keen trombone player, playing with a local 2nd section brass band, Felling Band, and acting as charity trustee of the [UniBrass Foundation](https://www.unibrass.co.uk) to support university level brass banding.
 
 ---
 ### Supervisors
-- Magda Carr, School of Mathematics, Statistics and Physics, Newcastle University, UK
-- Andrew Willmott, School of Mathematics, Statistics and Physics, Newcastle University, UK
-- Adrian Jenkins, Department of Geography and Environmental Sciences, Northumbria University, UK
+- [Magda Carr](https://www.ncl.ac.uk/maths-physics/people/profile/magdacarr.html), School of Mathematics, Statistics and Physics, Newcastle University, UK
+- [Andrew Willmott](https://www.ncl.ac.uk/maths-physics/people/profile/andrewwillmott.html), School of Mathematics, Statistics and Physics, Newcastle University, UK
+- [Adrian Jenkins](https://www.northumbria.ac.uk/about-us/our-staff/j/adrian-jenkins/), Department of Geography and Environmental Sciences, Northumbria University, UK
 
 ---
