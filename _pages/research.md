@@ -13,7 +13,7 @@ My research focuses on understanding how the cryosphere and oceans interact in a
 
 With my PhD, I have turned to more of a process-based approach. In the first part I have investigated how the dynamics of shoaling internal solitary wave change in different stratification types. I hope to then apply this understanding of internal wave dynamics, instabilities and mixing, and experimental techniques to ice-ocean dynamics.
 
-In the first part of my PhD, I have investigated how the dynamics of shoaling internal solitary wave change in different stratification types. I hope to then apply this understanding of internal wave dynamics, instabilities and mixing, and experimental techniques to ice-ocean dynamics. To see my published work proceed to [publications](/publications). For short summaries of some of the research I have worked on, visit [research](/research). 
+In the first part of my PhD, I have investigated how the dynamics of shoaling internal solitary wave change in different stratification types. I hope to then apply this understanding of internal wave dynamics, instabilities and mixing, and experimental techniques to ice-ocean dynamics. To see my published work proceed to [publications](/publications). For short summaries of some of the research I have worked on, read on.  
 
 My PhD  Three research questions are being addressed during this project so far:
 
@@ -56,7 +56,9 @@ In the Arctic Ocean, these waves are much less energetic, but are particularly i
 
 
 ## Freshwater in the Arctic Ocean
+My BSc, titled "What would be the global climatic implications of turning off Russian rivers flowing into the Arctic Ocean?" investigated the role of freshwater derived from 4 major siberian rivers in the Arctic Ocean stratifications, and the wider climate-scale implications of potential diversion of the freshwater source to provide water to the population centres of the USSR as part of the ["Sibaral" project](https://en.wikipedia.org/wiki/Northern_river_reversal). This involved a simple 1-dimensional water column model, where the freshwater content at the surface was adjusted at a level equivalent to removing this freshwater source. 
 
+This led on to my MSc research, titled "How does Siberian river outflow impact the onset and duration of sea ice formation and melt?". Focussing on the role that riverine freshwater plays in the formation and melt of sea ice in the Kara Sea, an important sea ice nursery, and receiver of large volumes of continental runoff, the research used EOF analysis on gridded satellite and reanalysis data to identify the spatio-temporal patterns in sea ice seasonality, and freshwater. 
 
 {: .text-left}
 
