@@ -24,5 +24,28 @@ header:
 
 ### Submitted  
 
+### Conference Talks 
+0. 	Seminar - "Stratification effects on Shoaling Internal Solitary Waves"
+	**Applied Internal Seminar**, School of Mathematics, Statistics and Physics; Newcastle University. 
+	13th October 2021
+0.	Invited Presenation - "Stratification Effects on Shoaling Internal Solitary Waves" 
+	**Leeds Fluids CDT Conference**, Online, 17th June 2021
+0.	Poster and Lightning Talk - "Stratification effects on Shoaling Internal Solitary Waves"
+	**Our Planet: ONE Planet Student Research Expo**, Online, Newcastle University, 10th June 2021
+0.	Seminar - "Stratification effects on Shoaling Internal Solitary Waves"
+	**ONE Planet Student Seminar**, Online, Newcastle University, 19th May 2021
+0.	Presentation - "Riverine drivers of Sea Ice Freezup in the Kara Sea"
+	**Polar Early Career Conference**, Online, UK Polar Network, 5th May 2021
+0.	vPICO Poster & Lightning Talk - "Stratification effects on shoaling Internal Solitary Waves"
+	**vEGU 2021**, Online, 26th April 2021. *Awarded virtual Outstanding Student Poster Presentation*
+0.	Seminar - "Shoaling internal solitary waves: Is stratification type important?"
+	[**Virtual Physical Oceanography and Shelf Sea Seminar Series**](https://www.vepossss.eu), Online, 4th November 2020
+0.	Poster - "Is the behaviour of internal solitary waves propagating up-slope dependent on stratification?"
+	**SAgE Faculty Conference**, Online, Newcastle University, 1st-5th June 2020. *Awarded runner-up Best Poster*
+	
+
+
+
+
 [1]: /assets/documents/Hartharn-Evans2022.pdf
 
