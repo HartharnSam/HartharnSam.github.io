@@ -61,8 +61,8 @@ staticman:
         format           : # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
   endpoint               : # URL of your own deployment with trailing slash, will fallback to the public instance
 reCaptcha:
-  siteKey                :
-  secret                 :
+  siteKey                : # "6LdC-u0dAAAAAKgH_91VqZ6VSz_rqE7MTKVykzZJ"
+  secret                 : # "rb6NLDB7aWTyBBEg9QqAtNypXCTUniNmhiS7KS4s8fDPoYCHg86Xc2ymMTK9ivcpsupcujFvaki2Q8Jp+Ffbqm5Idu/Pe7YN61yAqOyXctMQxXrPvW6JGb3aTyVw7PK6wg0A6zf0RY9k94pOGip/doaQJhOEw4t1R+5ApPxnjuM="
 atom_feed:
   path                   : # blank (default) uses feed.xml
 search                   : # true, false (default)
@@ -101,7 +101,7 @@ social:
 analytics:
   provider               : "google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : 'G-BFQ2RTGPPB'
+    tracking_id          : zEIHgfm5lawuJGi0lZH204/LWGH3MrB2NldNKK2birrkpYTg0nKio4Eh9b7FIxgxdOoLg7xbcG16cY8EgbM8RaDuT+Y23HSW1s6wz4quOfSuxw2BFjY+P/Zw+0OFTe3rXFzdY6c4ETAJouXhtf2J8y+WKKotmT2CuQgOQPGKxJs=
     anonymize_ip         : false # true, false (default)
 
 
