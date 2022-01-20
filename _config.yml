@@ -84,7 +84,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "HartharnSam"
 facebook:
   username               :
   app_id                 :
@@ -95,13 +95,14 @@ og_image                 : # Open Graph/Twitter default site image
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  links: 
+    - "https://twitter.com/HartharnSam"
 
 # Analytics
 analytics:
-  provider               : "google" # false (default), "google", "google-universal", "custom"
+  provider               : "google-gtag" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : zEIHgfm5lawuJGi0lZH204/LWGH3MrB2NldNKK2birrkpYTg0nKio4Eh9b7FIxgxdOoLg7xbcG16cY8EgbM8RaDuT+Y23HSW1s6wz4quOfSuxw2BFjY+P/Zw+0OFTe3rXFzdY6c4ETAJouXhtf2J8y+WKKotmT2CuQgOQPGKxJs=
+    tracking_id          : "G-BFQ2RTGPPB"
     anonymize_ip         : false # true, false (default)
 
 
@@ -123,7 +124,7 @@ author:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/HartharnSam"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/sam-hartharn-evans/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
