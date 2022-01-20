@@ -3,7 +3,7 @@ layout: single
 author_profile: true
 title: "Profile"
 header:
-  image: /assets/images/ShoalingWaveTS.png
+  image: /assets/images/ShoalingWaveTS.webp
   caption: "Time series of experimental Internal Solitary Wave passing."
   
 ---
