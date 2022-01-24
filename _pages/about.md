@@ -7,7 +7,8 @@ header:
   caption: "Increase in Sea Ice Melt season length in the Kara Sea."
 ---
 
-0.  [CV][1]
+0.  <a href=[1] class="btn btn--primary">CV</a>
+[CV][1]
 
 {: reversed="reversed"}
 
