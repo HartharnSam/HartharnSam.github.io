@@ -16,7 +16,7 @@ I am now involved once again in outreach as part of the ONE Planet Outreach proj
 - Discover COP School Visit : A day of workshops for Y10-12 students exploring extreme weather events, and later negotiating to prioritise COP 26 Goals as the countries effected by those events 
 - Discover COP Science Fair : A day of interactive exhibitions and chance to interact with PGR scientists to explore the science behind COP 26 at teh Great North Museum: Hancock
 - Ask and Answer : Event with Great North Museum: Hancock, for primary school groups to ask questions to experts related to the Living Planet exhibition. 
-- Great North Museum's Big Fun | After Hours (in planning) : An event aimed at over-18s to give the freedom to explore exhibits, games and interactive demonstrations to understand the interactions between COP26 for climate change and COP15 for biodiversity. 
+- Great North Museum's Big Fun \| After Hours (in planning) : An event aimed at over-18s to give the freedom to explore exhibits, games and interactive demonstrations to understand the interactions between COP26 for climate change and COP15 for biodiversity. 
 
 %### Other Academic Service
 %I am involved in demonstrating within my academic school, 
