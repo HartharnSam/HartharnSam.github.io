@@ -18,10 +18,10 @@ I am now involved once again in outreach as part of the ONE Planet Outreach proj
 - Ask and Answer : Event with Great North Museum: Hancock, for primary school groups to ask questions to experts related to the Living Planet exhibition. 
 - Great North Museum's Big Fun \| After Hours (in planning) : An event aimed at over-18s to give the freedom to explore exhibits, games and interactive demonstrations to understand the interactions between COP26 for climate change and COP15 for biodiversity. 
 
-%### Other Academic Service
-%I am involved in demonstrating within my academic school, 
-%As ONE Planet Cohort 1 Student Rep, I am engaged with many other aspects of the DTP.
-%I am currently Treasurer of the UK Polar Network (UKPN), where I aim to ensure that the network can help support other Polar Early Career Researchers.
+### Other Academic Service
+I am involved in demonstrating within my academic school, 
+As ONE Planet Cohort 1 Student Rep, I am engaged with many other aspects of the DTP.
+I am currently Treasurer of the UK Polar Network (UKPN), where I aim to ensure that the network can help support other Polar Early Career Researchers.
 
 {: reversed="reversed"}
 
