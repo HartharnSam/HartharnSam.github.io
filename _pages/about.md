@@ -10,7 +10,7 @@ header:
 [CV][1]{: .btn .btn--info .btn--large}
 
 ### Outreach
-Through my time at Bangor University, I became engaged in outreach events (both on the subject, and university level), mostly revolving around events targetted at Year 12 at the stage that students consider the next steps, at which point discussing the possibilities and opportunities of university study can be particularly valuable. I am also a [STEM Ambassador]{https://www.stem.org.uk/}
+Through my time at Bangor University, I became engaged in outreach events (both on the subject, and university level), mostly revolving around events targetted at Year 12 at the stage that students consider the next steps, at which point discussing the possibilities and opportunities of university study can be particularly valuable. I am also a [STEM Ambassador](https://www.stem.org.uk/).
 
 I am now involved once again in outreach as part of the ONE Planet Outreach project's committee. The project focusses on providing off-curriculum and transdisciplinary environmental science education on topics related to climate change and ecological and environmental breakdown, and raising awareness for and promote science career paths. Events so far have included
 - Discover COP School Visit : A day of workshops for Y10-12 students exploring extreme weather events, and later negotiating to prioritise COP 26 Goals as the countries effected by those events 
