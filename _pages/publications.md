@@ -25,6 +25,12 @@ header:
 ### Submitted  
 
 ### Conference Talks 
+0.	Presentation - "The Interaction of Internal Solitary Waves and Sea Ice in the laboratory"
+	**[EGU22](https://www.egu22.eu)**, NP7.1 - Vienna
+	23-27th May 2022
+0.	Presentation - "The Interaction of Internal Solitary Waves and Sea Ice in the laboratory" 
+	**[BAMC 2022](https://bamc2022.lboro.ac.uk)**, Loughborough University
+	11-13th April 2022
 0. 	Seminar - "Stratification effects on Shoaling Internal Solitary Waves"
 	**Applied Internal Seminar**, School of Mathematics, Statistics and Physics; Newcastle University. 
 	13th October 2021
