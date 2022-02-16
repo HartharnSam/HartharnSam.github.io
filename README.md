@@ -5,4 +5,3 @@ An oceanographer's portfolio built with the help of [minimal-mistakes](https://m
 
 TODO: 
 - Add in a page for climate reading list
-- Add in outreach page
