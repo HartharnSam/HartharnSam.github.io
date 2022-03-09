@@ -7,10 +7,10 @@ header:
   caption: "Increase in Sea Ice Melt season length in the Kara Sea."
 --- 
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script> <!--Altmetric embed header (can go anywhere)  -->
-
+<div itemscope itemtype="https://schema.org/Person">
+    <a itemprop="sameAs" content="ORCiD - 0000-0003-4643-8932" href="https://orcid.org/0000-0003-4643-8932" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0003-4643-8932</a>
+</div>
 [Google Scholar Profile](https://scholar.google.com/citations?user=naRfL8cAAAAJ&hl=en)
-
-[ORCID](https://orcid.org/0000-0003-4643-8932)
 
 
 ### Peer Reviewed Publications
