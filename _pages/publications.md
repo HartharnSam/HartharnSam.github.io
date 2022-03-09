@@ -6,7 +6,7 @@ header:
   image: /assets/images/SeaIceWarmingStripe.png
   caption: "Increase in Sea Ice Melt season length in the Kara Sea."
 ---
-<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script> % Altmetric embed header (can go anywhere)
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script> # Altmetric embed header (can go anywhere)
 
 [Google Scholar Profile](https://scholar.google.com/citations?user=naRfL8cAAAAJ&hl=en)
 
