@@ -10,7 +10,10 @@ header:
 <div itemscope itemtype="https://schema.org/Person">
     <a itemprop="sameAs" content="ORCiD - 0000-0003-4643-8932" href="https://orcid.org/0000-0003-4643-8932" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0003-4643-8932</a>
 </div>
-[Google Scholar Profile](https://scholar.google.com/citations?user=naRfL8cAAAAJ&hl=en)
+
+<a href="https://scholar.google.com/citations?user=naRfL8cAAAAJ&hl=en"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/240px-Google_Scholar_logo.svg.png" style="width:1em;margin-right:.5em;" alt="Google Scholar icon">Google Scholar Profile</a>
+
+
 
 
 ### Peer Reviewed Publications
