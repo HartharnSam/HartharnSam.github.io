@@ -6,6 +6,7 @@ header:
   image: /assets/images/SeaIceWarmingStripe.png
   caption: "Increase in Sea Ice Melt season length in the Kara Sea."
 ---
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script> % Altmetric embed header (can go anywhere)
 
 [Google Scholar Profile](https://scholar.google.com/citations?user=naRfL8cAAAAJ&hl=en)
 
@@ -16,9 +17,8 @@ header:
 0.  [Stratification effects on shoaling Internal Solitary Waves][1]  
     **Samuel G. Hartharn-Evans**, Magda Carr,  Marek Stastna, Peter A. Davies 
     *Journal of Fluid Mechanics (2022)*  
-    <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
-
-<div data-badge-details="right" data-badge-type="medium-donut" data-doi="https://doi.org/10.1017/jfm.2021.1049" class="altmetric-embed"></div>
+   
+<div data-badge-popover="right" data-badge-type="medium-donut" data-doi="https://doi.org/10.1017/jfm.2021.1049" class="altmetric-embed"></div>
 
 {: reversed="reversed"}
 
