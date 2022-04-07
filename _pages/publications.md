@@ -8,7 +8,7 @@ header:
 --- 
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script> <!--Altmetric embed header (can go anywhere)  -->
 <div itemscope itemtype="https://schema.org/Person">
-    <a itemprop="sameAs" content="ORCiD - 0000-0003-4643-8932" href="https://orcid.org/0000-0003-4643-8932" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:.8em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0003-4643-8932</a>
+    <a itemprop="sameAs" content="ORCiD - 0000-0003-4643-8932" href="https://orcid.org/0000-0003-4643-8932" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">ORCiD - 0000-0003-4643-8932</a>
 </div>
 
 <a href="https://scholar.google.com/citations?user=naRfL8cAAAAJ&hl=en"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/240px-Google_Scholar_logo.svg.png" style="width:1em;margin-right:.5em;" alt="Google Scholar icon">Google Scholar Profile</a>
@@ -17,7 +17,7 @@ header:
 
 
 ### Peer Reviewed Publications
-0.  [Stratification effects on shoaling Internal Solitary Waves][1]  <img src= "/assets/images/Open_Access_logo_white.png" style="width:1em;margin-right:.5em;" alt="Open Access">
+0.  [Stratification effects on shoaling Internal Solitary Waves][1]  <img src= "/assets/images/Open_Access_logo_white.png" style="height:1em;margin-right:.5em;" alt="Open Access">
     **Samuel G. Hartharn-Evans**, Magda Carr,  Marek Stastna, Peter A. Davies [doi:10.1017/jfm.2021.1049](https://doi.org/10.1017/jfm.2021.1049)
     *Journal of Fluid Mechanics (2022)*  [Plain Language Summary](https://link.growkudos.com/1raifiqj7r4) 
    
