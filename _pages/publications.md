@@ -19,9 +19,9 @@ header:
 ### Peer Reviewed Publications
 0.  [Stratification effects on shoaling Internal Solitary Waves][1]  <img src= "/assets/images/Open_Access_logo_white.png" style="width:1em;margin-right:.5em;" alt="Open Access">
     **Samuel G. Hartharn-Evans**, Magda Carr,  Marek Stastna, Peter A. Davies [doi:10.1017/jfm.2021.1049](https://doi.org/10.1017/jfm.2021.1049)
-    *Journal of Fluid Mechanics (2022)*  
+    *Journal of Fluid Mechanics (2022)*  [Plain Language Summary](https://link.growkudos.com/1raifiqj7r4) 
    
-<div data-badge-popover="right" data-badge-type="medium-donut" data-doi="https://doi.org/10.1017/jfm.2021.1049" class="altmetric-embed"></div>
+<div data-badge-popover="right" data-badge-type="donut" data-doi="https://doi.org/10.1017/jfm.2021.1049" class="altmetric-embed"></div>
 
 {: reversed="reversed"}
 
@@ -55,6 +55,16 @@ header:
 0.	Poster - "Is the behaviour of internal solitary waves propagating up-slope dependent on stratification?"
 	**SAgE Faculty Conference**, Online, Newcastle University, 1st-5th June 2020. *Awarded runner-up Best Poster*
 	
+### Awards
+
+0.	vOSPP - Virtual Outstanding Student Poster Presentation for Nonlinear Processes Division | EGU21 | 2021
+0.	Runner-up Best Poster | Science Agriculture and Engineering (SAgE) Faculty Conference, Newcastle University | June 2020
+0.	Derbyshire Postgraduate Prize | School of Ocean Sciences, Bangor University | December 2019
+0.	Nautilus Scholarship | School of Ocean Sciences, Bangor University | October 2018
+0.	Dr John Robert Jones Prize (awarded annually to the best students across all disciplines) | Bangor University | June 2018
+0.	Darbyshire Prize (for highest scoring oceanography student) | School of Ocean Sciences, Bangor University | June 2018
+0.	Ray Delahunty Memorial Prize (best first year Ocean Sciences student) | School of Ocean Sciences, Bangor University | September 2016
+
 
 
 
