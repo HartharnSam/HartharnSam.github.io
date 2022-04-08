@@ -17,12 +17,12 @@ Using laboratory experiments of internal solitary waves (ISWs) propagating under
 
 ## Introduction Animation
 Re-watch my introductory animation on Internal Waves in the Arctic Ocean:
-<div style="width:350px; float: right">
+<div style="width:350px; float: center">
     {% include video id="tXjhtNnY8JY" provider="youtube" %}
 </div>
 
 ## Raw Lab imagery
-<div style="width:350px; float: right">
+<div style="width:350px; float: center">
 	{% include video id="CQu5y6deW2o" provider="youtube" %}
 </div>
 
