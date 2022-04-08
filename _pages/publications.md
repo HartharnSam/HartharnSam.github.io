@@ -19,8 +19,8 @@ header:
 ### Peer Reviewed Publications
 0.  [Stratification effects on shoaling Internal Solitary Waves][1]  <img src= "/assets/images/Open_Access_logo_white.png" style="height:1em;margin-right:.5em;" alt="Open Access">
     **Samuel G. Hartharn-Evans**, Magda Carr,  Marek Stastna, Peter A. Davies [doi:10.1017/jfm.2021.1049](https://doi.org/10.1017/jfm.2021.1049)
-    *Journal of Fluid Mechanics (2022)*  [Plain Language Summary](https://link.growkudos.com/1raifiqj7r4) 
-   
+    *Journal of Fluid Mechanics (2022)* 
+[View Publication](https://doi.org/10/1017/jfm.2021.1049){: .btn .btn--info .btn--large} [Plain Language Summary](https://link.growkudos.com/1raifiqj7r4){: .btn .btn--info .btn--large)
 <div data-badge-popover="right" data-badge-type="donut" data-doi="https://doi.org/10.1017/jfm.2021.1049" class="altmetric-embed"></div>
 
 {: reversed="reversed"}
