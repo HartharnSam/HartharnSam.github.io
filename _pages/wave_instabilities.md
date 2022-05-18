@@ -1,7 +1,7 @@
 ---
 title: "Research - Shoaling"
 # layout: collection
-permalink: /research/instabilies
+permalink: /research-instabilies
 # collection: research
 # entries_layout: grid
 header:
@@ -41,4 +41,4 @@ This work consisted of both laboratory experiments, and the SPINS numerical mode
 ## anything on mode 2 here?
 This work was [published](https://doi.org/10.1017/jfm.2021.1049) in Journal of Fluid Mechanics.
 
-
+{: .text-left}

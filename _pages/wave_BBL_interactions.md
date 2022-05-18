@@ -1,7 +1,7 @@
 ---
 title: "Research - Bottom Boundary"
 # layout: collection
-permalink: /research/BBL
+permalink: /research-BBL
 # collection: research
 # entries_layout: grid
 header:
@@ -40,5 +40,7 @@ Over very mild slopes, waves undergo a process called fission, where a single in
 This work consisted of both laboratory experiments, and the SPINS numerical model [(Subrich et al., 2013)](https://doi.org/10.1002/fld.3788) to extend our experimental output further, and to gain a full suite of simultaneous measurements not available in the laboratory.
 ## anything on mode 2 here?
 This work was [published](https://doi.org/10.1017/jfm.2021.1049) in Journal of Fluid Mechanics.
+
+{: .text-left}
 
 
