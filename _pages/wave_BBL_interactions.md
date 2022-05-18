@@ -1,7 +1,7 @@
 ---
-title: "Research - Shoaling"
+title: "Research - Bottom Boundary"
 # layout: collection
-permalink: /research/shoaling
+permalink: /research/BBL
 # collection: research
 # entries_layout: grid
 header:

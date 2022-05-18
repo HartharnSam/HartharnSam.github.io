@@ -1,7 +1,7 @@
 ---
 title: "Research - Shoaling"
 # layout: collection
-permalink: /research/shoaling
+permalink: /research/instabilies
 # collection: research
 # entries_layout: grid
 header:

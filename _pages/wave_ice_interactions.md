@@ -1,7 +1,7 @@
 ---
-title: "Research - Shoaling"
+title: "Research - Ice"
 # layout: collection
-permalink: /research/shoaling
+permalink: /research/ice_interactions
 # collection: research
 # entries_layout: grid
 header:
