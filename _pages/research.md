@@ -47,6 +47,8 @@ As the first part of my PhD, recently [published](https://doi.org/10.1017/jfm.20
     {% include video id="tFY4UQiwxl0" provider="youtube" %}
 </div>
 
+A further paper, shortly to be published in Environmental Fluid Mechanics investigates further the problem of varying stratifications on shoaling internal solitary waves, but focussing on slope angles that better represent the real-world ocean. In this scenario, ISWs of depression give wave to a series (train) of ISWs of elevation, or pulses, which can commonly be observed as cold pulses. Such "cold pulses" are well documented as a potential mechanism for improving survival of benthic ecosystems suffering from heat stress under a changing climate, and as such are an important mechanism for us to study further. In our paper, we investigated the transport of these pulses of fluid upslope, and identified a new process of pulse formation in the broadest stratification centred on the centre of the tank. 
+
 ## Internal Waves in Ice Covered Waters
 <div style="width:350px; float: right">
     {% include video id="t112jtM0jik" provider="youtube" %}
