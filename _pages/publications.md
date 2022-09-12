@@ -25,7 +25,7 @@ header:
 {% endcapture %}
 
 <div class="notice">
-  <h4 class="no toc">Stratification effects on shoaling Internal Solitary Waves</h4><img src="/assets/images/Open_Access_logo_white.png" style="height:1em;margin-right:.5em;" alt="Open Access">
+  **Stratification effects on shoaling Internal Solitary Waves**<img src="/assets/images/Open_Access_logo_white.png" style="height:1em;margin-right:.5em;" alt="Open Access">
   {{ notice-text | markdownify }}
 </div>
 
