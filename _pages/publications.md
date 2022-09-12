@@ -17,7 +17,7 @@ header:
 
 
 ### Peer Reviewed Publications
-	#### [Stratification effects on shoaling Internal Solitary Waves][1]  <img src= "/assets/images/Open_Access_logo_white.png" style="height:1em;margin-right:.5em;" alt="Open Access">
+0.	#### [Stratification effects on shoaling Internal Solitary Waves][1]  <img src= "/assets/images/Open_Access_logo_white.png" style="height:1em;margin-right:.5em;" alt="Open Access">
 
     	**Samuel G. Hartharn-Evans**, Magda Carr,  Marek Stastna, Peter A. Davies 
     	
@@ -30,7 +30,7 @@ header:
 {: reversed="reversed"}
 
 ### In Press
-	#### Dense pulses formed from fissioning internal waves
+0.	#### Dense pulses formed from fissioning internal waves
 
 	**Samuel G. Hartharn-Evans**, Marek Stastna, Magda Carr
 
