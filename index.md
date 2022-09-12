@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: splash #single
 author_profile: true
 title: "Profile"
 header:
