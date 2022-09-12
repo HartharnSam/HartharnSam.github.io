@@ -6,4 +6,6 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
-$serif	: inherit
+$serif	: serif, Georgia, Times;
+$sans-serif	: inherit, "Roboto", "Lucida Grande";
+

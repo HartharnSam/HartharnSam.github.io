@@ -18,16 +18,19 @@ header:
 
 ### Peer Reviewed Publications
 0.  [Stratification effects on shoaling Internal Solitary Waves][1]  <img src= "/assets/images/Open_Access_logo_white.png" style="height:1em;margin-right:.5em;" alt="Open Access">
-    **Samuel G. Hartharn-Evans**, Magda Carr,  Marek Stastna, Peter A. Davies [doi:10.1017/jfm.2021.1049](https://doi.org/10.1017/jfm.2021.1049)
+
+    **Samuel G. Hartharn-Evans**, Magda Carr,  Marek Stastna, Peter A. Davies 
+    [doi:10.1017/jfm.2021.1049](https://doi.org/10.1017/jfm.2021.1049)
     *Journal of Fluid Mechanics (2022)* 
-[View Publication](https://doi.org/10/1017/jfm.2021.1049){: .btn .btn--info .btn--small} [Plain Language Summary](https://link.growkudos.com/1raifiqj7r4){: .btn .btn--success .btn--small}
+    
+    [DOI](https://doi.org/10/1017/jfm.2021.1049){: .btn .btn--info .btn--small} [Summary](https://link.growkudos.com/1raifiqj7r4){: .btn .btn--success .btn--small}
 <div data-badge-popover="right" data-badge-type="donut" data-doi="https://doi.org/10.1017/jfm.2021.1049" class="altmetric-embed"></div>
 
 {: reversed="reversed"}
 
 ### In Press
 0.   Dense pulses formed from fissioning internal waves
-     ** Samuel G. Hartharn-Evans**, Marek Stastna, Magda Carr
+     **Samuel G. Hartharn-Evans**, Marek Stastna, Magda Carr
      *Environmental Fluid Mechanics*
 
 
