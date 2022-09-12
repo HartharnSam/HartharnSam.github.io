@@ -22,28 +22,18 @@ feature_row:
     url: /research
     btn_label: "Read More"
     btn_class: "btn--primary"
-feature_row3:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Right Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
 feature_row4:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: /assets/images/logo.jpg
     alt: "placeholder image 2"
-    title: "Placeholder Image Center Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+    title: "Other Interests"
+    excerpt: 'I am involved in demonstrating within my academic school, and am also engaged in outreach as part of the ONE Planet Outreach project. As ONE Planet Cohort 1 Student Rep, I am engaged with many other aspects of the DTP. I am currently Treasurer of the UK Polar Network ([UKPN](https://polarnetwork.org/)), where I aim to ensure that the network can help support other Polar Early Career Researchers.
+
+In my spare time, I enjoy cycling, swimming, and am a keen trombone player, playing with a local 2nd section brass band, Felling Band, and acting as charity trustee of the [UniBrass Foundation](https://www.unibrass.co.uk) to support university level brass banding.'
 ---
 
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row id="feature_row" type="left" %}
-
-#% include feature_row id="feature_row3" type="right" %}
+{% include feature_row id="feature_row4" type="right" %}
 
 #% include feature_row id="feature_row4" type="center" %}
