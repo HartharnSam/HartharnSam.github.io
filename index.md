@@ -1,6 +1,8 @@
 ---
 title: "Sam Hartharn-Evans | Researcher"
 layout: splash
+permalink: /
+date: 2022-09-12T16:19:00-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
