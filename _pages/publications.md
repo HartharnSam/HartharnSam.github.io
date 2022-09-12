@@ -7,24 +7,28 @@ header:
   caption: "Increase in Sea Ice Melt season length in the Kara Sea."
 --- 
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script> <!--Altmetric embed header (can go anywhere)  -->
-<div itemscope itemtype="https://schema.org/Person"> <a itemprop="sameAs" content="ORCiD - 0000-0003-4643-8932" href="https://orcid.org/0000-0003-4643-8932" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon"></a>
-</div> <a href="https://scholar.google.com/citations?user=naRfL8cAAAAJ&hl=en"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/240px-Google_Scholar_logo.svg.png" style="width:1em;margin-right:.5em;" alt="Google Scholar icon"></a>
 
-
+<div itemscope itemtype="https://schema.org/Person"> <a itemprop="sameAs" content="ORCiD - 0000-0003-4643-8932" href="https://orcid.org/0000-0003-4643-8932" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon"></a>  </div> <a href="https://scholar.google.com/citations?user=naRfL8cAAAAJ&hl=en"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/240px-Google_Scholar_logo.svg.png" style="width:1em;margin-right:.5em;" alt="Google Scholar icon"></a>
 
 
 ### Peer Reviewed Publications
 #### [Stratification effects on shoaling Internal Solitary Waves][1]  <img src= "/assets/images/Open_Access_logo_white.png" style="height:1em;margin-right:.5em;" alt="Open Access">
 
-**Samuel G. Hartharn-Evans**, Magda Carr,  Marek Stastna, Peter A. Davies 
-    	
-[doi:10.1017/jfm.2021.1049](https://doi.org/10.1017/jfm.2021.1049)
-    	
-*Journal of Fluid Mechanics (2022)* 
-    
-[DOI](https://doi.org/10/1017/jfm.2021.1049){: .btn .btn--info .btn--small} [Summary](https://link.growkudos.com/1raifiqj7r4){: .btn .btn--success .btn--small} <div data-badge-popover="right" data-badge-type="donut" data-doi="https://doi.org/10.1017/jfm.2021.1049" class="altmetric-embed"></div>
 
-{: reversed="reversed"}
+{% capture notice-text %}
+**Samuel G. Hartharn-Evans**, Magda Carr,  Marek Stastna, Peter A. Davies
+        #[doi:10.1017/jfm.2021.1049](https://doi.org/10.1017/jfm.2021.1049)
+        *Journal of Fluid Mechanics (2022)*
+[DOI](https://doi.org/10/1017/jfm.2021.1049){: .btn .btn--info .btn--small} [Summary](https://link.growkudos.com/1raifiqj7r4){: .btn .btn--success .btn--small}
+<div data-badge-popover="right" data-badge-type="donut" data-doi="https://doi.org/10.1017/jfm.2021.1049" class="altmetric-embed"></div>
+
+{% endcapture %}
+
+<div class="notice">
+  <h4 class="no toc">Stratification effects on shoaling Internal Solitary Waves</h4><img src="/assets/images/Open_Access_logo_white.png" style="height:1em;margin-right:.5em;" alt="Open Access">
+  {{ notice-text | markdownify }}
+</div>
+
 
 ### In Press
 #### Dense pulses formed from fissioning internal waves
