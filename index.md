@@ -13,7 +13,7 @@ header:
   caption: "Time series of the passage of an Internal Solitary Wave"
 excerpt: "I am a PhD Researcher at Newcastle University, studying the physical processes in the ocean through laboratory experiments and lab-scale simulations."
 intro: 
-  - excerpt: 'I am a PhD Researcher at Newcastle University's School of Mathematics, Statistics and Physics, funded as part of the [ONE Planet Doctoral Training Programme](https://research.ncl.ac.uk/one-planet/ourprogramme/). Studying my BSc in Marine Biology and Oceanography, and an MSc in Physical Oceanography at Bangor University, I have an interest in understanding physical processes in the ocean, and how they interact with different systems. In particular I research the processes surrounding sea ice in the rapidly changing Arctic Ocean, currently by investigating the interactions between sea ice and internal solitary waves in the laboratory.'
+  - excerpt: "I am a PhD Researcher at Newcastle University's School of Mathematics, Statistics and Physics, funded as part of the [ONE Planet Doctoral Training Programme](https://research.ncl.ac.uk/one-planet/ourprogramme/). Studying my BSc in Marine Biology and Oceanography, and an MSc in Physical Oceanography at Bangor University, I have an interest in understanding physical processes in the ocean, and how they interact with different systems. In particular I research the processes surrounding sea ice in the rapidly changing Arctic Ocean, currently by investigating the interactions between sea ice and internal solitary waves in the laboratory."
 feature_row:
   - image_path: /assets/images/logo.jpg
     alt: "placeholder image 2"
