@@ -5,13 +5,17 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/ShoalingWaveTS.webp
-  caption: "Time series of experimental Internal Solitary Wave passing."
   actions:
     - label: "Publications"
-    url: "/research"
+      url: "/research"
+  caption: "Time series of the passage of an Internal Solitary Wave"
 excerpt: "I am a PhD Researcher at Newcastle University, studying the physical processes in the ocean through laboratory experiments and lab-scale simulations."
 intro:
  - excerpt: "I am a PhD Researcher at Newcastle University's School of Mathematics, Statistics and Physics, funded as part of the [ONE Planet Doctoral Training Programme](https://research.ncl.ac.uk/one-planet/ourprogramme/). Studying my BSc in Marine Biology and Oceanography, and an MSc in Physical Oceanography at Bangor University, I have an interest in understanding physical processes in the ocean, and how they interact with different systems. In particular I research the processes surrounding sea ice in the rapidly changing Arctic Ocean, currently by investigating the interactions between sea ice and internal solitary waves in the laboratory."
+ -image_path: /assets/images/ShoalingWaveTS.webp
+  alt: "placeholder image 1"
+  title: "Placeholder 1"
+  excerpt: "This is some sample content that goes here with **Markdown** formatting."  
 research_interest_feature_row:
  - image_path: /assets/images/logo.png
    alt: "Research Interests"
