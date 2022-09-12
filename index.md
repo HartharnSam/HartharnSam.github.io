@@ -1,5 +1,5 @@
 ---
-title: "Splash Page"
+title: "Sam Hartharn-Evans | Researcher"
 layout: splash
 header:
   overlay_color: "#000"
@@ -11,23 +11,7 @@ header:
   caption: "Time series of the passage of an Internal Solitary Wave"
 excerpt: "I am a PhD Researcher at Newcastle University, studying the physical processes in the ocean through laboratory experiments and lab-scale simulations."
 intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
-feature_row:
-  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-    title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-    alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - excerpt: 'I am a PhD Researcher at Newcastle University's School of Mathematics, Statistics and Physics, funded as part of the [ONE Planet Doctoral Training Programme](https://research.ncl.ac.uk/one-planet/ourprogramme/). Studying my BSc in Marine Biology and Oceanography, and an MSc in Physical Oceanography at Bangor University, I have an interest in understanding physical processes in the ocean, and how they interact with different systems. In particular I research the processes surrounding sea ice in the rapidly changing Arctic Ocean, currently by investigating the interactions between sea ice and internal solitary waves in the laboratory.'
 feature_row2:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
@@ -55,8 +39,6 @@ feature_row4:
 ---
 
 {% include feature_row id="intro" type="center" %}
-
-{% include feature_row %}
 
 {% include feature_row id="feature_row2" type="left" %}
 
