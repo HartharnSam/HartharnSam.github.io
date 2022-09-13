@@ -23,7 +23,7 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row1:
-  - image_path: /assets/images/publications.png
+  - image_path: /assets/images/Publications.png
     alt: "Graphical abstract of first paper"
     title: "Publications"
     excerpt: "See my recent publications, and conferences where I have recently presented, or am soon to present at"
@@ -45,8 +45,6 @@ In my spare time, I enjoy cycling, swimming, and am a keen trombone player, play
 {% include feature_row id="feature_row1" type="right" %}
 {% include feature_row id="feature_row4" type="left" %}
 
----
-
 Watch a recent presentation to find out more about our research:
 <div style="width:650px; float: center">
     {% include video id="tFY4UQiwxl0" provider="youtube" %}
@@ -58,4 +56,3 @@ Watch a recent presentation to find out more about our research:
 - [Andrew Willmott](https://www.ncl.ac.uk/maths-physics/people/profile/andrewwillmott.html), School of Mathematics, Statistics and Physics, Newcastle University, UK
 - [Adrian Jenkins](https://www.northumbria.ac.uk/about-us/our-staff/j/adrian-jenkins/), Department of Geography and Environmental Sciences, Northumbria University, UK
 
----
