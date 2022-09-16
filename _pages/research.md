@@ -15,7 +15,7 @@ With my PhD, I have turned to more of a process-based approach. In the first par
 
 In the first part of my PhD, I have investigated how the dynamics of shoaling internal solitary wave change in different stratification types. I hope to then apply this understanding of internal wave dynamics, instabilities and mixing, and experimental techniques to ice-ocean dynamics. To see my published work proceed to [publications](/publications). For short summaries of some of the research I have worked on, read on.  
 
-My PhD  Three research questions are being addressed during this project so far:
+Three research questions are being addressed during this project so far:
 
 -          How stratification affects the behaviour of shoaling Internal Solitary Waves?
 -          How stratification impacts boluses produced by fissioning Internal Solitary Waves?
@@ -33,13 +33,15 @@ As studying internal waves in situ, particularly in the Arctic Ocean, is practic
     {% include video id="1cIrX9ARqjw" provider="youtube" %}
 </div>
 
-<div style="width:350px; float: left">
+<div style="width:350px; float: left; padding:25px">
     {% include video id="2FGGAnJFoJo" provider="youtube" %}
 </div>
+
 We visualise the flow using seeding particles illuminated by a vertical thin light sheet, and use Particle Image Velocimetry in [DigiFlow](http://www.dalzielresearch.com/digiflow/) to calculate synoptic velocity and vorticity fields. This method allows us to gain high spatial and temporal resolution to our observations, and really pick apart any dynamics we observe. 
 
 ### Numerical Methods
-In addition to the laboratory, we have recently been using the SPINS numerical model [(Subrich et al., 2013)](https://doi.org/10.1002/fld.3788) to extend our experimental output further, and to gain a full suite of simultaneous measurements not available in the laboratory.
+In addition to the laboratory, we use the pseudo-spectral Navier-Stokes solver, SPINS (available [here](https://git.uwaterloo.ca/SPINS/SPINS_main)) to extend our experimental output further, and to gain a full suite of simultaneous measurements not available in the laboratory. The model was developed at the University of Waterloo by [(Subrich et al., 2013)](https://doi.org/10.1002/fld.3788), and as part of my project I spent a 6 week research placement in Waterloo to carry out further work with SPINS. 
+
 
 ## Shoaling Internal Solitary Waves 
 As the first part of my PhD, recently [published](https://doi.org/10.1017/jfm.2021.1049) in Journal of Fluid Mechanics, I investigated the effects of varying stratification type on the way in which internal solitary waves break when propagating over a smooth, linear slope. Previous work had identified a classification system analogue to the wave breaking classifications of surface waves, but our work identified that some dynamics could be suppressed in other stratification types, depending on the location of the vertical density gradient relative to the dynamics. This altered the previous classification diagram based on wave steepness, and topographic slope, and added another consideration of stratification. This work is summarised in this video:
