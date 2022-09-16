@@ -33,7 +33,7 @@ As studying internal waves in situ, particularly in the Arctic Ocean, is practic
     {% include video id="1cIrX9ARqjw" provider="youtube" %}
 </div>
 
-<div style="width:350px; float: left; padding:25px">
+<div style="width:350px; float: left; padding-right:25px">
     {% include video id="2FGGAnJFoJo" provider="youtube" %}
 </div>
 
@@ -52,7 +52,7 @@ As the first part of my PhD, recently [published](https://doi.org/10.1017/jfm.20
 A further paper, shortly to be published in Environmental Fluid Mechanics investigates further the problem of varying stratifications on shoaling internal solitary waves, but focussing on slope angles that better represent the real-world ocean. In this scenario, ISWs of depression give wave to a series (train) of ISWs of elevation, or pulses, which can commonly be observed as cold pulses. Such "cold pulses" are well documented as a potential mechanism for improving survival of benthic ecosystems suffering from heat stress under a changing climate, and as such are an important mechanism for us to study further. In our paper, we investigated the transport of these pulses of fluid upslope, and identified a new process of pulse formation in the broadest stratification centred on the centre of the tank. 
 
 ## Internal Waves in Ice Covered Waters
-<div style="width:350px; float: right">
+<div style="width:350px; float: right; padding-left:25px">
     {% include video id="t112jtM0jik" provider="youtube" %}
 </div>
 In the Arctic Ocean, these waves are much less energetic, but are particularly important in driving the circulation and distribution of water masses. With declines of sea ice, understanding how internal waves interact with sea ice, and how sea ice affects them is required to understand the Arctic’s future. Observing waves in situ is particularly difficult so my project uses laboratory experiments to investigate the interactions between sea ice and internal waves. Using floats to model sea ice, we visualise the float motion from above, alongside visualising the wave:
