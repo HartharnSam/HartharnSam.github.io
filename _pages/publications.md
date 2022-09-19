@@ -27,11 +27,12 @@ header:
   {{ notice-text | markdownify }}
 </div>
 
-### In Press
 {% capture notice-text %}
-#### Dense pulses formed from fissioning internal waves
+#### Dense pulses formed from fissioning internal waves <img src="/assets/images/Open_Access_logo_white.png" style="height:1em;margin-right:.5em;" alt="Open Access">
 **Samuel G. Hartharn-Evans**, Marek Stastna, Magda Carr
-*Environmental Fluid Mechanics*
+*Environmental Fluid Mechanics (2022) - Special Issue in honour of Peter Davies*
+[DOI](https://doi.org/10.1007/s10652-022-09894-x){: .btn .btn--info} [PDF](/assets/documents/Hartharn-Evans2022b.pdf){: .btn .btn--inverse}
+<div data-badge-popover="right" data-badge-type="donut" data-doi="https://doi.org/10.1007/s10652-022-09894-x" class="altimetric-embed"></div>
 {% endcapture %}
 
 <div class="notice">
