@@ -51,9 +51,6 @@
       @if ($buttoncolor == light-outline) {
         border: 1px solid #fff;
       }
-	  @if ($buttoncolor == info) {
-		@
-	  }
       &:visited {
         @include yiq-contrasted($color, #000, #fff);
       }
