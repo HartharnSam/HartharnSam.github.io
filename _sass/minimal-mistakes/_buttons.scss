@@ -44,7 +44,7 @@
 
   @each $buttoncolor, $color in $buttoncolors {
     &--#{$buttoncolor} {
-      @include yiq-contrasted($color, $darker-gray, #fff, 240);
+      @include yiq-contrasted($color, $danger-color, $success-color);
       @if ($buttoncolor == inverse) {
         border: 1px solid $border-color;
       }
@@ -52,7 +52,7 @@
         border: 1px solid #fff;
       }
 	  @if ($buttoncolor == info) {
-		text-color: $text-color
+		@
 	  }
       &:visited {
         @include yiq-contrasted($color, #000, #fff);
