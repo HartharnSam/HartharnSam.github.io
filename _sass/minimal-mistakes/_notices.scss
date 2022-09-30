@@ -46,7 +46,7 @@
 
   a {
     color: $notice-color;
-
+	@include yiq-contrasted($notice-color);
     &:hover {
       color: mix(#000, $notice-color, 40%);
     }
@@ -67,7 +67,6 @@
 
 .notice {
   @include notice($light-gray);
-  @include yiq-contrasted($color);
 }
 
 /* Primary notice */
