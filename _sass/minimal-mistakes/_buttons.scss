@@ -15,7 +15,6 @@
   font-size: $type-size-6;
   font-weight: bold;
   text-align: center;
-  text-color: #fff;
   text-decoration: none;
   border-width: 0;
   border-radius: $border-radius;
@@ -45,6 +44,7 @@
   @each $buttoncolor, $color in $buttoncolors {
     &--#{$buttoncolor} {
       @include yiq-contrasted($color);
+	  @include text-color: #fff;
       @if ($buttoncolor == inverse) {
         border: 1px solid $border-color;
       }
