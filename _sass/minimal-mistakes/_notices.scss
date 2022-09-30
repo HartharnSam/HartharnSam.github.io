@@ -46,7 +46,7 @@
 
   a {
     color: $notice-color; 
-	text-color: #fff;
+    text-color: #fff;
     &:hover {
       color: mix(#000, $notice-color, 40%);
     }
