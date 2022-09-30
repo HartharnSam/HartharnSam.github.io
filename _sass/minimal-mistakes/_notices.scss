@@ -67,6 +67,7 @@
 
 .notice {
   @include notice($light-gray);
+  @include yiq-contrasted($color);
 }
 
 /* Primary notice */
