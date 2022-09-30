@@ -43,7 +43,7 @@
 
   @each $buttoncolor, $color in $buttoncolors {
     &--#{$buttoncolor} {
-      @include yiq-contrasted($color);
+      /*@include yiq-contrasted($color);*/
       text-color: #fff;
       @if ($buttoncolor == inverse) {
         border: 1px solid $border-color;
