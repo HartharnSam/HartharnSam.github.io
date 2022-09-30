@@ -45,8 +45,8 @@
   }
 
   a {
-    color: $notice-color; 
-    text-color: #fff;
+    color: #fff; 
+    @include yiq-contrasted($notice-color); 
     &:hover {
       color: mix(#000, $notice-color, 40%);
     }
