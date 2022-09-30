@@ -60,7 +60,7 @@ $code-background-color: #fafafa !default;
 $code-background-color-dark: $light-gray !default;
 $text-color: $dark-gray !default;
 $muted-text-color: mix(#fff, $text-color, 35%) !default;
-$border-color: $lighter-gray !default;
+$border-color: $light-gray !default;
 $form-background-color: $lighter-gray !default;
 $footer-background-color: $lighter-gray !default;
 
@@ -75,7 +75,7 @@ $active-color: mix(#fff, $primary-color, 80%) !default;
 /* YIQ color contrast */
 $yiq-contrasted-dark-default: #000; 
 $yiq-contrasted-light-default: #fff;
-$yiq-contrasted-threshold: 50;
+$yiq-contrasted-threshold: 150;
 $yiq-debug: false !default;
 
 /* brands */
