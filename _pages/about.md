@@ -9,6 +9,8 @@ header:
 
 [CV][1]{: .btn .btn--info .btn--large}
 
+<object data=[1] width="1000" height="1000" type='application/pdf'></object>
+
 ### Outreach
 Through my time at Bangor University, I became engaged in outreach events (both on the subject, and university level), mostly revolving around events targetted at Year 12 at the stage that students consider the next steps, at which point discussing the possibilities and opportunities of university study can be particularly valuable. I am also a [STEM Ambassador](https://www.stem.org.uk/).
 
