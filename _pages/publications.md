@@ -19,7 +19,7 @@ header:
 **Samuel G. Hartharn-Evans**, Magda Carr,  Marek Stastna, Peter A. Davies
 *Journal of Fluid Mechanics (2022)*
 [DOI](https://doi.org/10.1017/jfm.2021.1049){: .btn .btn--info} [Summary](https://link.growkudos.com/1raifiqj7r4){: .btn .btn--success} [PDF](/assets/documents/Hartharn-Evans2022.pdf){: .btn .btn--inverse}
-<div data-badge-popover="right" data-badge-type="donut" data-doi="https://doi.org/10.1017/jfm.2021.1049" class="altmetric-embed" style="background-color:##f8f9f9; border=1px"></div>
+<div data-badge-popover="right" data-badge-type="donut" data-doi="https://doi.org/10.1017/jfm.2021.1049" class="altmetric-embed" style="background-color:##ffffff; border=1px"></div>
 
 {% endcapture %}
 
@@ -32,7 +32,7 @@ header:
 **Samuel G. Hartharn-Evans**, Marek Stastna, Magda Carr
 *Environmental Fluid Mechanics (2022) - Special Issue in honour of Peter Davies*
 [DOI](https://doi.org/10.1007/s10652-022-09894-x){: .btn .btn--info} [Summary](https://link.growkudos.com/1evcgx5j9j4){: .btn .btn--success} [PDF](/assets/documents/Hartharn-Evans2022b.pdf){: .btn .btn--inverse}
-<div data-badge-popover="right" data-badge-type="donut" data-altimetric-id="136147810" class="altimetric-embed"></div>
+<div data-badge-popover="right" data-badge-type="donut" data-doi="https://doi.org/10.1007/s10652-022-09894-x" class="altmetric-embed"></div>
 {% endcapture %}
 
 <div class="notice">
