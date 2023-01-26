@@ -51,9 +51,9 @@ As the first part of my PhD, recently [published](https://doi.org/10.1017/jfm.20
 
 A further paper, [published](https://doi.org/10.1007/s10652-022-09894-x) in Environmental Fluid Mechanics investigates further the problem of varying stratifications on shoaling internal solitary waves, but focussing on slope angles that better represent the real-world ocean. In this scenario, ISWs of depression give wave to a series (train) of ISWs of elevation, or pulses, which can commonly be observed as cold pulses. Such "cold pulses" are well documented as a potential mechanism for improving survival of benthic ecosystems suffering from heat stress under a changing climate, and as such are an important mechanism for us to study further. In our paper, we investigated the transport of these pulses of fluid upslope, and identified a new process of pulse formation in the broadest stratification centred on the centre of the tank. 
 
-Below is an interactive summary figure of the paper, it shows how the breaker type (F=Fission, S = Surging, P = Plunging, C = Collapsing, IS = Surger with KH instability), depends upon internal wave steepness ( $A_w / L_w$ ) and slope (s). Click on any of the labelled points to see the corresponding video of that wave:
+Below is an interactive summary figure of the paper, it shows how the breaker type (F=Fission, S = Surging, P = Plunging, C = Collapsing, IS = Surger with KH instability), depends upon internal wave steepness ( Aw / Lw ) and slope (s). Click on any of the labelled points to see the corresponding video of that wave:
 
-<object data='/assets/documents/ThreeStratification_DomainPlots.pdf' width="1000" height="400" type='application/pdf'></object>
+<object data='/assets/documents/ThreeStratification_DomainPlots.pdf' width="1000" height="500" type='application/pdf'></object>
 
 ## Internal Waves in Ice Covered Waters
 <div style="width:350px; float: right; padding-left:25px">
