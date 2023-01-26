@@ -7,8 +7,7 @@ header:
   caption: "Increase in Sea Ice Melt season length in the Kara Sea."
 ---
 
-[CV][1]{: .btn .btn--info .btn--large}
-
+### Curriculum Vitae
 <object data='/assets/documents/CV.pdf' width="1000" height="1000" type='application/pdf'></object>
 
 ### Outreach
