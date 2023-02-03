@@ -8,7 +8,11 @@ window.cookieconsent.initialise({
     }
   },
   "type": "opt-in",
-     onInitialise: function (status) {
+  "content": {
+      "message": "This website uses cookies to ensure you get the best experience here.", 
+      "href": "https://hartharnsam.github.io/privacy"
+  },
+  onInitialise: function (status) {
     var type = this.options.type;
     var didConsent = this.hasConsented();
     if (type == 'opt-in' && didConsent) {
@@ -40,5 +44,4 @@ window.cookieconsent.initialise({
       loadGAonConsent();
     }
   }
-  
 });
