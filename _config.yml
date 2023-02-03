@@ -27,6 +27,7 @@ repository               : "hartharnsam/hartharnsam.github.id"  # GitHub usernam
 teaser                   : "/assets/images/teaser.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/bio-sam.jpg" #logo.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+after_footer_scripts     : - /assets/js/cookie-consent.js
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
