@@ -5,3 +5,5 @@ An oceanographer's portfolio built with the help of [minimal-mistakes](https://m
 
 TODO: 
 - Add in a page for climate reading list
+
+"https://ptc-it.de/enabling-cookie-consent-with-jekyll-minimal-mistakes/
