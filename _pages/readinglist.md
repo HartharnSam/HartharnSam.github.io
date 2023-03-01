@@ -1,7 +1,7 @@
 ---
-title: "Research"
+title: "Reading List"
 # layout: collection
-permalink: /research/
+permalink: /readinglist/
 # collection: research
 # entries_layout: grid
 header:
@@ -9,55 +9,17 @@ header:
   caption: "Laboratory setup for studing Internal Solitary Waves"
 ---
 
-My research focuses on understanding how the cryosphere and oceans interact in a variety of scales. My BSc and MSc dissertations both investigated how large-scale freshwater patterns could influence the transfer of heat from warm Atlantic water to waters at the surface (and subsequently ice). To see published work proceed to [publications](/publications). For short summaries of some of the work I am involved in read on. 
-
-With my PhD, I have turned to more of a process-based approach. In the first part I have investigated how the dynamics of shoaling internal solitary wave change in different stratification types. I hope to then apply this understanding of internal wave dynamics, instabilities and mixing, and experimental techniques to ice-ocean dynamics.
-
-In the first part of my PhD, I have investigated how the dynamics of shoaling internal solitary wave change in different stratification types. I hope to then apply this understanding of internal wave dynamics, instabilities and mixing, and experimental techniques to ice-ocean dynamics. To see my published work proceed to [publications](/publications). For short summaries of some of the research I have worked on, read on.  
-
-My PhD  Three research questions are being addressed during this project so far:
-
--          How stratification affects the behaviour of shoaling Internal Solitary Waves?
--          How stratification impacts boluses produced by fissioning Internal Solitary Waves?
--          How do internal solitary waves interact with sea ice in the Arctic Ocean?
-
-## Overview of Internal Solitary Waves
-Density interfaces between two fluids are able to support the propagation of waves. Just like the interface between air and water supports the waves we're used to seeing at the beach, internal waves can form on interfaces within the ocean, produced by vertical variations in temperature and salinity (and in turn, density). These waves are a crucial mechanism in the global cascade of energy from large scale inputs (tides and wind), to molecular scale output. 
-
-Internal Solitary Waves are a particular kind of these waves, where a balance of nonlinear steepening and wave dispersion produce waves with large amplitude. Similar to the Surface Solitary Waves first discovered by John Scott Russell, these internal solitary waves are able to travel large distances without significant change of form or magnitude, and do not interact when they come together. 
-
-### Laboratory Methods
-As studying internal waves in situ, particularly in the Arctic Ocean, is practically challenging, I study internal waves in the laboratory using a purpose built 7m long, 30cm deep flume at Newcastle University. The tank is initially filled with dense, salty water, before a layer of fresher (lighter) water is slowly added to the surface using an array of sponges to prevent mixing with the lower layer. At one end of the tank is a removable gate, and behind this a further volume of the lighter fluid is added to the surface, to produce a step in the pycnocline. On removal of the gate, an internal wave forms, and propagates along the tank:
-
-<div style="width:650px; float: center">
-    {% include video id="1cIrX9ARqjw" provider="youtube" %}
-</div>
-
-<div style="width:350px; float: left">
-    {% include video id="2FGGAnJFoJo" provider="youtube" %}
-</div>
-We visualise the flow using seeding particles illuminated by a vertical thin light sheet, and use Particle Image Velocimetry in [DigiFlow](http://www.dalzielresearch.com/digiflow/) to calculate synoptic velocity and vorticity fields. This method allows us to gain high spatial and temporal resolution to our observations, and really pick apart any dynamics we observe. 
-
-### Numerical Methods
-In addition to the laboratory, we have recently been using the SPINS numerical model [(Subrich et al., 2013)](https://doi.org/10.1002/fld.3788) to extend our experimental output further, and to gain a full suite of simultaneous measurements not available in the laboratory.
-
-## Shoaling Internal Solitary Waves 
-As the first part of my PhD, recently [published](https://doi.org/10.1017/jfm.2021.1049) in Journal of Fluid Mechanics, I investigated the effects of varying stratification type on the way in which internal solitary waves break when propagating over a smooth, linear slope. Previous work had identified a classification system analogue to the wave breaking classifications of surface waves, but our work identified that some dynamics could be suppressed in other stratification types, depending on the location of the vertical density gradient relative to the dynamics. This altered the previous classification diagram based on wave steepness, and topographic slope, and added another consideration of stratification. This work is summarised in this video:
-<div style="width:650px; float: center">
-    {% include video id="tFY4UQiwxl0" provider="youtube" %}
-</div>
-
-## Internal Waves in Ice Covered Waters
-<div style="width:350px; float: right">
-    {% include video id="t112jtM0jik" provider="youtube" %}
-</div>
-In the Arctic Ocean, these waves are much less energetic, but are particularly important in driving the circulation and distribution of water masses. With declines of sea ice, understanding how internal waves interact with sea ice, and how sea ice affects them is required to understand the Arctic’s future. Observing waves in situ is particularly difficult so my project uses laboratory experiments to investigate the interactions between sea ice and internal waves. Using floats to model sea ice, we visualise the float motion from above, alongside visualising the wave:
+## Climate Reading List
 
 
-## Freshwater in the Arctic Ocean
-My BSc, titled "What would be the global climatic implications of turning off Russian rivers flowing into the Arctic Ocean?" investigated the role of freshwater derived from 4 major siberian rivers in the Arctic Ocean stratifications, and the wider climate-scale implications of potential diversion of the freshwater source to provide water to the population centres of the USSR as part of the ["Sibaral" project](https://en.wikipedia.org/wiki/Northern_river_reversal). This involved a simple 1-dimensional water column model, where the freshwater content at the surface was adjusted at a level equivalent to removing this freshwater source. 
 
-This led on to my MSc research, titled "How does Siberian river outflow impact the onset and duration of sea ice formation and melt?". Focussing on the role that riverine freshwater plays in the formation and melt of sea ice in the Kara Sea, an important sea ice nursery, and receiver of large volumes of continental runoff, the research used EOF analysis on gridded satellite and reanalysis data to identify the spatio-temporal patterns in sea ice seasonality, and freshwater. 
+## Experimental Fluid Dynamics Reading List
+
+- [The Interaction Between Experiment and Theory in Fluid Dynamics](https://doi.org/10.1146/annurev.fl.06.010174.000245) _G. I. Taylor_ (1974): An interesting essay on how mathematical theory and fluids experimentation link.
+- [An Album of Fluid Motion](http://courses.washington.edu/me431/handouts/Album-Fluid-Motion-Van-Dyke.pdf) _Van Dyke_ : A photo album of classical fluid dynamics experiments and visualisations
+- [Confronting Grand Challenges in environmental fluid mechanics](https://doi.org/10.1103/PhysRevFluids.6.020501) _Dauxois et al._ (2021): An interesting article on applying fluid mechanics to world grand challenges, and the research needed to address these challenges
+- [Are We at Risk of Losing the Current Generation of Climate Researchers to Data Science?](https://doi.org/10.1029/2022AV000676) _Jain et al._ (2022) and [The Relevance of Theory for Contemporary Research in Atmospheres, Oceans, and Climate](https://doi.org/10.1029/2019AV000129) _Emanuel., K_ (2020) : Two thought provoking commentaries on the roles of theory and data in climate-related research (and beyond)
+- [Machine Learning for Fluid Dynamics](https://doi.org/10.1146/annurev-fluid-010719-060214) _Brunton et al._ (2019) : A well-written and easily readable review into the use of Machine Learning in Fluid Mechanics, going through in detail many of the main techniques. 
 
 {: .text-left}
 
