@@ -3,8 +3,8 @@ layout: single
 title: "About"
 permalink: /about/
 header:
-  image: /assets/images/SeaIceWarmingStripe.png
-  caption: "Increase in Sea Ice Melt season length in the Kara Sea."
+  image: /assets/images/sal.png
+  caption: "Passive tracer field for a shear flow in the cold water cabbeling regime"
 ---
 
 ### Curriculum Vitae
