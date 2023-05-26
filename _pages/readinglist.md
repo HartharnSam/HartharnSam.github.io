@@ -10,8 +10,25 @@ header:
 ---
 
 ## Climate Reading List
+### Reads
 
+- [We don't Have to Halt Climate Action to Fight Racism"](https://www.huffingtonpost.co.uk/entry/climate-crisis-racism-environmenal-justice_n_5ee072b9c5b6b9cbc7699c3d)
+- [Green New Deal Resolution](https://www.congress.gov/116/bills/hres109/BILLS-116hres109ih.pdf): A US View of a green future. 
+- [Drawdown Review](https://drawdown.org/sites/default/files/pdfs/TheDrawdownReview%E2%80%932020%E2%80%93Download.pdf)
+- The Climate Papers
+- Eunice Newton Foote - Circumstances affecting the Heat of the Sun's Rays: Early paper outlining the fundamental science behind Earth's warming 
 
+### Listens
+
+- Drilled Podcast Series 1
+- Mark Williams Anthropocene Talk
+- Kevin Anderson 
+- David Attenborough Netflix 
+
+### Look
+
+- Plane Shame
+- Simple Climate Experiments
 
 ## Experimental Fluid Dynamics Reading List
 
