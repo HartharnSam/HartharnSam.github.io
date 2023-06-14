@@ -1,7 +1,7 @@
 ---
-title: "Instabilities between ISWs and the bed"
+title: "Mode 1 Mode 2 Interactions"
 # layout: collection
-permalink: /research-BBL
+permalink: /research-wave-wave
 # collection: research
 # entries_layout: grid
 header:
