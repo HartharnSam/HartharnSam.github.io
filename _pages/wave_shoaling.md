@@ -9,7 +9,7 @@ header:
   caption: "Laboratory setup for studing Internal Solitary Waves"
 ---
 <div style="width:100%; float: center">
-    {% include video id=""2FGGAnJFoJo" provider="youtube" %}
+    {% include video id="2FGGAnJFoJo" provider="youtube" %}
 </div>
 
 Internal Solitary Waves are able to travel large distances without significant change of form or magnitude, and do not interact when they come together. However, in certain conditions, they can undergo breaking - such as when they propagate over a slope, which is known as shoaling. The processes that waves undergo under these scenarios are globally and locally important in the distribution of heat, nutrients and water masses. 
