@@ -29,15 +29,15 @@ Internal Solitary Waves are a particular kind of these waves, where a balance of
 ### Laboratory Methods
 As studying internal waves in situ, particularly in the Arctic Ocean, is practically challenging, I study internal waves in the laboratory using a purpose built 7m long, 30cm deep flume at Newcastle University. The tank is initially filled with dense, salty water, before a layer of fresher (lighter) water is slowly added to the surface using an array of sponges to prevent mixing with the lower layer. At one end of the tank is a removable gate, and behind this a further volume of the lighter fluid is added to the surface, to produce a step in the pycnocline. On removal of the gate, an internal wave forms, and propagates along the tank:
 
-<div style="width:650px; float: center">
+<div style="width:100%; float: center">
     {% include video id="1cIrX9ARqjw" provider="youtube" %}
 </div>
 
-<div style="width:350px; float: left; padding-right:25px">
+We visualise the flow using seeding particles illuminated by a vertical thin light sheet, and use Particle Image Velocimetry in [DigiFlow](http://www.dalzielresearch.com/digiflow/) to calculate synoptic velocity and vorticity fields. This method allows us to gain high spatial and temporal resolution to our observations, and really pick apart any dynamics we observe. 
+
+<div style="width:40%; float: left; padding-right:25px">
     {% include video id="2FGGAnJFoJo" provider="youtube" %}
 </div>
-
-We visualise the flow using seeding particles illuminated by a vertical thin light sheet, and use Particle Image Velocimetry in [DigiFlow](http://www.dalzielresearch.com/digiflow/) to calculate synoptic velocity and vorticity fields. This method allows us to gain high spatial and temporal resolution to our observations, and really pick apart any dynamics we observe. 
 
 ### Numerical Methods
 In addition to the laboratory, we use the pseudo-spectral Navier-Stokes solver, SPINS (available [here](https://git.uwaterloo.ca/SPINS/SPINS_main)) to extend our experimental output further, and to gain a full suite of simultaneous measurements not available in the laboratory. The model was developed at the University of Waterloo by [(Subrich et al., 2013)](https://doi.org/10.1002/fld.3788), and as part of my project I spent a 6 week research placement in Waterloo to carry out further work with SPINS. 
@@ -45,7 +45,7 @@ In addition to the laboratory, we use the pseudo-spectral Navier-Stokes solver, 
 
 ## Shoaling Internal Solitary Waves 
 As the first part of my PhD, recently [published](https://doi.org/10.1017/jfm.2021.1049) in Journal of Fluid Mechanics, I investigated the effects of varying stratification type on the way in which internal solitary waves break when propagating over a smooth, linear slope. Previous work had identified a classification system analogue to the wave breaking classifications of surface waves, but our work identified that some dynamics could be suppressed in other stratification types, depending on the location of the vertical density gradient relative to the dynamics. This altered the previous classification diagram based on wave steepness, and topographic slope, and added another consideration of stratification. This work is summarised in this video:
-<div style="width:650px; float: center">
+<div style="width:100%; float: center">
     {% include video id="tFY4UQiwxl0" provider="youtube" %}
 </div>
 
@@ -56,7 +56,7 @@ Below is an interactive summary figure of the paper, it shows how the breaker ty
 <object data='/assets/documents/ThreeStratification_DomainPlots.pdf' width="1000" height="500" type='application/pdf'></object>
 
 ## Internal Waves in Ice Covered Waters
-<div style="width:350px; float: right; padding-left:25px">
+<div style="width:40%; float: right; padding-left:25px">
     {% include video id="t112jtM0jik" provider="youtube" %}
 </div>
 In the Arctic Ocean, these waves are much less energetic, but are particularly important in driving the circulation and distribution of water masses. With declines of sea ice, understanding how internal waves interact with sea ice, and how sea ice affects them is required to understand the Arctic’s future. Observing waves in situ is particularly difficult so my project uses laboratory experiments to investigate the interactions between sea ice and internal waves. Using floats to model sea ice, we visualise the float motion from above, alongside visualising the wave:
