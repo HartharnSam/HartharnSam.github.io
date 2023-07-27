@@ -12,21 +12,22 @@ header:
     {% include video id="tXjhtNnY8JY" provider="youtube" %}
 </div>
 
-Internal Solitary Waves are able to travel large distances without significant change of form or magnitude, and do not interact when they come together. However, in certain conditions, they can undergo breaking - such as when they propagate over a slope, which is known as shoaling. The processes that waves undergo under these scenarios are globally and locally important in the distribution of heat, nutrients and water masses. 
+The Arctic Ocean is a unique oceanographic environment for a few key reasons:
 
-Depending on the steepness of the slope, and the "wave steepness" (it's amplitude / wavelength) waves will undergo one of four different breaking processes. But we found that the type of stratification also impacted this, preventing certain breaking types from forming. 
+- Unlike most oceans around the world, the Arctic Ocean's heat is contained at intermediate depth, as warm but salty waters are overlaid by cold but fresh waters. The heat remaining at depth is crucial for the presence of sea ice.
+- Internal Tides are unable to propagate freely at high latitudes, their nonlinear counterparts become particularly important
+- The presence of sea ice changes the transfers of heat and momentum between the ocean and atmosphere, including the generation and propagation of internal waves. Yet, this sea ice is rapidly declining, and a key question for us is what those changes will do to the Arctic Ocean. 
 
-## Wave Surging
-This process happens for waves with low wave steepness, you can see this process happening in the lab with a small pulse of fluid surging upslope ahead of the wave:
+For these reasons, understanding the processes around internal waves and ice are important. Observing this region directly is difficult and expensive, remote sensing provides us with some insight, but we use idealised experiments to understand the processes better. Carr et al. (2019) conducted experiments with real ice interacting with Internal Solitary Waves (published in [Geophysical Research Letters](https://doi.org/10.1029/2019GL084710)). These have been followed up by further experiments, currently under review. 
 
-## Wave Collapsing
-This process happens for waves with medium wave steepness over medium slopes. Here, a feature known as a separation bubble forms at the bed as the wave passes, and then an associated vortex causes the pycnocline to be pulled back on itself - hence the wave collapses:
-<div style="width:650px; float: center">
-	{% include video id="2FGGAnJFoJo" provider="youtube" %}
-</div>
+## The Motion of Sea Ice under the influence of Internal Solitary Waves
 
-This work consisted of both laboratory experiments, and the SPINS numerical model [(Subrich et al., 2013)](https://doi.org/10.1002/fld.3788) to extend our experimental output further, and to gain a full suite of simultaneous measurements not available in the laboratory.
-## anything on mode 2 here?
-This work was [published](https://doi.org/10.1017/jfm.2021.1049) in Journal of Fluid Mechanics.
+Ice moves under the influence of internal solitary waves, 
+
+
+## Flow interactions
+
+
+
 
 {: .text-left}
