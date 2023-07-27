@@ -29,7 +29,7 @@ Floating bodies representing ice move under the influence of internal solitary w
 
 For a given wave, the larger the float, the slower the float moves, and for a given float, the larger the wave the faster the float moves. The intuitive explaination for this is the relative masses (and therefore inertia) of the float, however it turns out this has more to do with the waveform. Either side of a wave is still water, and when a float is much longer than a wavelength, the majority of the float is influenced by the still water, so it's velocity decreases. 
 
-![schematic of float motion]{{ site.url }}{{ site.baseurl }}/assets/images/floathistogram.png)
+![schematic of float motion]({{ site.url }}{{ site.baseurl }}/assets/images/floathistogram.png)
 
 ## Flow interactions
 Depending on ice and wave properties, a variety of deformation of the wave-induced flow by the ice have been identified:
