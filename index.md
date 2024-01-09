@@ -13,7 +13,7 @@ header:
   caption: "Time series of the passage of an Internal Solitary Wave"
 excerpt: "Studying the physical ocean processes through laboratory experiments and lab-scale simulations."
 intro: 
-  - excerpt: "I am a PhD Researcher at Newcastle University's School of Mathematics, Statistics and Physics, funded as part of the [ONE Planet Doctoral Training Programme](https://research.ncl.ac.uk/one-planet/ourprogramme/). I have an interest in understanding the physical processes in the ocean, and how they interact with different elements of the earth system. In particular, I research the processes surrounding the sea ice in the rapidly changing Arctic Ocean, investigating the interactions between sea ice and internal solitary waves in the laboratory. Previously I studied for a BSc in Marine Biology and Oceanography, and an MSc in Physical Oceanography at Bangor University, and I maintain an interest in multidisciplinary applications of physical oceanography." 
+  - excerpt: "I am a researcher at Northumbria University in the Department of Geography and Environmental Sciences. I have an interest in understanding the physical processes in the ocean, and how they interact with different elements of the earth system. In particular, I research the processes surrounding the ice in the polar oceans, investigating the interactions between ice shelves ice and buoyant meltwater plumes in the laboratory (and laboratory scale numerical modelling). Previously I studied for a BSc in Marine Biology and Oceanography, an MSc in Physical Oceanography at Bangor University, and PhD in Applied Mathematics at Newcastle University. I maintain an interest in multidisciplinary applications of physical oceanography, and how these interact with the fluid dynamics."
 
 feature_row:
   - image_path: /assets/images/ResearchInterests.jpg
@@ -35,9 +35,8 @@ feature_row4:
   - image_path: /assets/images/UKPN.jpg
     alt: "UK Polar Network Logo"
     title: "Other Interests"
-    excerpt: 'I am involved in demonstrating within my academic school, and am also engaged in outreach as part of the ONE Planet Outreach project. As ONE Planet Cohort 1 Student Rep, I am engaged with many other aspects of the DTP. I am currently Treasurer of the UK Polar Network ([UKPN](https://polarnetwork.org/)), where I aim to ensure that the network can help support other Polar Early Career Researchers.
+    excerpt: 'I am currently the Antarctic President of the UK Polar Network ([UKPN](https://polarnetwork.org/)), organising workshops, education and outreach opportunities for early career polar researchers, and providing networking opportunities that supports the next generation of polar researchers. I have experience demonstrating, and have outreach experience both delivering sessions and organising larger projects as part of the ONE Planet Outreach project. In my spare time, I enjoy cycling, swimming, and am a keen trombone player, playing with a local 2nd section brass band, Felling Band, and acting as charity trustee of the [UniBrass Foundation](https://www.unibrass.co.uk) to support university level brass banding.'
 
-In my spare time, I enjoy cycling, swimming, and am a keen trombone player, playing with a local 2nd section brass band, Felling Band, and acting as charity trustee of the [UniBrass Foundation](https://www.unibrass.co.uk) to support university level brass banding.'
 ---
 
 {% include feature_row id="intro" type="center" %}
@@ -52,8 +51,8 @@ Watch a recent presentation to find out more about our research:
 </div>
 
 ---
-### Supervisors
-- [Magda Carr](https://www.ncl.ac.uk/maths-physics/people/profile/magdacarr.html), School of Mathematics, Statistics and Physics, Newcastle University, UK
-- [Andrew Willmott](https://www.ncl.ac.uk/maths-physics/people/profile/andrewwillmott.html), School of Mathematics, Statistics and Physics, Newcastle University, UK
-- [Adrian Jenkins](https://www.northumbria.ac.uk/about-us/our-staff/j/adrian-jenkins/), Department of Geography and Environmental Sciences, Northumbria University, UK
+%### Supervisors
+%- [Magda Carr](https://www.ncl.ac.uk/maths-physics/people/profile/magdacarr.html), School of Mathematics, Statistics and Physics, Newcastle University, UK
+%- [Andrew Willmott](https://www.ncl.ac.uk/maths-physics/people/profile/andrewwillmott.html), School of Mathematics, Statistics and Physics, Newcastle University, UK
+%- [Adrian Jenkins](https://www.northumbria.ac.uk/about-us/our-staff/j/adrian-jenkins/), Department of Geography and Environmental Sciences, Northumbria University, UK
 

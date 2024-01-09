@@ -12,12 +12,12 @@ gallery:
     - url : https://scholar.google.com/citations?user=naRfL8cAAAAJ&hl=en
       image_path : https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/240px-Google_Scholar_logo.svg.png 
       alt : "Google Scholar icon"
-    - url : https://scholar.google.com/citations?user=naRfL8cAAAAJ&hl=en
-      image_path : https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/240px-Google_Scholar_logo.svg.png
-      alt : "Google Scholar icon"
+    - url : https://www.researchgate.net/profile/Sam_Hartharn-Evans
+      image_path : https://upload.wikimedia.org/wikipedia/commons/a/aa/ResearchGate_Logo.png
+      alt : "ResearchGate icon"
 
 ---
-{% include gallery layout="third" height=100px %}
+{% include gallery layout="third" height=60px %}
 
 
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script> <!--Altmetric embed header (can go anywhere)  -->
