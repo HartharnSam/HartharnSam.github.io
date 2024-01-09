@@ -10,8 +10,7 @@ gallery:
       image_path: https://orcid.org/sites/default/files/images/orcid_16x16.png
       alt: "ORCID iD icon"
 ---
-
-{% raw%}{% include gallery %}{% endraw %}
+{% include gallery layout="half" %}
 
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script> <!--Altmetric embed header (can go anywhere)  -->
 
