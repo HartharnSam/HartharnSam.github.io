@@ -11,8 +11,7 @@ header:
 <object data='/assets/documents/CV.pdf' width="1000" height="1000" type='application/pdf'></object>
 
 ### Outreach
-![outreach](/assets/images/outreach.jpeg){: .align-left style="width: 10%;"}
-
+![outreach](/assets/images/outreach.jpeg){: .align-right style="width: 30%;"}
 Through my time at Bangor University, I became engaged in outreach events (both on the subject, and university level), mostly revolving around events targetted at Year 12 at the stage that students consider the next steps, at which point discussing the possibilities and opportunities of university study can be particularly valuable. I was involved in the highly impactful ONE Planet Outreach project as one of the committee members. The project focused on providing off-curriculum and transdisciplinary environmental science education on topics related to climate change and ecological and environmental breakdown, and raising awareness for and promote science career paths. Events so far have included:
 - Discover COP School Visit : A day of workshops for Y10-12 students exploring extreme weather events, and later negotiating to prioritise COP 26 Goals as the countries effected by those events 
 - Discover COP Science Fair : A day of interactive exhibitions and chance to interact with PGR scientists to explore the science behind COP 26 at the Great North Museum: Hancock
