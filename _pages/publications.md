@@ -7,15 +7,16 @@ header:
   caption: "Increase in Sea Ice Melt season length in the Kara Sea."
 gallery:
     - url: https://orcid.org/0000-0003-4643-8932
-      image_path: https://orcid.org/sites/default/files/images/orcid_16x16.png
+      image_path: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ORCID_iD.svg/240px-ORCID_iD.svg.png
       alt: "ORCID iD icon"
+    - url : https://scholar.google.com/citations?user=naRfL8cAAAAJ&hl=en
+      image_path : https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/240px-Google_Scholar_logo.svg.png" 
+      alt : "Google Scholar icon"
 ---
 {% include gallery layout="half" %}
 
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script> <!--Altmetric embed header (can go anywhere)  -->
 
-<div itemscope itemtype="https://schema.org/Person"> <a itemprop="sameAs" content="ORCiD - 0000-0003-4643-8932" href="https://orcid.org/0000-0003-4643-8932" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:3em;margin-right:.5em;" alt="ORCID iD icon"></a>  </div> 
-<a href="https://scholar.google.com/citations?user=naRfL8cAAAAJ&hl=en"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/240px-Google_Scholar_logo.svg.png" style="width:3em;margin-right:.5em;" alt="Google Scholar icon"></a>
 
 
 ### Peer Reviewed Publications
