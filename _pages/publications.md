@@ -10,8 +10,12 @@ gallery:
       image_path: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ORCID_iD.svg/240px-ORCID_iD.svg.png
       alt: "ORCID iD icon"
     - url : https://scholar.google.com/citations?user=naRfL8cAAAAJ&hl=en
-      image_path : https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/240px-Google_Scholar_logo.svg.png" 
+      image_path : https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/240px-Google_Scholar_logo.svg.png 
       alt : "Google Scholar icon"
+    - url : https://scholar.google.com/citations?user=naRfL8cAAAAJ&hl=en
+      image_path : https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/240px-Google_Scholar_logo.svg.png
+      alt : "Google Scholar icon"
+
 ---
 {% include gallery layout="half" %}
 
