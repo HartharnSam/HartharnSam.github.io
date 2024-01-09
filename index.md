@@ -51,8 +51,4 @@ Watch a recent presentation to find out more about our research:
 </div>
 
 ---
-%### Supervisors
-%- [Magda Carr](https://www.ncl.ac.uk/maths-physics/people/profile/magdacarr.html), School of Mathematics, Statistics and Physics, Newcastle University, UK
-%- [Andrew Willmott](https://www.ncl.ac.uk/maths-physics/people/profile/andrewwillmott.html), School of Mathematics, Statistics and Physics, Newcastle University, UK
-%- [Adrian Jenkins](https://www.northumbria.ac.uk/about-us/our-staff/j/adrian-jenkins/), Department of Geography and Environmental Sciences, Northumbria University, UK
 
