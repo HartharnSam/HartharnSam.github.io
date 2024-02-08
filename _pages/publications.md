@@ -7,7 +7,7 @@ header:
   caption: "Increase in Sea Ice Melt season length in the Kara Sea."
 gallery:
     - url: https://orcid.org/0000-0003-4643-8932
-      image_path: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ORCID_iD.svg/240px-ORCID_iD.svg.png
+      image_path: https://upload.wikimedia.org/wikipedia/commons/e/e6/ORCID_iD_32x32.svg
       alt: "ORCID iD icon"
     - url : https://scholar.google.com/citations?user=naRfL8cAAAAJ&hl=en
       image_path : https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/240px-Google_Scholar_logo.svg.png 
@@ -25,6 +25,18 @@ gallery:
 
 
 ### Peer Reviewed Publications
+{% capture notice-text %}
+#### A new approach to understanding fluid mixing in process-study models of stratified fluids <img src="/assets/images/Open_Access_logo_white.png" style="height:1em;margin-right:.5em;" alt="Open Acces">
+**Samuel G. Hartharn-Evans**, Marek Stastna
+*Nonlinear Processes in Geophysics*
+[DOI](https://doi.org/10.5194/npg-31-61-2024, 2024){: .btn .btn--info} [PDF](/assets/documents/Hartharn-Evans2024b.pdf){: .btn .btn--inverse}
+<div data-badge-popover="right" data-badge-type="donut" data-doi="https://doi.org/10.5194/npg-31-61-2024" class="altmetric-embed" style="background-color:#ffffff; border=1px"></div> 
+
+{% endcapture %}
+
+<div class="notice">
+    {{ notice-text | markdownify }}
+</div>
 
 {% capture notice-text %}
 #### Stratification Effects on Shoaling Internal Solitary Waves <img src="/assets/images/Open_Access_logo_white.png" style="height:1em;margin-right:.5em;" alt="Open Access">
