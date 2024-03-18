@@ -5,17 +5,11 @@ permalink: /publications/
 header:
   image: /assets/images/SeaIceWarmingStripe.png
   caption: "Increase in Sea Ice Melt season length in the Kara Sea."
-gallery:
-    - url: https://orcid.org/0000-0003-4643-8932
-      image_path: https://upload.wikimedia.org/wikipedia/commons/e/e6/ORCID_iD_32x32.svg
-      alt: "ORCID iD icon"
-    - url : https://scholar.google.com/citations?user=naRfL8cAAAAJ&hl=en
-      image_path : https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/240px-Google_Scholar_logo.svg.png 
-      alt : "Google Scholar icon"
-    - url : https://www.researchgate.net/profile/Sam_Hartharn-Evans
-      image_path : https://upload.wikimedia.org/wikipedia/commons/a/aa/ResearchGate_Logo.png
-      alt : "ResearchGate icon"
-
+intro: 
+  - excerpt: "Below are listed my publications. For further details visit my:
+		ORCiD Profile - [orcid.org/0000-0003-4643-8932](https://orcid.org/0000-0003-4643-8932)
+		Google Scholar Profile - [Google Scholar](https://scholar.google.com/citations?user=naRfL8cAAAAJ&hl=en)
+		ResearchGate - [researchgate.net/profile/Sam_Hartharn-Evans](https://www.researchgate.net/profile/Sam_Hartharn-Evans)"
 ---
 {% include gallery layout="third" height=60px %}
 
