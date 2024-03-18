@@ -36,9 +36,10 @@ feature_row4:
     alt: "Photo of Sam running an outreach activity"
     excerpt: 'I am currently the Antarctic President of the UK Polar Network ([UKPN](https://polarnetwork.org/)), organising training, networking, education and outreach opportunities to support the next generation of early career polar researchers. I have outreach experience delivering sessions and organising larger projects as part of the ONE Planet Outreach project. In my spare time, I am a keen trombone player, playing with a local 2nd section brass band, Felling Band, and acting as charity trustee of the [UniBrass Foundation](https://www.unibrass.co.uk) to support university level brass banding.'
     title: "About Me"
-	url: /about
-	btn_label: "Read More"
-	btn_class: "btn--primary"
+    url: /about
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+
 ---
 
 {% include feature_row id="intro" type="center" %}
