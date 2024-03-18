@@ -7,9 +7,6 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/ShoalingWaveTS.webp
-  actions:
-    - label: "Research"
-      url: "/research"
   caption: "Time series of the passage of an Internal Solitary Wave"
 excerpt: "Studying the physical ocean processes through laboratory experiments and lab-scale simulations."
 intro: 
