@@ -5,40 +5,39 @@ permalink: /publications/
 header:
   image: /assets/images/SeaIceWarmingStripe.png
   caption: "Increase in Sea Ice Melt season length in the Kara Sea."
-intro: 
-  - excerpt: "Below are listed my publications. For further details visit my:
-		ORCiD Profile - [orcid.org/0000-0003-4643-8932](https://orcid.org/0000-0003-4643-8932)
-		Google Scholar Profile - [Google Scholar](https://scholar.google.com/citations?user=naRfL8cAAAAJ&hl=en)
-		ResearchGate - [researchgate.net/profile/Sam_Hartharn-Evans](https://www.researchgate.net/profile/Sam_Hartharn-Evans)"
 ---
 
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script> <!--Altmetric embed header (can go anywhere)  -->
 
+Below my publications are listed. For further details visit my: 
+ORCiD Profile - [orcid.org/0000-0003-4643-8932](https://orcid.org/0000-0003-4643-8932)
+Google Scholar Profile - [Google Scholar](https://scholar.google.com/citations?user=naRfL8cAAAAJ&hl=en)
+ResearchGate - [researchgate.net/profile/Sam_Hartharn-Evans](https://www.researchgate.net/profile/Sam_Hartharn-Evans)"
+{: .text-center}
+		
 ### Peer Reviewed Publications
 {% capture notice-text %}
 #### A new approach to understanding fluid mixing in process-study models of stratified fluids <img src="/assets/images/Open_Access_logo_white.png" style="height:1em;margin-right:.5em;" alt="Open Acces">
 **Samuel G. Hartharn-Evans**, Marek Stastna
 *Nonlinear Processes in Geophysics*
 [DOI](https://doi.org/10.5194/npg-31-61-2024, 2024){: .btn .btn--info} [PDF](/assets/documents/Hartharn-Evans2024b.pdf){: .btn .btn--inverse}
-<div data-badge-popover="right" data-badge-type="donut" data-doi="https://doi.org/10.5194/npg-31-61-2024" class="altmetric-embed" style="background-color:#ffffff; border=1px"></div> 
+<div data-badge-popover="right" data-badge-type="donut" data-doi="https://doi.org/10.5194/npg-31-61-2024" class="altmetric-embed"></div> 
 
 {% endcapture %}
-
 <div class="notice">
     {{ notice-text | markdownify }}
 </div>
 
 {% capture notice-text %}
-#### Stratification Effects on Shoaling Internal Solitary Waves <img src="/assets/images/Open_Access_logo_white.png" style="height:1em;margin-right:.5em;" alt="Open Access">
-**Samuel G. Hartharn-Evans**, Magda Carr,  Marek Stastna, Peter A. Davies
-*Journal of Fluid Mechanics (2022)*
-[DOI](https://doi.org/10.1017/jfm.2021.1049){: .btn .btn--info} [Summary](https://link.growkudos.com/1raifiqj7r4){: .btn .btn--success} [PDF](/assets/documents/Hartharn-Evans2022.pdf){: .btn .btn--inverse}
-<div data-badge-popover="right" data-badge-type="donut" data-doi="https://doi.org/10.1017/jfm.2021.1049" class="altmetric-embed" style="background-color:##ffffff; border=1px"></div>
-
+#### Interactions Between Internal Solitary Waves and Sea Ice <img src="/assets/images/Open_Access_logo_white.png" style="height:1em;margin-right:.5em;" alt="Open Access">
+**Samuel G. Hartharn-Evans**, Magda Carr, Marek Stastna
+*Journal of Geophysical Research: Oceans (2024)*
+[DOI](https://doi.org/10.1029/2023JC020175){: .btn .btn--info} [PDF](/assets/documents/Hartharn-Evans2024.pdf){: .btn .btn--inverse}
+<div data-badge-popover="right" data-badge-type="donut" data-doi="https://doi.org/10.1029/2023JC020175" class="altmetric-embed"></div> 
 {% endcapture %}
 
 <div class="notice">
-  {{ notice-text | markdownify }}
+    {{ notice-text | markdownify }}
 </div>
 
 {% capture notice-text %}
@@ -47,22 +46,22 @@ intro:
 *Environmental Fluid Mechanics (2022) - Special Issue in honour of Peter Davies*
 [DOI](https://doi.org/10.1007/s10652-022-09894-x){: .btn .btn--info} [Summary](https://link.growkudos.com/1evcgx5j9j4){: .btn .btn--success} [PDF](/assets/documents/Hartharn-Evans2022b.pdf){: .btn .btn--inverse}
 <div data-badge-popover="right" data-badge-type="donut" data-doi="https://doi.org/10.1007/s10652-022-09894-x" class="altmetric-embed"></div>
-{% endcapture %}
 
+{% endcapture %}
 <div class="notice">
   {{ notice-text | markdownify }}
 </div>
-	
 
 {% capture notice-text %}
-#### Interactions Between Internal Solitary Waves and Sea Ice <img src="/assets/images/Open_Access_logo_white.png" style="height:1em;margin-right:.5em;" alt="Open Access">
-**Samuel G. Hartharn-Evans**, Magda Carr, Marek Stastna
-*Journal of Geophysical Research: Oceans (2024)*
-[DOI](https://doi.org/10.1029/2023JC020175){: .btn .btn--info} [PDF](/assets/documents/Hartharn-Evans2024.pdf){: .btn .btn--inverse}
-{% endcapture %}
+#### Stratification Effects on Shoaling Internal Solitary Waves <img src="/assets/images/Open_Access_logo_white.png" style="height:1em;margin-right:.5em;" alt="Open Access">
+**Samuel G. Hartharn-Evans**, Magda Carr,  Marek Stastna, Peter A. Davies
+*Journal of Fluid Mechanics (2022)*
+[DOI](https://doi.org/10.1017/jfm.2021.1049){: .btn .btn--info} [Summary](https://link.growkudos.com/1raifiqj7r4){: .btn .btn--success} [PDF](/assets/documents/Hartharn-Evans2022.pdf){: .btn .btn--inverse}
+<div data-badge-popover="right" data-badge-type="donut" data-doi="https://doi.org/10.1017/jfm.2021.1049" class="altmetric-embed"</div>
 
+{% endcapture %}
 <div class="notice">
-    {{ notice-text | markdownify }}
+  {{ notice-text | markdownify }}
 </div>
 
 ### Submitted
