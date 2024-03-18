@@ -29,9 +29,15 @@ We visualise the flow using seeding particles illuminated by a vertical thin lig
     {% include video id="2FGGAnJFoJo" provider="youtube" %}
 </div>
 
+As part of the laboratory experiments, I wrote a MATLAB package for the processing of DigiFlow and other laboratory data:
+[Laboratory Code](https://github.com/HartharnSam/ISWLabToolkit){: .btn .btn--primary}
+
 ### Numerical Methods
 In addition to the laboratory, we use the pseudo-spectral Navier-Stokes solver, SPINS (available [here](https://git.uwaterloo.ca/SPINS/SPINS_main)) to extend our experimental output further, and to gain a full suite of simultaneous measurements not available in the laboratory. The model was developed at the University of Waterloo by [(Subrich et al., 2013)](https://doi.org/10.1002/fld.3788), and as part of my project I spent a 6 week research placement in Waterloo to carry out further work with SPINS to produce a new diagnostic tool for understanding mixing in numerical models of stratified flows, which can be found via [GitHub](https://github.com/HartharnSam/SPINS_usp). 
 
+As part of the numerical work, I built on previous work to improve offline analysis of mixing and energetics, which can be found and documented at two GitHub repositories:
+[SPINS_energetics](https://github.com/HartharnSam/SPINS_energetics){: .btn .btn--primary}
+[SPINS_USP](https://github.com/HartharnSam/SPINS_usp){: .btn .btn--primary}
 
 ## Shoaling Internal Solitary Waves 
 As the first part of my PhD, recently [published](https://doi.org/10.1017/jfm.2021.1049) in Journal of Fluid Mechanics, I investigated the effects of varying stratification type on the way in which internal solitary waves break when propagating over a smooth, linear slope. Previous work had identified a classification system analogue to the wave breaking classifications of surface waves, but our work identified that some dynamics could be suppressed in other stratification types, depending on the location of the vertical density gradient relative to the dynamics. This altered the previous classification diagram based on wave steepness, and topographic slope, and added another consideration of stratification. This work is summarised in this video:
@@ -51,10 +57,8 @@ Below is an interactive summary figure of the paper, it shows how the breaker ty
 </div>
 In the Arctic Ocean, these waves are much less energetic, but are particularly important in driving the circulation and distribution of water masses. With declines of sea ice, understanding how internal waves interact with sea ice, and how sea ice affects them is required to understand the Arctic’s future. Observing waves in situ is particularly difficult so my project uses laboratory experiments to investigate the interactions between sea ice and internal waves. Using floats to model sea ice, we visualise the float motion from above, alongside visualising the wave:
 
-## Freshwater in the Arctic Ocean
-My BSc, titled "What would be the global climatic implications of turning off Russian rivers flowing into the Arctic Ocean?" investigated the role of freshwater derived from 4 major siberian rivers in the Arctic Ocean stratifications, and the wider climate-scale implications of potential diversion of the freshwater source to provide water to the population centres of the USSR as part of the ["Sibaral" project](https://en.wikipedia.org/wiki/Northern_river_reversal). This involved a simple 1-dimensional water column model, where the freshwater content at the surface was adjusted at a level equivalent to removing this freshwater source. 
 
-This led on to my MSc research, titled "How does Siberian river outflow impact the onset and duration of sea ice formation and melt?". Focussing on the role that riverine freshwater plays in the formation and melt of sea ice in the Kara Sea, an important sea ice nursery, and receiver of large volumes of continental runoff, the research used EOF analysis on gridded satellite and reanalysis data to identify the spatio-temporal patterns in sea ice seasonality, and freshwater. 
+To analyse the motion of floats, we built a float motion model, which can be found here:
+[ISW Float Motion Model](https://github.com/HartharnSam/ISW_FloatMotionModel){: .btn .btn--primary}
 
 {: .text-left}
-

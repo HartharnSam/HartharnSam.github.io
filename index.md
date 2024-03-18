@@ -10,33 +10,35 @@ header:
   caption: "Time series of the passage of an Internal Solitary Wave"
 excerpt: "Studying the physical ocean processes through laboratory experiments and lab-scale simulations."
 intro: 
-  - excerpt: "I am a researcher at Northumbria University in the Department of Geography and Environmental Sciences. I have an interest in understanding the physical processes in the ocean, and how they interact with different elements of the earth system. In particular, I research the processes surrounding the ice in the polar oceans, investigating the interactions between ice shelves ice and buoyant meltwater plumes in the laboratory (and laboratory scale numerical modelling). Previously I studied for a BSc in Marine Biology and Oceanography, an MSc in Physical Oceanography at Bangor University, and PhD in Applied Mathematics at Newcastle University. I maintain an interest in multidisciplinary applications of physical oceanography, and how these interact with the fluid dynamics."
+  - excerpt: "I am a researcher at Northumbria University in the Department of Geography and Environmental Sciences. I have an interest in understanding the physical processes in the ocean, and how they interact with different elements of the earth system. In particular, I research the processes surrounding the ice in the polar oceans, investigating the interactions between ice shelves ice and buoyant meltwater plumes in the laboratory (and laboratory scale numerical modelling)."
 
 feature_row:
   - image_path: /assets/images/ResearchInterests.jpg
     alt: "Photo of laboratory setup"
     image_size: 400em
     title: "Research Interests"
-    excerpt: 'My research focuses on understanding how the cryosphere and oceans interact in a variety of scales. My BSc and MSc dissertations both investigated how large-scale freshwater patterns could influence the transfer of heat from warm Atlantic water to waters at the surface (and subsequently ice). My PhD Project, titled “internal solitary waves in ice-covered waters”, turns to more of a process-based approach. This project investigates how oceanic internal solitary waves (which are waves travel along density interfaces within the water column, and act in a “solitary” manner) interacts with sea ice. This research is primarily laboratory based, using a 7m long flume tank in our laboratory, along with numerical simulations.'
+    excerpt: 'My research focuses on understanding how the cryosphere and oceans interact in a variety of scales. Currently my focus is on understanding ice shelf ocean interactions by conducting experiments in a laboratory setting. My PhD Project, "Experimental and Numerical Simulations of Boundary Effects on Internal Solitary Waves” employed a process-based approach. This project investigates how oceanic internal solitary waves (which are waves travel along density interfaces within the water column, and act in a “solitary” manner) interacts with sea ice. This was primarily a laboratory based study, utilising a 7m long flume tank in our laboratory, complelemeted  with numerical simulations. Within all of these studies, diapycnal mixing of fluids is an important process to understand, and I have worked on tools to better understand this.'
     url: /research
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row1:
   - image_path: /assets/images/publications2.png
-    alt: "Graphical abstract of first paper"
+    alt: "Array of figures from recent publications"
     image_size: 450em
     title: "Publications"
-    excerpt: "See my recent publications, and conferences where I have recently presented, or am soon to present at"
+    excerpt: "See my recent publications, useful GitHub packages, and talks"
     url: /publications
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row4:
   - image_path: /assets/images/outreach.jpeg
     image_size: 250em
-    alt: "UK Polar Network Logo"
-    title: "Other Interests"
-    excerpt: 'I am currently the Antarctic President of the UK Polar Network ([UKPN](https://polarnetwork.org/)), organising workshops, education and outreach opportunities for early career polar researchers, and providing networking opportunities that supports the next generation of polar researchers. I have experience demonstrating, and have outreach experience both delivering sessions and organising larger projects as part of the ONE Planet Outreach project. In my spare time, I enjoy cycling, swimming, and am a keen trombone player, playing with a local 2nd section brass band, Felling Band, and acting as charity trustee of the [UniBrass Foundation](https://www.unibrass.co.uk) to support university level brass banding.'
-
+    alt: "Photo of Sam running an outreach activity"
+    excerpt: 'I am currently the Antarctic President of the UK Polar Network ([UKPN](https://polarnetwork.org/)), organising training, networking, education and outreach opportunities to support the next generation of early career polar researchers. I have outreach experience delivering sessions and organising larger projects as part of the ONE Planet Outreach project. In my spare time, I am a keen trombone player, playing with a local 2nd section brass band, Felling Band, and acting as charity trustee of the [UniBrass Foundation](https://www.unibrass.co.uk) to support university level brass banding.'
+    title: "About Me"
+	url: /about
+	btn_label: "Read More"
+	btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}
@@ -44,11 +46,6 @@ feature_row4:
 {% include feature_row id="feature_row" type="left" %}
 {% include feature_row id="feature_row1" type="right" %}
 {% include feature_row id="feature_row4" type="left" %}
-
-Watch a recent presentation to find out more about our research:
-<div style="width:650px; float: center">
-    {% include video id="tFY4UQiwxl0" provider="youtube" %}
-</div>
 
 ---
 
