@@ -18,7 +18,7 @@ ORCiD Profile - [orcid.org/0000-0003-4643-8932](https://orcid.org/0000-0003-4643
 Google Scholar Profile - [Google Scholar](https://scholar.google.com/citations?user=naRfL8cAAAAJ&hl=en)
 {: .text-center .small}
 
-ResearchGate - [researchgate.net/profile/Sam_Hartharn-Evans](https://www.researchgate.net/profile/Sam_Hartharn-Evans)
+Research Gate - [researchgate.net/profile/Sam_Hartharn-Evans](https://www.researchgate.net/profile/Sam_Hartharn-Evans)
 {: .text-center .small}
 		
 ### Peer Reviewed Publications
@@ -75,9 +75,10 @@ ResearchGate - [researchgate.net/profile/Sam_Hartharn-Evans](https://www.researc
 
 ### Conference Talks 
 
-| *Seminar*: "Transformation of Internal Waves on a slope: The effects of Stratification" | ** BRIDGE Group Seminar**, Bristol | 14th March 2023 |
+| ------------------------------------- | ---------------- | -------------- |
+| *Seminar*: "Transformation of Internal Waves on a slope: The effects of Stratification" | **BRIDGE Group Seminar**, Bristol | 14th March 2023 |
 | *Seminar*: "Experimental and Numerical Modelling of Internal Solitary Waves" | **Hull University Fluids Group**, Hull | 16th February 2023 |
-| *Seminar*: "The Interaction of Internal Solitary Waves and Sea Ice in the Laboratory" | ** VPOSSSS **, Online | 11th January 2023 |
+| *Seminar*: "The Interaction of Internal Solitary Waves and Sea Ice in the Laboratory" | **VPOSSSS**, Online | 11th January 2023 |
 | *Conference Presentation*: "Understanding the 'How and Where' of mixing from shoaling internal waves using joint probability distributions" | **Challenger Society Ocean Modelling Group Meeting 2022**, London | 9th September 2022 |
 | *Conference Presentation*: "The Interaction of Internal Solitary Waves and Sea Ice in the Laboratory" | **[Challenger 150: Challenger Society Conference](https://www.nhm.ac.uk/our-science/science-events/the-challenger-society-conference-2022-in-london.html)**, London | 6th-8th September 2022 | 
 | *Conference Presentation*: "The Interaction of Internal Solitary Waves and Sea Ice in the Laboratory" | **[IX International Symposium on Stratified Flows (ISSF)](http://www.damtp.cam.ac.uk/events/issf2022/)**, Cambridge | 29th August - 1st September 2022 |
