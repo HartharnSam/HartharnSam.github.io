@@ -13,13 +13,13 @@ Below my publications are listed. For further details visit my:
 {: .text-center}
 
 ORCiD Profile - [orcid.org/0000-0003-4643-8932](https://orcid.org/0000-0003-4643-8932)
-{: .text-center}
+{: .text-center .small}
 
 Google Scholar Profile - [Google Scholar](https://scholar.google.com/citations?user=naRfL8cAAAAJ&hl=en)
-{: .text-center}
+{: .text-center .small}
 
 ResearchGate - [researchgate.net/profile/Sam_Hartharn-Evans](https://www.researchgate.net/profile/Sam_Hartharn-Evans)
-{: .text-center}
+{: .text-center .small}
 		
 ### Peer Reviewed Publications
 {% capture notice-text %}
