@@ -75,12 +75,9 @@ ResearchGate - [researchgate.net/profile/Sam_Hartharn-Evans](https://www.researc
 
 ### Conference Talks 
 
-0.	Presentation | "Understanding the 'How and Where' of mixing from shoaling internal waves using joint probability distributions" |
-	**Challenger Society Ocean Modelling Group Meeting 2022** | London | 9th September 2022
-0.  Presentation | "The Interaction of Internal Solitary Waves and Sea Ice in the Laboratory" |
-	**[Challenger 150: Challenger Society Conference](https://www.nhm.ac.uk/our-science/science-events/the-challenger-society-conference-2022-in-london.html)** | London | 6th-8th September 2022
-0.  Presentation | "The Interaction of Internal Solitary Waves and Sea Ice in the Laboratory" |
-	**[IX International Symposium on Stratified Flows (ISSF)](http://www.damtp.cam.ac.uk/events/issf2022/)** | Cambridge | 29th August - 1st September 2022
+0.	Presentation | "Understanding the 'How and Where' of mixing from shoaling internal waves using joint probability distributions" | **Challenger Society Ocean Modelling Group Meeting 2022** | London | 9th September 2022
+0.  Presentation | "The Interaction of Internal Solitary Waves and Sea Ice in the Laboratory" | **[Challenger 150: Challenger Society Conference](https://www.nhm.ac.uk/our-science/science-events/the-challenger-society-conference-2022-in-london.html)** | London | 6th-8th September 2022
+0.  Presentation | "The Interaction of Internal Solitary Waves and Sea Ice in the Laboratory" | **[IX International Symposium on Stratified Flows (ISSF)](http://www.damtp.cam.ac.uk/events/issf2022/)** | Cambridge | 29th August - 1st September 2022
 0.	Presentation - "The Interaction of Internal Solitary Waves and Sea Ice in the laboratory"
 	**[EGU22](https://www.egu22.eu)**, NP7.1 - Vienna
 	23-27th May 2022
