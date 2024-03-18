@@ -24,6 +24,7 @@ feature_row:
 feature_row1:
   - image_path: /assets/images/Publications.png
     alt: "Graphical abstract of first paper"
+    image_size: 40px
     title: "Publications"
     excerpt: "See my recent publications, and conferences where I have recently presented, or am soon to present at"
     url: /publications
@@ -31,6 +32,7 @@ feature_row1:
     btn_class: "btn--primary"
 feature_row4:
   - image_path: /assets/images/UKPN.jpg
+    image_size: 40px
     alt: "UK Polar Network Logo"
     title: "Other Interests"
     excerpt: 'I am currently the Antarctic President of the UK Polar Network ([UKPN](https://polarnetwork.org/)), organising workshops, education and outreach opportunities for early career polar researchers, and providing networking opportunities that supports the next generation of polar researchers. I have experience demonstrating, and have outreach experience both delivering sessions and organising larger projects as part of the ONE Planet Outreach project. In my spare time, I enjoy cycling, swimming, and am a keen trombone player, playing with a local 2nd section brass band, Felling Band, and acting as charity trustee of the [UniBrass Foundation](https://www.unibrass.co.uk) to support university level brass banding.'
