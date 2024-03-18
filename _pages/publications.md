@@ -10,7 +10,6 @@ header:
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script> <!--Altmetric embed header (can go anywhere)  -->
 
 Below my publications are listed. For further details visit my: 
-{: .text-center}
 
 ORCiD Profile - [orcid.org/0000-0003-4643-8932](https://orcid.org/0000-0003-4643-8932)
 {: .text-center .small}
