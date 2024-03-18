@@ -11,12 +11,8 @@ intro:
 		Google Scholar Profile - [Google Scholar](https://scholar.google.com/citations?user=naRfL8cAAAAJ&hl=en)
 		ResearchGate - [researchgate.net/profile/Sam_Hartharn-Evans](https://www.researchgate.net/profile/Sam_Hartharn-Evans)"
 ---
-{% include gallery layout="third" height=60px %}
-
 
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script> <!--Altmetric embed header (can go anywhere)  -->
-
-
 
 ### Peer Reviewed Publications
 {% capture notice-text %}
