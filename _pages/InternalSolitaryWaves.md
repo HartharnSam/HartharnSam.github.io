@@ -1,7 +1,7 @@
 ---
 title: "Internal Solitary Waves"
 # layout: collection
-permalink: /ISWs/
+permalink: /InternalSolitaryWaves/
 # collection: research
 # entries_layout: grid
 header:
