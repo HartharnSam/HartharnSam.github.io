@@ -15,7 +15,7 @@ intro:
 feature_row:
   - image_path: /assets/images/ResearchInterests.jpg
     alt: "Photo of laboratory setup"
-    image_size: 40px
+    image_size: 40%
     title: "Research Interests"
     excerpt: 'My research focuses on understanding how the cryosphere and oceans interact in a variety of scales. My BSc and MSc dissertations both investigated how large-scale freshwater patterns could influence the transfer of heat from warm Atlantic water to waters at the surface (and subsequently ice). My PhD Project, titled “internal solitary waves in ice-covered waters”, turns to more of a process-based approach. This project investigates how oceanic internal solitary waves (which are waves travel along density interfaces within the water column, and act in a “solitary” manner) interacts with sea ice. This research is primarily laboratory based, using a 7m long flume tank in our laboratory, along with numerical simulations.'
     url: /research
