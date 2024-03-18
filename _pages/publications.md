@@ -10,15 +10,18 @@ header:
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script> <!--Altmetric embed header (can go anywhere)  -->
 
 Below my publications are listed. For further details visit my: 
+
 ORCiD Profile - [orcid.org/0000-0003-4643-8932](https://orcid.org/0000-0003-4643-8932)
+
 Google Scholar Profile - [Google Scholar](https://scholar.google.com/citations?user=naRfL8cAAAAJ&hl=en)
-ResearchGate - [researchgate.net/profile/Sam_Hartharn-Evans](https://www.researchgate.net/profile/Sam_Hartharn-Evans)"
+
+ResearchGate - [researchgate.net/profile/Sam_Hartharn-Evans](https://www.researchgate.net/profile/Sam_Hartharn-Evans)
 {: .text-center}
 		
 ### Peer Reviewed Publications
 {% capture notice-text %}
 #### A new approach to understanding fluid mixing in process-study models of stratified fluids <img src="/assets/images/Open_Access_logo_white.png" style="height:1em;margin-right:.5em;" alt="Open Acces">
-**Samuel G. Hartharn-Evans**, Marek Stastna
+**Samuel G. Hartharn-Evans**, Marek Stastna, Magda Carr
 *Nonlinear Processes in Geophysics*
 [DOI](https://doi.org/10.5194/npg-31-61-2024, 2024){: .btn .btn--info} [PDF](/assets/documents/Hartharn-Evans2024b.pdf){: .btn .btn--inverse}
 <div data-badge-popover="right" data-badge-type="donut" data-doi="https://doi.org/10.5194/npg-31-61-2024" class="altmetric-embed"></div> 
