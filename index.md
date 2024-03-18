@@ -1,5 +1,5 @@
 ---
-title: "Sam Hartharn-Evans"
+title: "Home"
 layout: splash
 permalink: /
 date: 2022-09-12T16:19:00-04:00
@@ -7,9 +7,6 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/ShoalingWaveTS.webp
-  actions:
-    - label: "Research"
-      url: "/research"
   caption: "Time series of the passage of an Internal Solitary Wave"
 excerpt: "Studying the physical ocean processes through laboratory experiments and lab-scale simulations."
 intro: 
@@ -18,21 +15,24 @@ intro:
 feature_row:
   - image_path: /assets/images/ResearchInterests.jpg
     alt: "Photo of laboratory setup"
+    image_size: 450em
     title: "Research Interests"
     excerpt: 'My research focuses on understanding how the cryosphere and oceans interact in a variety of scales. My BSc and MSc dissertations both investigated how large-scale freshwater patterns could influence the transfer of heat from warm Atlantic water to waters at the surface (and subsequently ice). My PhD Project, titled “internal solitary waves in ice-covered waters”, turns to more of a process-based approach. This project investigates how oceanic internal solitary waves (which are waves travel along density interfaces within the water column, and act in a “solitary” manner) interacts with sea ice. This research is primarily laboratory based, using a 7m long flume tank in our laboratory, along with numerical simulations.'
     url: /research
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row1:
-  - image_path: /assets/images/Publications.png
+  - image_path: /assets/images/publications2.png
     alt: "Graphical abstract of first paper"
+    image_size: 450em
     title: "Publications"
     excerpt: "See my recent publications, and conferences where I have recently presented, or am soon to present at"
     url: /publications
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row4:
-  - image_path: /assets/images/UKPN.jpg
+  - image_path: /assets/images/outreach.jpeg
+    image_size: 150em
     alt: "UK Polar Network Logo"
     title: "Other Interests"
     excerpt: 'I am currently the Antarctic President of the UK Polar Network ([UKPN](https://polarnetwork.org/)), organising workshops, education and outreach opportunities for early career polar researchers, and providing networking opportunities that supports the next generation of polar researchers. I have experience demonstrating, and have outreach experience both delivering sessions and organising larger projects as part of the ONE Planet Outreach project. In my spare time, I enjoy cycling, swimming, and am a keen trombone player, playing with a local 2nd section brass band, Felling Band, and acting as charity trustee of the [UniBrass Foundation](https://www.unibrass.co.uk) to support university level brass banding.'
