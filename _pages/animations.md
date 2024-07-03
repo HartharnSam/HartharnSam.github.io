@@ -65,7 +65,7 @@ For preventing issues with resolution, I have rarely needed to implement these, 
 # Plotting Improvements
 It can improve the look of plots greatly to carry out the following edits:
 -	Set an appropriate font size for the plot
--	Use LaTeX interpreter for the labels. To implement this encapsulate any text you want to look “latex-y” in $$ - e.g. `xlabel(‘$x$ - horizontal’)`;. Typically you’d then have to also include `‘interpreter’, ‘latex’` in the brackets, but my later code does this work for you…
+-	Use LaTeX interpreter for the labels. To implement this encapsulate any text you want to look “latex-y” in $$ - e.g. `xlabel('$x$ - horizontal')`;. Typically you’d then have to also include `'interpreter', 'latex'` in the brackets, but my later code does this work for you…
 -	Outline the axis (box on)
 -	Turn the toolbar visibility off, so you don’t ruin your movie by running your mouse over it
 -	Set line widths to slightly thicker (1.5 pt)
