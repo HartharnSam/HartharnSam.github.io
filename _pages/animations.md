@@ -71,6 +71,7 @@ It can improve the look of plots greatly to carry out the following edits:
 -	Set line widths to slightly thicker (1.5 pt)
 I always want to do this, so have a simple script I run that does it all for me
 `figure_print_format(gcf);`
+found [here](/assets/code/figure_print_format.m)
 
 # Colormaps
 I have a lot to say about these, but in the meantime please look at some references about good colormaps:
