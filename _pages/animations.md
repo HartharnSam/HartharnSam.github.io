@@ -2,7 +2,7 @@
 title: "Animations in MATLAB"
 # layout: collection
 permalink: /animations/
-# collection: animations
+# collection: research
 # entries_layout: grid
 header:
   image: /assets/images/TankImage.jpg
@@ -35,7 +35,7 @@ end
 close(vid) 
 ```
 
-I do this for 1D data (i.e. a line plot with time on x axis that adds a point at each timestep), 2D data (a Hovmoller Plot (x, t) that adds a line at each timestep) and 3D data (an x, z colormap which changes at each timestep). An example of why plotting these as movies can be useful is [here(/assets/images/example_movie.mp4) – you can see how variables actually change as the feature evolves. Example code and outputs below:
+I do this for 1D data (i.e. a line plot with time on x axis that adds a point at each timestep), 2D data (a Hovmoller Plot (x, t) that adds a line at each timestep) and 3D data (an x, z colormap which changes at each timestep). An example of why plotting these as movies can be useful is [here](/assets/images/example_movie.mp4) – you can see how variables actually change as the feature evolves. Example code and outputs below:
 - [1D Code](/assets/code/movie_1d.m) and [1D Movie](/assets/images/movie_1d.mp4)
 - [2D Code](/assets/code/movie_2d.m) and [2D Movie](/assets/images/movie_2d.mp4)
 - [3D Code](/assets/code/movie_3d.m) and [2D Movie](/assets/images/movie_3d.mp4)
