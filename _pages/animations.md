@@ -10,6 +10,10 @@ header:
 ---
 
 # To start - design concepts
+I think I spent most my PhD making nice videos, and they have always been the bits of my presentations commented on positively. I figured it would be worth writing some of this down as a resource. I code in MATLAB, this works well for me as the core code for my model and lab are both already in MATLAB, however ideally I'd move to a more open source option like python. This would have the additional bonus that matplotlib plots start off looking nicer. 
+
+In terms of design theory, there is a lot of theory around designing plots, I skip over nearly all of this here currently, but may add more in the future. Overall, the consideration should be how do you best show the important bits of the data to the audience, balancing the audience's need to not be overloaded with information, but providing enough contextual/scientific information, and not having the unethical appearance of trying to hide data for convenience (or indeed actually doing so). A key thing to think about is how you crop axes (including the color axis), this helps focus in on key features, you want each axis to be close to "information saturation" but with a little bit of space. 
+
 Nearly all of this is self taught - and of that I picked it up from example scripts I was using, or had access to. A few useful resources:
 -	SPINSmatlab
 -	[SPINS Wiki](https://wiki.math.uwaterloo.ca/fluidswiki/index.php?title=Special:AllPages) has useful pages on animations and plots that are relevant to SPINS
@@ -25,12 +29,12 @@ The fundamental idea of making animations is to make a series of plots, save the
 
 It consists of the following pseudocode:
 ```
-Read in variables and parameters that are fixed for all timesteps
-Set up the figure, and videoWriter 
+%Read in variables and parameters that are fixed for all timesteps
+%Set up the figure, and videoWriter 
 for ii = 1:length(timesteps)
-	Read and plot the timestep specific data
-	Pause to ensure the captured figure is plotted right
-	Getframe, and write to the videoWriter object
+	%Read and plot the timestep specific data
+	%Pause to ensure the captured figure is plotted right
+	%Getframe, and write to the videoWriter object
 end
 close(vid) 
 ```
@@ -45,13 +49,14 @@ Of course when you're actually running code, you'll want the plot to be formatte
 
 Reformatting the plot on each timestep is VERY computationally expensive. We don't want to have `hold on` because then we'd have plots with N x as much data on as we need (where N is the number of timesteps), but without hold on, formatting is reset each time we re-plot. That is unless we use the following fix:
 ```
-if ii = t1
+if ii = t1 % i.e. run the formatting for the first iteration only
 	xlabel('x'); ylabel('z');
 	xlim([min(x) max(x)]);
 	ylim([min(y) max(y)]);
 	% Add any other formatting here
 end
-set(gca, 'NextPlot', 'replacechildren') % note this needs setting for each axis
+set(gca, 'NextPlot', 'replacechildren') % Replace the contents of the axis, rather than the axis itself
+% note this needs setting for each axis
 ```
 I have included an example in a movie maker code [here](/assets/code/movie_fastformat.m)
 
@@ -59,11 +64,11 @@ This means the formatting is set only once, but the contents of the plot itself 
 
 For preventing issues with resolution, I have rarely needed to implement these, but the following options are available:
 - Downsampling the resolution
-- Plotting contourf (or even contour) plots instead of pcolor
-- If the data supports it (i.e. regularly spaced grids) using imagesc
+- Plotting `contourf` (or even `contour`) plots instead of `pcolor`
+- If the data supports it (i.e. regularly spaced grids) using `imagesc`
 
 # Plotting Improvements
-It can improve the look of plots greatly to carry out the following edits:
+As I mentioned before, matplotlib makes great looking plots, but in MATLAB we can make some adjustments to look a bit more like that. It can improve the look of plots greatly to carry out the following edits:
 -	Set an appropriate font size for the plot
 -	Use LaTeX interpreter for the labels. To implement this encapsulate any text you want to look `latex-y` in $$ - e.g. `xlabel('$x$ - horizontal')`;. Typically you'd then have to also include `'interpreter', 'latex'` in the brackets, but my later code does this work for you:
 -	Outline the axis (box on)
@@ -73,6 +78,7 @@ I always want to do this, so have a simple script I run that does it all for me
 `figure_print_format(gcf);`
 found [here](/assets/code/figure_print_format.m)
 
+
 # Colormaps
 I have a lot to say about these, but in the meantime please look at some references about good colormaps:
 - [The importance of colormaps](https://ieeexplore.ieee.org/document/9167329)
@@ -80,7 +86,6 @@ I have a lot to say about these, but in the meantime please look at some referen
 - For line color combinations that work see some help [here](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3)
 - [EGU guide on accessible presentations](https://blogs.egu.eu/geolog/2024/03/27/how-to-make-your-egu24-presentation-accessible/)
 - [Colorblindness simulator](https://www.color-blindness.com/coblis-color-blindness-simulator/) for checking your figures are colorblind friendly. 
-
 
 A final note, I spell colour without the British "u" throughout here, primarily because code uses the "color" version, and it therefore helps with consistency!
 
