@@ -10,7 +10,7 @@ header:
 ---
 
 # To start - design concepts
-Nearly all of this is self taught – and of that I picked it up from example scripts I was using, or had access to. A few useful resources:
+Nearly all of this is self taught - and of that I picked it up from example scripts I was using, or had access to. A few useful resources:
 -	SPINSmatlab
 -	[SPINS Wiki](https://wiki.math.uwaterloo.ca/fluidswiki/index.php?title=Special:AllPages) has useful pages on animations and plots that are relevant to SPINS
 -	[MATLAB Help Center](https://uk.mathworks.com/help/matlab/animation-1.html)
@@ -35,15 +35,15 @@ end
 close(vid) 
 ```
 
-I do this for 1D data (i.e. a line plot with time on x axis that adds a point at each timestep), 2D data (a Hovmoller Plot (x, t) that adds a line at each timestep) and 3D data (an x, z colormap which changes at each timestep). An example of why plotting these as movies can be useful is [here](/assets/images/example_movie.mp4) – you can see how variables actually change as the feature evolves. Example code and outputs below:
+I do this for 1D data (i.e. a line plot with time on x axis that adds a point at each timestep), 2D data (a Hovmoller Plot (x, t) that adds a line at each timestep) and 3D data (an x, z colormap which changes at each timestep). An example of why plotting these as movies can be useful is [here](/assets/images/example_movie.mp4). You can see how variables actually change as the feature evolves. Example code and outputs below:
 - [1D Code](/assets/code/movie_1d.m) and [1D Movie](/assets/images/movie_1d.mp4)
 - [2D Code](/assets/code/movie_2d.m) and [2D Movie](/assets/images/movie_2d.mp4)
 - [3D Code](/assets/code/movie_3d.m) and [2D Movie](/assets/images/movie_3d.mp4)
 
 # Formatting movies without sacraficing speed
-Of course when you’re actually running code, you’ll want the plot to be formatted nicely, and probably plotting with higher resolution data, both these things slow the code down a lot (the latter more obviously than the former). So the question is how to do this without slowing the code down?
+Of course when you're actually running code, you'll want the plot to be formatted nicely, and probably plotting with higher resolution data, both these things slow the code down a lot (the latter more obviously than the former). So the question is how to do this without slowing the code down?
 
-Reformatting the plot on each timestep is VERY computationally expensive. We don’t want to have “hold on” because then we’d have plots with N x as much data on as we need (where N is the number of timesteps), but without hold on, formatting is reset each time we re-plot. That is unless we use the following fix:
+Reformatting the plot on each timestep is VERY computationally expensive. We don't want to have `hold on` because then we'd have plots with N x as much data on as we need (where N is the number of timesteps), but without hold on, formatting is reset each time we re-plot. That is unless we use the following fix:
 ```
 if ii = t1
 	xlabel('x'); ylabel('z');
@@ -65,9 +65,9 @@ For preventing issues with resolution, I have rarely needed to implement these, 
 # Plotting Improvements
 It can improve the look of plots greatly to carry out the following edits:
 -	Set an appropriate font size for the plot
--	Use LaTeX interpreter for the labels. To implement this encapsulate any text you want to look “latex-y” in $$ - e.g. `xlabel('$x$ - horizontal')`;. Typically you’d then have to also include `'interpreter', 'latex'` in the brackets, but my later code does this work for you…
+-	Use LaTeX interpreter for the labels. To implement this encapsulate any text you want to look `latex-y` in $$ - e.g. `xlabel('$x$ - horizontal')`;. Typically you'd then have to also include `'interpreter', 'latex'` in the brackets, but my later code does this work for you:
 -	Outline the axis (box on)
--	Turn the toolbar visibility off, so you don’t ruin your movie by running your mouse over it
+-	Turn the toolbar visibility off, so you don't ruin your movie by running your mouse over it
 -	Set line widths to slightly thicker (1.5 pt)
 I always want to do this, so have a simple script I run that does it all for me
 `figure_print_format(gcf);`
