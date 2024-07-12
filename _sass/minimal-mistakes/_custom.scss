@@ -1,0 +1,35 @@
+// _sass/minimal-mistakes/_custom.scss
+
+/* Visual Hierarchy */
+.notice {
+  padding: 15px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  margin-bottom: 20px;
+  background-color: #f9f9f9;
+}
+
+.notice h4 {
+  font-size: 1.25em;
+  margin-top: 0;
+}
+
+/* Card Layout */
+.publication-card {
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 20px;
+  margin-bottom: 20px;
+  background-color: #fff;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .publication-card {
+    padding: 10px;
+  }
+
+  .btn {
+    padding: 8px 15px;
+  }
+}

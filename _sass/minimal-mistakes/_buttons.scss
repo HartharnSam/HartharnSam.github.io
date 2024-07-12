@@ -31,3 +31,11 @@
 .btn:hover {
   opacity: 0.8;
 }
+
+.btn:focus,
+.btn:active {
+  outline: none;
+  box-shadow: none;
+  background-color: inherit;
+  color: inherit;
+}
