@@ -23,7 +23,7 @@ window.cookieconsent.initialise({
     }
     if (type == 'opt-out' && !didConsent) {
       // disable cookies
-	  console.log('User didn not consent. Disabling cookies');
+	  console.log('User did not consent. Disabling cookies');
     }
   },
   onStatusChange: function(status, chosenBefore) {
