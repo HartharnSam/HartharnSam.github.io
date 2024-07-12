@@ -8,7 +8,7 @@ header:
 ---
 
 ### Curriculum Vitae
-<object data='/assets/documents/CV.pdf' width="1000" height="1000" type='application/pdf'></object>
+<iframe src='/assets/documents/CV.pdf' width="100%" height="1000px" style="border: none;"></iframe>
 
 ### Outreach
 ![outreach](/assets/images/outreach.jpeg){: .align-right style="width: 30%;"}
