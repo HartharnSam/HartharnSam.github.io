@@ -29,18 +29,19 @@ Research Gate - [researchgate.net/profile/Sam_Hartharn-Evans](https://www.resear
   <div style="display: flex; align-items: center;">
     <a href="https://doi.org/10.5194/npg-31-61-2024" class="btn btn--info">DOI</a> 
     <a href="/assets/documents/Hartharn-Evans2024b.pdf" class="btn btn--inverse">PDF</a>
-    <div data-badge-popover="right" data-badge-type="donut" data-doi="https://doi.org/10.5194/npg-31-61-2024" class="altmetric-embed"></div>
+    <div data-badge-popover="right" data-badge-type="donut" data-doi="https://doi.org/10.5194/npg-31-61-2024" class="altmetric-embed" </div>
   </div>
-</div
+</div>
+
 <div class="publication-card">
   <h4>Interactions Between Internal Solitary Waves and Sea Ice <img src="/assets/images/Open_Access_logo_white.png" style="height:1em;margin-right:.5em;" alt="Open Access"></h4>
   <p><strong>Samuel G. Hartharn-Evans</strong>, Magda Carr, Marek Stastna</p>
   <p><em>Journal of Geophysical Research: Oceans (2024)</em></p>
   <div style="display: flex; align-items: center;">
     <a href="https://doi.org/10.1029/2023JC020175" class="btn btn--info">DOI</a> 
-  < a href="/assets/documents/Hartharn-Evans2024.pdf" class="btn btn--inverse">PDF</a>
-    <div data-badge-popover="right" data-badge-type="donut" data-doi="https://doi.org/10.1029/2023JC020175" class="altmetric-embed"></div>
-</div>
+    <a href="/assets/documents/Hartharn-Evans2024.pdf" class="btn btn--inverse">PDF</a>
+    <div data-badge-popover="right" data-badge-type="donut" data-doi="https://doi.org/10.1029/2023JC020175" class="altmetric-embed" </div>
+  </div>
 </div>
 
 <div class="publication-card">
@@ -66,6 +67,9 @@ style="height:1em;margin-right:.5em;" alt="Open Access"></h4>
   <div data-badge-popover="right" data-badge-type="donut" data-doi="https://doi.org/10.1017/jfm.2021.1049" class="altmetric-embed"></div>
 </div>
 </div>
+
+
+
 ### Submitted
 
 ### Awards
