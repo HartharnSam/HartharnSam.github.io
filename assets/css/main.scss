@@ -9,4 +9,18 @@ search: false
 @import "minimal-mistakes"; // main partials
 $serif	: serif, Georgia, Times;
 $sans-serif	: inherit, "Roboto", "Lucida Grande";
+/* Altmetric Button Styling */
+.altmetric-embed .altmetric-embed-color {
+  background-color: #e4e5e6 !important; /* Replace with your desired background color */
+}
 
+/* DOI and PDF Button Styling */
+/* .btn--info {
+  background-color: #your-background-color; /* Replace with your desired background color */
+/*  color: #your-text-color; /* Replace with your desired text color */
+/*}
+
+.btn--inverse {
+  background-color: #your-background-color; /* Replace with your desired background color */
+/*  color: #your-text-color; /* Replace with your desired text color */
+/*}
