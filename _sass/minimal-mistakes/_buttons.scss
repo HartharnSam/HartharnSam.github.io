@@ -1,98 +1,33 @@
-/* ==========================================================================
-   BUTTONS
-   ========================================================================== */
+// _sass/minimal-mistakes/_buttons.scss
 
-/*
-   Default button
-   ========================================================================== */
+/* Custom Styles for Buttons */
 
+/* Consistent Button Styles */
 .btn {
-  /* default */
-  display: inline-block;
-  margin-bottom: 0.25em;
-  padding: 0.5em 1em;
-  font-family: $sans-serif;
-  font-size: $type-size-6;
-  font-weight: bold;
-  text-align: center;
+  padding: 10px 20px;
+  border-radius: 5px;
   text-decoration: none;
-  border-width: 0;
-  border-radius: $border-radius;
-  cursor: pointer;
+  display: inline-block;
+  margin: 5px 0;
+  transition: opacity 0.3s ease; /* Add transition for hover effect */
+}
 
-  .icon {
-    margin-right: 0.5em;
-  }
+.btn--info {
+  background-color: #007bff;
+  color: #fff;
+}
 
-  .icon + .hidden {
-    margin-left: -0.5em; /* override for hidden text*/
-  }
+.btn--inverse {
+  background-color: #6c757d;
+  color: #fff;
+}
 
-  /* button colors */
-  $buttoncolors:
-  (primary, $primary-color),
-  (inverse, #fff),
-  (light-outline, transparent),
-  (success, $success-color),
-  (warning, $warning-color),
-  (danger, $danger-color),
-  (info, $info-color),
-  (facebook, $facebook-color),
-  (twitter, $twitter-color),
-  (linkedin, $linkedin-color);
+.btn--success {
+  background-color: #28a745;
+  color: #fff;
+}
 
-  @each $buttoncolor, $color in $buttoncolors {
-    &--#{$buttoncolor} {
-      @include yiq-contrasted($color);
-      
-      @if ($buttoncolor == inverse) {
-        border: 1px solid $border-color;
-      }
-      @if ($buttoncolor == light-outline) {
-        border: 1px solid #fff;
-      }
-
-      &:visited {
-        @include yiq-contrasted($color);
-      }
-
-      &:hover {
-        @include yiq-contrasted(mix(#000, $color, 80%));
-      }
-    }
-  }
-
-  /* fills width of parent container */
-  &--block {
-    display: block;
-    width: 100%;
-
-    + .btn--block {
-      margin-top: 0.25em;
-    }
-  }
-
-  /* disabled */
-  &--disabled {
-    pointer-events: none;
-    cursor: not-allowed;
-    filter: alpha(opacity=65);
-    box-shadow: none;
-    opacity: 0.65;
-  }
-
-  /* extra large button */
-  &--x-large {
-    font-size: $type-size-4;
-  }
-
-  /* large button */
-  &--large {
-    font-size: $type-size-5;
-  }
-
-  /* small button */
-  &--small {
-    font-size: $type-size-7;
-  }
+/* Hover Effects */
+.btn:hover {
+  opacity: 0.8;
 }

@@ -7,7 +7,7 @@ header:
   caption: "Increase in Sea Ice Melt season length in the Kara Sea."
 ---
 
-<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script> <!--Altmetric embed header (can go anywhere)  -->
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script> <!-- Altmetric embed header -->
 
 Below my publications are listed. For further details visit my: 
 
@@ -19,57 +19,59 @@ Google Scholar Profile - [Google Scholar](https://scholar.google.com/citations?u
 
 Research Gate - [researchgate.net/profile/Sam_Hartharn-Evans](https://www.researchgate.net/profile/Sam_Hartharn-Evans)
 {: .text-center .small}
-		
+
 ### Peer Reviewed Publications
-{% capture notice-text %}
-#### A new approach to understanding fluid mixing in process-study models of stratified fluids <img src="/assets/images/Open_Access_logo_white.png" style="height:1em;margin-right:.5em;" alt="Open Acces">
-**Samuel G. Hartharn-Evans**, Marek Stastna, Magda Carr
-*Nonlinear Processes in Geophysics*
-[DOI](https://doi.org/10.5194/npg-31-61-2024, 2024){: .btn .btn--info} [PDF](/assets/documents/Hartharn-Evans2024b.pdf){: .btn .btn--inverse}
-<div data-badge-popover="right" data-badge-type="donut" data-doi="https://doi.org/10.5194/npg-31-61-2024" class="altmetric-embed"></div> 
 
-{% endcapture %}
-<div class="notice">
-    {{ notice-text | markdownify }}
+<div class="publication-card">
+  <h4>A new approach to understanding fluid mixing in process-study models of stratified fluids <img src="/assets/images/Open_Access_logo_white.png" style="height:1em;margin-right:.5em;" alt="Open Access"></h4>
+  <p><strong>Samuel G. Hartharn-Evans</strong>, Marek Stastna, Magda Carr</p>
+  <p><em>Nonlinear Processes in Geophysics</em></p>
+  <a href="https://doi.org/10.5194/npg-31-61-2024" class="btn btn--info">DOI</a> 
+  <a href="/assets/documents/Hartharn-Evans2024b.pdf" class="btn btn--inverse">PDF</a>
+  <div data-badge-popover="right" data-badge-type="donut" data-doi="https://doi.org/10.5194/npg-31-61-2024" class="altmetric-embed"></div>
 </div>
 
-{% capture notice-text %}
-#### Interactions Between Internal Solitary Waves and Sea Ice <img src="/assets/images/Open_Access_logo_white.png" style="height:1em;margin-right:.5em;" alt="Open Access">
-**Samuel G. Hartharn-Evans**, Magda Carr, Marek Stastna
-*Journal of Geophysical Research: Oceans (2024)*
-[DOI](https://doi.org/10.1029/2023JC020175){: .btn .btn--info} [PDF](/assets/documents/Hartharn-Evans2024.pdf){: .btn .btn--inverse}
-<div data-badge-popover="right" data-badge-type="donut" data-doi="https://doi.org/10.1029/2023JC020175" class="altmetric-embed"></div> 
-{% endcapture %}
-
-<div class="notice">
-    {{ notice-text | markdownify }}
+<div class="publication-card">
+  <h4>Interactions Between Internal Solitary Waves and Sea Ice <img src="/assets/images/Open_Access_logo_white.png" style="height:1em;margin-right:.5em;" alt="Open Access"></h4>
+  <p><strong>Samuel G. Hartharn-Evans</strong>, Magda Carr, Marek Stastna</p>
+  <p><em>Journal of Geophysical Research: Oceans (2024)</em></p>
+  <a href="https://doi.org/10.1029/2023JC020175" class="btn btn--info">DOI</a> 
+  <a href="/assets/documents/Hartharn-Evans2024.pdf" class="btn btn--inverse">PDF</a>
+  <div data-badge-popover="right" data-badge-type="donut" data-doi="https://doi.org/10.1029/2023JC020175" class="altmetric-embed"></div>
 </div>
 
-{% capture notice-text %}
-#### Dense pulses formed from fissioning internal waves <img src="/assets/images/Open_Access_logo_white.png" style="height:1em;margin-right:.5em;" alt="Open Access">
-**Samuel G. Hartharn-Evans**, Marek Stastna, Magda Carr
-*Environmental Fluid Mechanics (2022) - Special Issue in honour of Peter Davies*
-[DOI](https://doi.org/10.1007/s10652-022-09894-x){: .btn .btn--info} [Summary](https://link.growkudos.com/1evcgx5j9j4){: .btn .btn--success} [PDF](/assets/documents/Hartharn-Evans2022b.pdf){: .btn .btn--inverse}
-<div data-badge-popover="right" data-badge-type="donut" data-doi="https://doi.org/10.1007/s10652-022-09894-x" class="altmetric-embed"></div>
-
-{% endcapture %}
-<div class="notice">
-  {{ notice-text | markdownify }}
+<div class="publication-card">
+  <h4>Dense pulses formed from fissioning internal waves <img src="/assets/images/Open_Access_logo_white.png"
+style="height:1em;margin-right:.5em;" alt="Open Access"></h4>
+  <p><strong>Samuel G. Hartharn-Evans</strong>, Marek Stastna, Magda Carr</p>
+  <p><em>Environmental Fluid Mechanics (2022) - Special Issue in honour of Peter Davies</em></p>
+   <a href="https://doi.org/10.1007/s10652-022-09894-x" class="btn btn--info">DOI</a> 
+  <a href="/assets/documents/Hartharn-Evans2022b.pdf" class="btn btn--inverse">PDF</a>
+  <div data-badge-popover="right" data-badge-type="donut" data-doi="https://doi.org/10.1007/s10652-022-09894-x" class="altmetric-embed"></div>
 </div>
 
-{% capture notice-text %}
-#### Stratification Effects on Shoaling Internal Solitary Waves <img src="/assets/images/Open_Access_logo_white.png" style="height:1em;margin-right:.5em;" alt="Open Access">
-**Samuel G. Hartharn-Evans**, Magda Carr,  Marek Stastna, Peter A. Davies
-*Journal of Fluid Mechanics (2022)*
-[DOI](https://doi.org/10.1017/jfm.2021.1049){: .btn .btn--info} [Summary](https://link.growkudos.com/1raifiqj7r4){: .btn .btn--success} [PDF](/assets/documents/Hartharn-Evans2022.pdf){: .btn .btn--inverse}
-<div data-badge-popover="right" data-badge-type="donut" data-doi="https://doi.org/10.1017/jfm.2021.1049" class="altmetric-embed"></div>
-
-{% endcapture %}
-<div class="notice">
-  {{ notice-text | markdownify }}
+<div class="publication-card">
+  <h4>Stratification Effects on Shoaling Internal Solitary Waves <img src="/assets/images/Open_Access_logo_white.png"
+style="height:1em;margin-right:.5em;" alt="Open Access"></h4>
+  <p><strong>Samuel G. Hartharn-Evans</strong>, Magda Carr, Marek Stastna, Peter A. Davies</p>
+  <p><em>Journal of Fluid Mechanics (2022)</em></p>
+   <a href="https://doi.org/10.1017/jfm.2021.1049" class="btn btn--info">DOI</a> 
+  <a href="/assets/documents/Hartharn-Evans2022.pdf" class="btn btn--inverse">PDF</a>
+  <div data-badge-popover="right" data-badge-type="donut" data-doi="https://doi.org/10.1017/jfm.2021.1049" class="altmetric-embed"></div>
 </div>
 
 ### Submitted
+
+### Awards
+
+0. Runner-up | Osborne Reynolds Day PhD Competition | July 2024
+0. vOSPP - Virtual Outstanding Student Poster Presentation for Nonlinear Processes Division | EGU21 | 2021
+0. Runner-up Best Poster | Science Agriculture and Engineering (SAgE) Faculty Conference, Newcastle University | June 2020
+0. Derbyshire Postgraduate Prize | School of Ocean Sciences, Bangor University | December 2019
+0. Nautilus Scholarship | School of Ocean Sciences, Bangor University | October 2018
+0. Dr John Robert Jones Prize (awarded annually to the best students across all disciplines) | Bangor University | June 2018
+0. Darbyshire Prize (for highest scoring oceanography student) | School of Ocean Sciences, Bangor University | June 2018
+0. Ray Delahunty Memorial Prize (best first year Ocean Sciences student) | School of Ocean Sciences, Bangor University | September 2016
 
 
 ### Conference Talks 
@@ -92,19 +94,5 @@ Research Gate - [researchgate.net/profile/Sam_Hartharn-Evans](https://www.resear
 | *Seminar*: "Shoaling internal solitary waves: Is stratification type important?" | [**Virtual Physical Oceanography and Shelf Sea Seminar Series**](https://www.vepossss.eu), Online | 4th November 2020 |
 | *Poster*: "Is the behaviour of internal solitary waves propagating up-slope dependent on stratification?" | **SAgE Faculty Conference**, Online, Newcastle University | 1st-5th June 2020. *Awarded runner-up Best Poster* |
 	
-### Awards
-
-0.	vOSPP - Virtual Outstanding Student Poster Presentation for Nonlinear Processes Division | EGU21 | 2021
-0.	Runner-up Best Poster | Science Agriculture and Engineering (SAgE) Faculty Conference, Newcastle University | June 2020
-0.	Derbyshire Postgraduate Prize | School of Ocean Sciences, Bangor University | December 2019
-0.	Nautilus Scholarship | School of Ocean Sciences, Bangor University | October 2018
-0.	Dr John Robert Jones Prize (awarded annually to the best students across all disciplines) | Bangor University | June 2018
-0.	Darbyshire Prize (for highest scoring oceanography student) | School of Ocean Sciences, Bangor University | June 2018
-0.	Ray Delahunty Memorial Prize (best first year Ocean Sciences student) | School of Ocean Sciences, Bangor University | September 2016
-
-
-
-
-
 
 
