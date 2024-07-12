@@ -26,7 +26,7 @@ Research Gate - [researchgate.net/profile/Sam_Hartharn-Evans](https://www.resear
   <h4>A new approach to understanding fluid mixing in process-study models of stratified fluids <img src="/assets/images/Open_Access_logo_white.png" style="height:1em;margin-right:.5em;" alt="Open Access"></h4>
   <p><strong>Samuel G. Hartharn-Evans</strong>, Marek Stastna, Magda Carr</p>
   <p><em>Nonlinear Processes in Geophysics</em></p>
-  <div style="display: flex; align-items: center;">
+  <div class="button-group">
     <a href="https://doi.org/10.5194/npg-31-61-2024" class="btn btn--info">DOI</a> 
     <a href="/assets/documents/Hartharn-Evans2024b.pdf" class="btn btn--inverse">PDF</a>
     <div data-badge-popover="right" data-badge-type="donut" data-doi="https://doi.org/10.5194/npg-31-61-2024" class="altmetric-embed"></div>
@@ -37,7 +37,7 @@ Research Gate - [researchgate.net/profile/Sam_Hartharn-Evans](https://www.resear
   <h4>Interactions Between Internal Solitary Waves and Sea Ice <img src="/assets/images/Open_Access_logo_white.png" style="height:1em;margin-right:.5em;" alt="Open Access"></h4>
   <p><strong>Samuel G. Hartharn-Evans</strong>, Magda Carr, Marek Stastna</p>
   <p><em>Journal of Geophysical Research: Oceans (2024)</em></p>
-  <div style="display: flex; align-items: center;">
+  <div class="button-group">
     <a href="https://doi.org/10.1029/2023JC020175" class="btn btn--info">DOI</a> 
     <a href="/assets/documents/Hartharn-Evans2024.pdf" class="btn btn--inverse">PDF</a>
     <div data-badge-popover="right" data-badge-type="donut" data-doi="https://doi.org/10.1029/2023JC020175" class="altmetric-embed"></div>
@@ -49,7 +49,7 @@ Research Gate - [researchgate.net/profile/Sam_Hartharn-Evans](https://www.resear
 style="height:1em;margin-right:.5em;" alt="Open Access"></h4>
   <p><strong>Samuel G. Hartharn-Evans</strong>, Marek Stastna, Magda Carr</p>
   <p><em>Environmental Fluid Mechanics (2022) - Special Issue in honour of Peter Davies</em></p>
-  <div style="display: flex; align-items: center;">
+  <div class="button-group">
    <a href="https://doi.org/10.1007/s10652-022-09894-x" class="btn btn--info">DOI</a> 
   <a href="/assets/documents/Hartharn-Evans2022b.pdf" class="btn btn--inverse">PDF</a>
   <div data-badge-popover="right" data-badge-type="donut" data-doi="https://doi.org/10.1007/s10652-022-09894-x" class="altmetric-embed"></div>
@@ -61,7 +61,7 @@ style="height:1em;margin-right:.5em;" alt="Open Access"></h4>
 style="height:1em;margin-right:.5em;" alt="Open Access"></h4>
   <p><strong>Samuel G. Hartharn-Evans</strong>, Magda Carr, Marek Stastna, Peter A. Davies</p>
   <p><em>Journal of Fluid Mechanics (2022)</em></p>
-  <div style="display: flex; align-items: center;">
+  <div class="button-group">
    <a href="https://doi.org/10.1017/jfm.2021.1049" class="btn btn--info">DOI</a> 
   <a href="/assets/documents/Hartharn-Evans2022.pdf" class="btn btn--inverse">PDF</a>
   <div data-badge-popover="right" data-badge-type="donut" data-doi="https://doi.org/10.1017/jfm.2021.1049" class="altmetric-embed"></div>
