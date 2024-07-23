@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: ""
 layout: splash
 permalink: /
 date: 2022-09-12T16:19:00-04:00
@@ -8,7 +8,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/ShoalingWaveTS.webp
   caption: "Time series of the passage of an Internal Solitary Wave"
-excerpt: "Studying the physical ocean processes through laboratory experiments and lab-scale simulations."
+excerpt: "Studying physical ocean processes through laboratory experiments and lab-scale simulations."
 intro: 
   - excerpt: "I am a researcher at Northumbria University in the Department of Geography and Environmental Sciences. I have an interest in understanding the physical processes in the ocean, and how they interact with different elements of the earth system. In particular, I research the processes surrounding the ice in the polar oceans, investigating the interactions between ice shelves ice and buoyant meltwater plumes in the laboratory (and laboratory scale numerical modelling)."
 
