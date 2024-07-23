@@ -5,14 +5,15 @@ permalink: /
 date: 2022-09-12T16:19:00-04:00
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
+  overlay_filter: "0.4"
   overlay_image: /assets/images/ShoalingWaveTS.webp
-  caption: "Time series of the passage of an Internal Solitary Wave"
+  caption: " " #"Time series of the passage of an Internal Solitary Wave"
 excerpt: "Studying physical ocean processes through laboratory experiments and lab-scale simulations."
 intro: 
-  - excerpt: "I am a researcher at Northumbria University in the Department of Geography and Environmental Sciences. I have an interest in understanding the physical processes in the ocean, and how they interact with different elements of the earth system. In particular, I research the processes surrounding the ice in the polar oceans, investigating the interactions between ice shelves ice and buoyant meltwater plumes in the laboratory (and laboratory scale numerical modelling)."
+  - title: "About Me"
+  - excerpt: "I am a researcher at Northumbria University's Department of Geography and Environmental Sciences. My work aims to understand the physical processes in the ocean, and how they interact with different elements of the earth system. My main focus is on the polar oceans, and I currently investigate the interactions between ice shelves ice and buoyant meltwater plumes using both laboratory experiments and numerical modelling to understand these complex processes."
 
-feature_row:
+feature_row1:
   - image_path: /assets/images/ResearchInterests.jpg
     alt: "Photo of laboratory setup"
     image_size: 400em
@@ -21,16 +22,7 @@ feature_row:
     url: /research
     btn_label: "Read More"
     btn_class: "btn--primary"
-feature_row1:
-  - image_path: /assets/images/publications2.png
-    alt: "Array of figures from recent publications"
-    image_size: 450em
-    title: "Publications"
-    excerpt: "See my recent publications, useful GitHub packages, and talks"
-    url: /publications
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-feature_row4:
+feature_row2:
   - image_path: /assets/images/outreach.jpeg
     image_size: 250em
     alt: "Photo of Sam running an outreach activity"
@@ -44,9 +36,8 @@ feature_row4:
 
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row id="feature_row" type="left" %}
-{% include feature_row id="feature_row1" type="right" %}
-{% include feature_row id="feature_row4" type="left" %}
+{% include feature_row id="feature_row1" type="left" %}
+{% include feature_row id="feature_row2" type="right" %}
 
 ---
 
