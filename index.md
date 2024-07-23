@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Home"
 layout: splash
 permalink: /
 date: 2022-09-12T16:19:00-04:00
