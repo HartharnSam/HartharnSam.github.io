@@ -9,9 +9,9 @@ header:
   overlay_image: /assets/images/ShoalingWaveTS.webp
   caption: " " #"Time series of the passage of an Internal Solitary Wave"
 excerpt: "Studying physical ocean processes through laboratory experiments and lab-scale simulations."
-intro: 
+feature_row0:
   - title: "About Me"
-  - excerpt: "I am a researcher at Northumbria University's Department of Geography and Environmental Sciences. My work aims to understand the physical processes in the ocean, and how they interact with different elements of the earth system. My main focus is on the polar oceans, and I currently investigate the interactions between ice shelves ice and buoyant meltwater plumes using both laboratory experiments and numerical modelling to understand these complex processes."
+    excerpt: "I am a researcher at Northumbria University's Department of Geography and Environmental Sciences. My work aims to understand the physical processes in the ocean, and how they interact with different elements of the earth system. My main focus is on the polar oceans, and I currently investigate the interactions between ice shelves ice and buoyant meltwater plumes using both laboratory experiments and numerical modelling to understand these complex processes."
 
 feature_row1:
   - image_path: /assets/images/ResearchInterests.jpg
@@ -34,7 +34,7 @@ feature_row2:
 
 ---
 
-{% include feature_row id="intro" type="center" %}
+{% include feature_row id="feature_row0" type="center" %}
 
 {% include feature_row id="feature_row1" type="left" %}
 {% include feature_row id="feature_row2" type="right" %}
