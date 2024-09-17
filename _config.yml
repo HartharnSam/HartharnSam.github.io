@@ -20,7 +20,7 @@ title                    : "Sam Hartharn-Evans"
 title_separator          : "|"
 subtitle                 : "Oceanic Experimental Fluid Dynamics" # site tagline that appears below site title in masthead
 name                     : "Sam Hartharn-Evans"
-description              : "Oceanic Experimental Fluid Dynamics"
+description              : "Sam Hartharn-Evans | Oceanic Experimental Fluid Dynamics"
 url                      : "https://hartharnsam.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "hartharnsam/hartharnsam.github.io"  # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
