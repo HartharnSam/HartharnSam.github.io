@@ -1,85 +1,21 @@
 ---
 layout: single
 title: "Publications"
+classes: wide
 permalink: /publications/
-header:
-  image: /assets/images/SeaIceWarmingStripe.png
-  caption: "Increase in Sea Ice Melt season length in the Kara Sea."
----
 
-<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script> <!-- Altmetric embed header -->
 
-Below my publications are listed. For further details visit my: 
+Below my publications are listed. For further details visit: 
+<i class="fas fa-fw fa-graduation-cap"></i> [Google Scholar](https://scholar.google.com/citations?user=naRfL8cAAAAJ&hl=en)
 
-ORCiD Profile - [orcid.org/0000-0003-4643-8932](https://orcid.org/0000-0003-4643-8932)
-{: .text-center .small}
-
-Google Scholar Profile - [Google Scholar](https://scholar.google.com/citations?user=naRfL8cAAAAJ&hl=en)
-{: .text-center .small}
-
-Research Gate - [researchgate.net/profile/Sam_Hartharn-Evans](https://www.researchgate.net/profile/Sam_Hartharn-Evans)
-{: .text-center .small}
+<i class="fab fa-orcid"></i> [ORCID ID](https://orcid.org/0000-0003-4643-8932)
 
 ### Peer Reviewed Publications
-
-<div class="publication-card">
-  <h4>A new approach to understanding fluid mixing in process-study models of stratified fluids <img src="/assets/images/Open_Access_logo_white.png" style="height:1em;margin-right:.5em;" alt="Open Access"></h4>
-  <p><strong>Samuel G. Hartharn-Evans</strong>, Marek Stastna, Magda Carr</p>
-  <p><em>Nonlinear Processes in Geophysics</em></p>
-  <div class="button-group">
-    <a href="https://doi.org/10.5194/npg-31-61-2024" class="btn btn--info">DOI</a> 
-    <a href="/assets/documents/Hartharn-Evans2024b.pdf" class="btn btn--inverse">PDF</a>
-    <div data-badge-popover="right" data-badge-type="donut" data-doi="https://doi.org/10.5194/npg-31-61-2024" class="altmetric-embed"></div>
-  </div>
-</div>
-
-<div class="publication-card">
-  <h4>Interactions Between Internal Solitary Waves and Sea Ice <img src="/assets/images/Open_Access_logo_white.png" style="height:1em;margin-right:.5em;" alt="Open Access"></h4>
-  <p><strong>Samuel G. Hartharn-Evans</strong>, Magda Carr, Marek Stastna</p>
-  <p><em>Journal of Geophysical Research: Oceans (2024)</em></p>
-  <div class="button-group">
-    <a href="https://doi.org/10.1029/2023JC020175" class="btn btn--info">DOI</a> 
-    <a href="/assets/documents/Hartharn-Evans2024.pdf" class="btn btn--inverse">PDF</a>
-    <div data-badge-popover="right" data-badge-type="donut" data-doi="https://doi.org/10.1029/2023JC020175" class="altmetric-embed"></div>
-  </div>
-</div>
-
-<div class="publication-card">
-  <h4>Dense pulses formed from fissioning internal waves <img src="/assets/images/Open_Access_logo_white.png"
-style="height:1em;margin-right:.5em;" alt="Open Access"></h4>
-  <p><strong>Samuel G. Hartharn-Evans</strong>, Marek Stastna, Magda Carr</p>
-  <p><em>Environmental Fluid Mechanics (2022) - Special Issue in honour of Peter Davies</em></p>
-  <div class="button-group">
-   <a href="https://doi.org/10.1007/s10652-022-09894-x" class="btn btn--info">DOI</a> 
-  <a href="/assets/documents/Hartharn-Evans2022b.pdf" class="btn btn--inverse">PDF</a>
-  <div data-badge-popover="right" data-badge-type="donut" data-doi="https://doi.org/10.1007/s10652-022-09894-x" class="altmetric-embed"></div>
-</div>
-</div>
-
-<div class="publication-card">
-  <h4>Stratification Effects on Shoaling Internal Solitary Waves <img src="/assets/images/Open_Access_logo_white.png"
-style="height:1em;margin-right:.5em;" alt="Open Access"></h4>
-  <p><strong>Samuel G. Hartharn-Evans</strong>, Magda Carr, Marek Stastna, Peter A. Davies</p>
-  <p><em>Journal of Fluid Mechanics (2022)</em></p>
-  <div class="button-group">
-   <a href="https://doi.org/10.1017/jfm.2021.1049" class="btn btn--info">DOI</a> 
-  <a href="/assets/documents/Hartharn-Evans2022.pdf" class="btn btn--inverse">PDF</a>
-  <div data-badge-popover="right" data-badge-type="donut" data-doi="https://doi.org/10.1017/jfm.2021.1049" class="altmetric-embed"></div>
-</div>
-</div>
-
-<div class="publication-card">
-  <h4>PhD Thesis:  Experimental and Numerical Modelling of Boundary Effects on Internal Solitary Waves <img src="/assets/images/Open_Access_logo_white.png"
-style="height:1em;margin-right:.5em;" alt="Open Access"></h4>
-  <p><strong>Samuel G. Hartharn-Evans</strong></p>
-  <p><em>PhD Thesis (2022)</em></p>
-  <div class="button-group">
-   <a href="http://theses.ncl.ac.uk/jspui/handle/10443/6319" class="btn btn--info">URL</a> 
-  <a href="/assets/documents/Thesis.pdf" class="btn btn--inverse">PDF</a>
-</div>
-</div>
-
-### Submitted
+* [PhD Thesis: Experimental and Numerical Modelling of Boundary Effects on Internal Solitary Waves](http://theses.ncl.ac.uk/jspui/handle/10443/6319), **Samuel G. Hartharn-Evans**, *PhD Thesis*, 2024. [Download PDF](/assets/documents/Thesis.pdf).
+* [A new approach to understanding fluid mixing in process-study models of stratified fluids](https://doi.org/10.5194/npg-31-61-2024), **Samuel G. Hartharn-Evans**, Marek Stastna, Magda Carr, *Nonlinear Processes in Geophysics*, 2024. [Download PDF](/assets/documents/Hartharn-Evans2024b.pdf), DOI: 10.5194/npg-31-61-2024. 
+* [Interactions Between Internal Solitary Waves and Sea Ice](https://doi.org/10.1029/2023JC020175), ** Samuel G. Hartharn-Evans**, Magda Carr, Marek Stastna, *Journal of Geophysical Research: Oceans*, 2024. [Download PDF](/assets/documents/Hartharn-Evans2024), DOI: 10.1029/2023JC020175
+* [Dense pulses formed from fissioning internal waves](https://doi.org/10.1007/s10652-022-09894-x), **Samuel G. Hartharn-Evans**, Marek Stastna, Magda Carr, *Environmental Fluid Mechanics (2022) - Special Issue in honour of Peter Davies**, 2022. [Download PDF](/assets/documents/Hartharn-Evans2022b), DOI: 10.1007/s10652-022-09894-x
+* [Stratification Effects on Shoaling Internal Solitary Waves](https://doi.org/10.1017/jfm.2021.1049), **Samuel G. Hartharn-Evans**, Magda Carr, Marek Stastna, Peter A. Davies, *Journal of Fluid Mechanics*, 2022. [Download PDF](/assets/documents/Hartharn-Evans2022.pdf), DOI: 10.1017/jfm.2021.1049
 
 ### Awards
 

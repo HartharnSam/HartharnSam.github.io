@@ -46,8 +46,7 @@
   }
 
   a {
-    color: #fff; 
-    @include yiq-contrasted($notice-color); 
+    color: mix(#000, $notice-color, 10%);
 
     &:hover {
       color: mix(#000, $notice-color, 50%);
@@ -55,7 +54,7 @@
   }
 
   @at-root #{selector-unify(&, "blockquote")} {
-    border-left-color: mix(#000, $notice-color, 10%);
+    border-inline-start-color: mix(#000, $notice-color, 10%);
   }
 
   code {

@@ -12,25 +12,27 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : 'air' #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-UK"
+rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Sam Hartharn-Evans"
-title_separator          : "|"
+title_separator          : " | "
 subtitle                 : "Oceanic Experimental Fluid Dynamics" # site tagline that appears below site title in masthead
 name                     : "Sam Hartharn-Evans"
 description              : "Sam Hartharn-Evans | Oceanic Experimental Fluid Dynamics"
-url                      : "https://hartharnsam.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://hartharnsam.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "hartharnsam/hartharnsam.github.io"  # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "hartharnsam/hartharnsam.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/teaser.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/bio-sam.jpg" #logo.png"
+logo                     : "/assets/images/bio-sam.jpg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : " " # overrides the website title displayed in the masthead, use " " for no title
-after_footer_scripts     : 
-  - /assets/js/cookie-consent.js
-# breadcrumbs            : false # true, false (default)
+#breadcrumbs              : # true, false (default)
 words_per_minute         : 200
+enable_copy_code_button  : # true, false (default)
+copyright                : # "copyright" name, defaults to site.title
+copyright_url            : # "copyright" URL, defaults to site.url
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
@@ -52,12 +54,17 @@ comments:
     discussion_term      : # "pathname" (default), "url", "title", "og:title"
     reactions_enabled    : # '1' for enabled (default), '0' for disabled
     theme                : # "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
+    strict               : # 1 for enabled, 0 for disabled (default)
+    input_position       : # "top", "bottom" # The comment input box will be placed above or below the comments
+    emit_metadata        : # 1 for enabled, 0 for disabled (default) # https://github.com/giscus/giscus/blob/main/ADVANCED-USAGE.md#imetadatamessage
+    lang                 : # "en" (default)
+    lazy                 : # true, false # Loading of the comments will be deferred until the user scrolls near the comments container.
   staticman:
     branch               : # "master"
     endpoint             : # "https://{your Staticman v3 API}/v3/entry/github/"
 reCaptcha:
-  siteKey                : # "6LdC-u0dAAAAAKgH_91VqZ6VSz_rqE7MTKVykzZJ"
-  secret                 : # "rb6NLDB7aWTyBBEg9QqAtNypXCTUniNmhiS7KS4s8fDPoYCHg86Xc2ymMTK9ivcpsupcujFvaki2Q8Jp+Ffbqm5Idu/Pe7YN61yAqOyXctMQxXrPvW6JGb3aTyVw7PK6wg0A6zf0RY9k94pOGip/doaQJhOEw4t1R+5ApPxnjuM="
+  siteKey                :
+  secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
   hide                   : # true, false (default)
@@ -94,7 +101,7 @@ og_image                 : # Open Graph/Twitter default site image
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
-  links: 
+  links: # An array of links to social media profiles
     - "https://twitter.com/HartharnSam"
 
 # Analytics
@@ -113,10 +120,6 @@ author:
   location         : "Newcastle, UK"
   email            : "sam.hartharn-evans@northumbria.ac.uk"
   links:
-   # - label: "Email"
-   #   icon: "fas fa-fw fa-envelope-square"
-   #   url: "mailto:s.hartharn-evans2@ncl.ac.uk"
-
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://HartharnSam.github.io"
@@ -208,10 +211,34 @@ sass:
 
 
 # Outputting
-#permalink: /:categories/:title/
-#paginate: 5 # amount of posts to show
-#paginate_path: /page:num/
-#timezone: Europe/London # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+permalink: /:categories/:title/
+timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+
+# Pagination with jekyll-paginate
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+
+# Pagination with jekyll-paginate-v2
+# See https://github.com/sverrirs/jekyll-paginate-v2/blob/master/README-GENERATOR.md#site-configuration
+#   for configuration details
+pagination:
+  # Set enabled to true to use paginate v2
+  # enabled: true
+  debug: false
+  collection: 'posts'
+  per_page: 10
+  permalink: '/page/:num/'
+  title: ':title - page :num'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
+  category: 'posts'
+  tag: ''
+  locale: ''
+  trail:
+    before: 2
+    after: 2
 
 
 # Plugins (previously gems:)
