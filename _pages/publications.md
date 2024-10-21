@@ -74,7 +74,7 @@ style="height:1em;margin-right:.5em;" alt="Open Access"></h4>
   <p><strong>Samuel G. Hartharn-Evans</strong></p>
   <p><em>PhD Thesis (2022)</em></p>
   <div class="button-group">
-   <a href="https://doi.org/10.1017/jfm.2021.1049" class="btn btn--info">URL</a> 
+   <a href="http://theses.ncl.ac.uk/jspui/handle/10443/6319" class="btn btn--info">URL</a> 
   <a href="/assets/documents/Thesis.pdf" class="btn btn--inverse">PDF</a>
 </div>
 </div>
