@@ -3,7 +3,7 @@ layout: single
 title: "Publications"
 classes: wide
 permalink: /publications/
-
+---
 
 Below my publications are listed. For further details visit: 
 <i class="fas fa-fw fa-graduation-cap"></i> [Google Scholar](https://scholar.google.com/citations?user=naRfL8cAAAAJ&hl=en)
