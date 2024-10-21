@@ -68,7 +68,16 @@ style="height:1em;margin-right:.5em;" alt="Open Access"></h4>
 </div>
 </div>
 
-
+<div class="publication-card">
+  <h4>PhD Thesis:  Experimental and Numerical Modelling of Boundary Effects on Internal Solitary Waves <img src="/assets/images/Open_Access_logo_white.png"
+style="height:1em;margin-right:.5em;" alt="Open Access"></h4>
+  <p><strong>Samuel G. Hartharn-Evans</strong></p>
+  <p><em>PhD Thesis (2022)</em></p>
+  <div class="button-group">
+   <a href="https://doi.org/10.1017/jfm.2021.1049" class="btn btn--info">URL</a> 
+  <a href="/assets/documents/Thesis.pdf" class="btn btn--inverse">PDF</a>
+</div>
+</div>
 
 ### Submitted
 
