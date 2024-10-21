@@ -7,29 +7,22 @@ header:
   caption: "Passive tracer field for a shear flow in the cold water cabbeling regime"
 ---
 
+## About Me
+I am an experimental oceanographer. I am interested in using laboratory experiments (and laboratory scale simulations) to better understand the ocean interacts with ice in some of the hardest to observe regions on earth. Overall, I aim to understand how oceanic heat reaches and melts ice by combining laboratory experiments and numerical simulations to understand fundamental physical processes from the polar oceans. Alongside my research, I am involved in scientific leadership, outreach, and fostering collaboration within the academic and polar communities. You can find my full cv at the bottom of this page. 
+
+### Research 
+During my PhD, I used a combination of a combination of laboratory experiments and numerical modelling to study interactions between sea ice and Internal Solitary Waves (ISWs) [(Hartharn-Evans et al., 2024b)](https://doi.org/10.1029/2023JC020175). I have also worked with collaborators at the University of Waterloo (where the numerical model SPINS was developed) to produce a new data-centric method for understanding mixing in stratified fluids [(Hartharn-Evans et al 2024b)](https://doi.org/10.5194/npg-31-61-2024). Throughout my PhD I worked on methods to combine and compare laboratory experiments, numerical models, and theory [(Hartharn-Evans et al., 2024a, 2022)](https://doi.org/10.1017/jfm.2021.1049).
+
+### Supporting the Research Community
+![UKPN](/assets/images/UKPN_at_EGU.png){: .align-left style="width: 30%;"}
+As vice-president (formerly co-president) of hte UK Polar Network, I am involved in leadership of the Polar Early Career Researcher (ECR) community, representing over 600 ECRs in discussions with stakeholders like the British Antarctic Territory. A key part of this position is advocating for inclusivity and diversity in polar science, ensuring that Equality, Diversity and Inclusion (EDI) issues are considered centrally to the conversation around polar science, as well as working generally to deliver training and collaboration opportunities for ECRs. During my PhD I also served as a student representative for the ONE Planet Doctoral Training Partnership (DTP), I worked to create an interdisciplinary community and helped organize a virtual conference during the pandemic, fostering collaboration and support during a challenging time. I have also co-supervised four final year undergraduate (BSc) and postgraduate (MMath) projects using the SPINS numerical model, allowing me to share my expertise, and foster collaborations within our research environment. 
+
+### Supporting outreach and education 
+![outreach](/assets/images/outreach.jpeg){: .align-right style="width: 30%;"}
+I enjoy sharing science and the polar regions with the wider community. I’ve led and participated in outreach programs that make complex scientific concepts accessible to the public. As part of the ONE Planet Outreach program, I delivered climate change sessions at the Great North Museum: Hancock and co-designed a week-long climate curriculum for primary schools. I believe it’s vital to engage with young people and the general public to help them understand the importance of polar regions and climate science.
+
 ### Curriculum Vitae
 <iframe src='/assets/documents/CV.pdf' width="100%" height="1000px" style="border: none;"></iframe>
-
-### Outreach
-![outreach](/assets/images/outreach.jpeg){: .align-right style="width: 30%;"}
-Through my time at Bangor University, I became engaged in outreach events (both on the subject, and university level), mostly revolving around events targetted at Year 12 at the stage that students consider the next steps, at which point discussing the possibilities and opportunities of university study can be particularly valuable. I was involved in the highly impactful ONE Planet Outreach project as one of the committee members. The project focused on providing off-curriculum and transdisciplinary environmental science education on topics related to climate change and ecological and environmental breakdown, and raising awareness for and promote science career paths. Events so far have included:
-- Discover COP School Visit : A day of workshops for Y10-12 students exploring extreme weather events, and later negotiating to prioritise COP 26 Goals as the countries effected by those events 
-- Discover COP Science Fair : A day of interactive exhibitions and chance to interact with PGR scientists to explore the science behind COP 26 at the Great North Museum: Hancock
-- Ask and Answer : Event with Great North Museum: Hancock, for primary school groups to ask questions to experts related to the Living Planet exhibition. 
-- Great North Museum / Newcastle University STEM Outreach family fun day: An event aimed at younger families to explore a range of science stands, for which we used popular games (e.g. jenga, kerplunk) to demonstrate environmental change. 
-- Great North Museum's Big Fun \| After Hours (in planning) : An event aimed at over-18s to give the freedom to explore exhibits, games and interactive demonstrations to understand the interactions between COP26 for climate change and COP15 for biodiversity. 
-- Primary School Climate-Change week pack : Producing a one week curriculum for each year group in primary school focussed around global change. 
-
-
-
-### Other Academic Service
-I have a variety of teaching experience, demonstrating on the MAS-1803 first year Python module, various elements of marking, and supervision of final year BSc and MMath projects. I was awarded the associate fellow of the higher education academy ([AdvanceHE](https://www.advance-he.ac.uk/fellowship/associate-fellowship)) in 2023. 
-
-As ONE Planet Cohort 1 Student Rep (2019-2023), I was engaged with many other aspects of the DTP, which included organising the Our Planet: ONE Planet Research Expo (research conference 2020), and representing the ONE Planet researchers. 
-
-I am currently President of the UK Polar Network (UKPN) (and was previously treasurer for two years), where I aim to ensure that the network can help support other Polar Early Career Researchers.
-
-I have been involved in paper reviews for Journal of Fluid Mechanics, Nature Communications Earth & Environment, Geophysical Research Letters, and Physical Review Fluids. 
 
 {: reversed="reversed"}
 
