@@ -5,7 +5,8 @@ classes: wide
 permalink: /publications/
 ---
 
-Below my publications are listed. For further details visit: 
+Below my publications are listed. For further details visit:  
+
 <i class="fas fa-fw fa-graduation-cap"></i> [Google Scholar](https://scholar.google.com/citations?user=naRfL8cAAAAJ&hl=en)
 
 <i class="fab fa-orcid"></i> [ORCID ID](https://orcid.org/0000-0003-4643-8932)
@@ -16,17 +17,6 @@ Below my publications are listed. For further details visit:
 * [Interactions Between Internal Solitary Waves and Sea Ice](https://doi.org/10.1029/2023JC020175), ** Samuel G. Hartharn-Evans**, Magda Carr, Marek Stastna, *Journal of Geophysical Research: Oceans*, 2024. [Download PDF](/assets/documents/Hartharn-Evans2024), DOI: 10.1029/2023JC020175
 * [Dense pulses formed from fissioning internal waves](https://doi.org/10.1007/s10652-022-09894-x), **Samuel G. Hartharn-Evans**, Marek Stastna, Magda Carr, *Environmental Fluid Mechanics (2022) - Special Issue in honour of Peter Davies**, 2022. [Download PDF](/assets/documents/Hartharn-Evans2022b), DOI: 10.1007/s10652-022-09894-x
 * [Stratification Effects on Shoaling Internal Solitary Waves](https://doi.org/10.1017/jfm.2021.1049), **Samuel G. Hartharn-Evans**, Magda Carr, Marek Stastna, Peter A. Davies, *Journal of Fluid Mechanics*, 2022. [Download PDF](/assets/documents/Hartharn-Evans2022.pdf), DOI: 10.1017/jfm.2021.1049
-
-### Awards
-
-0. Runner-up | Osborne Reynolds Day PhD Competition | July 2024
-0. vOSPP - Virtual Outstanding Student Poster Presentation for Nonlinear Processes Division | EGU21 | 2021
-0. Runner-up Best Poster | Science Agriculture and Engineering (SAgE) Faculty Conference, Newcastle University | June 2020
-0. Derbyshire Postgraduate Prize | School of Ocean Sciences, Bangor University | December 2019
-0. Nautilus Scholarship | School of Ocean Sciences, Bangor University | October 2018
-0. Dr John Robert Jones Prize (awarded annually to the best students across all disciplines) | Bangor University | June 2018
-0. Darbyshire Prize (for highest scoring oceanography student) | School of Ocean Sciences, Bangor University | June 2018
-0. Ray Delahunty Memorial Prize (best first year Ocean Sciences student) | School of Ocean Sciences, Bangor University | September 2016
 
 
 ### Conference Talks 
