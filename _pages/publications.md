@@ -12,7 +12,7 @@ Below my publications are listed. For further details visit:
 <i class="fab fa-orcid"></i> [ORCID ID](https://orcid.org/0000-0003-4643-8932)
 
 ### Peer Reviewed Publications
-* [The three-dimensional state of stratified shear instability in cold water](https://doi.org/10.1063/5.0268302), Marek Stastna, Khush Bhavsar, **Samuel G. Hartharn-Evans**, Nicolas Castro-Folker, *Physics of Fluids*, 2025. [Download Accepted PDF](/assets/docments/Stastna2025), [View SciLight Release](https://doi.org/10.1063/10.0036665), DOI: 10.1063/5.0268302
+* [The three-dimensional state of stratified shear instability in cold water](https://doi.org/10.1063/5.0268302), Marek Stastna, Khush Bhavsar, **Samuel G. Hartharn-Evans**, Nicolas Castro-Folker, *Physics of Fluids*, 2025. [Download Accepted PDF](/assets/documents/Stastna2025), [View SciLight Release](https://doi.org/10.1063/10.0036665), DOI: 10.1063/5.0268302
 * [PhD Thesis: Experimental and Numerical Modelling of Boundary Effects on Internal Solitary Waves](http://theses.ncl.ac.uk/jspui/handle/10443/6319), **Samuel G. Hartharn-Evans**, *PhD Thesis*, 2024. [Download PDF](/assets/documents/Thesis.pdf).
 * [A new approach to understanding fluid mixing in process-study models of stratified fluids](https://doi.org/10.5194/npg-31-61-2024), **Samuel G. Hartharn-Evans**, Marek Stastna, Magda Carr, *Nonlinear Processes in Geophysics*, 2024. [Download PDF](/assets/documents/Hartharn-Evans2024b.pdf), DOI: 10.5194/npg-31-61-2024. 
 * [Interactions Between Internal Solitary Waves and Sea Ice](https://doi.org/10.1029/2023JC020175), **Samuel G. Hartharn-Evans**, Magda Carr, Marek Stastna, *Journal of Geophysical Research: Oceans*, 2024. [Download PDF](/assets/documents/Hartharn-Evans2024), DOI: 10.1029/2023JC020175
