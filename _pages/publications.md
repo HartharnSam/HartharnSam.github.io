@@ -23,9 +23,15 @@ Below my publications are listed. For further details visit:
 ### Conference Talks 
 
 | ------------------------------------- | ---------------- | -------------- |
+| *Conference Presentation*: "Insights into ocean mixing processes driving ice shelf melting from laboratory-scale simulations" | **Forum for Research into Ice Shelf Processes**, Rovaniemi, Finland | 16-18th June 2025 | 
+| *Workshop Panel*: "ECR Perspectives on Peer Review" | **UK Polar Network x USAPECS Peer Review Workshop**, [Online](https://www.youtube.com/watch?v=wUuxyohwR5g) | 7th May 2025 |
+| *Seminar*: "The ice-ocean interface in a lab: Internal Solitary Waves and Meltwater Plumes" | **Maths on Ice Forum**, Online | 19th September 2024 |
+| *Invited Presentation*: "Experimental and Numerical Modelling of Boundary Effects on Internal Solitary Waves" | **[Osborne Reynolds Day PhD Competition](https://www.osbornereynolds.org/)**, Manchester | 5th July 2024 |
+| *Poster*: "Ice Shelf Ocean Boundary Layers at the Laboratory Scale" | **Forum for Research into Ice Shelf Processes**, Bremerhaven, Germany | 19-24th June 2024 |
+| *Conference Presentation*: "A new approach to understanding fluid mixing in process-study models of stratified fluids" | **[EGU 2024](https://meetingorganizer.copernicus.org/EGU24/session/50596)**, NP6.2, Vienna | 14-19th April 2024 |
 | *Seminar*: "Transformation of Internal Waves on a slope: The effects of Stratification" | **BRIDGE Group Seminar**, Bristol | 14th March 2023 |
 | *Seminar*: "Experimental and Numerical Modelling of Internal Solitary Waves" | **Hull University Fluids Group**, Hull | 16th February 2023 |
-| *Seminar*: "The Interaction of Internal Solitary Waves and Sea Ice in the Laboratory" | **VPOSSSS**, Online | 11th January 2023 |
+| *Seminar*: "The Interaction of Internal Solitary Waves and Sea Ice in the Laboratory" | **VEPOSSSS**, Online | 11th January 2023 |
 | *Conference Presentation*: "Understanding the 'How and Where' of mixing from shoaling internal waves using joint probability distributions" | **Challenger Society Ocean Modelling Group Meeting 2022**, London | 9th September 2022 |
 | *Conference Presentation*: "The Interaction of Internal Solitary Waves and Sea Ice in the Laboratory" | **[Challenger 150: Challenger Society Conference](https://www.nhm.ac.uk/our-science/science-events/the-challenger-society-conference-2022-in-london.html)**, London | 6th-8th September 2022 | 
 | *Conference Presentation*: "The Interaction of Internal Solitary Waves and Sea Ice in the Laboratory" | **[IX International Symposium on Stratified Flows (ISSF)](http://www.damtp.cam.ac.uk/events/issf2022/)**, Cambridge | 29th August - 1st September 2022 |
