@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-UK"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Sam Hartharn-Evans / Site Title"
+title                    : "Sam Hartharn-Evans / Research Associate in Fluid Dynamics"
 title_separator          : "-"
 name                     : &name "Sam Hartharn-Evans"
 description              : &description "Sam Hartharn-Evans's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -88,6 +88,8 @@ publication_category:
     title: 'Journal Articles'    
   conferences:
     title: 'Conference Talks'
+  thesis: 
+    title: 'Thesis'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews

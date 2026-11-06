@@ -4,11 +4,8 @@ collection: publications
 category: manuscripts
 permalink: /publication/2022-02-25-Stratification-effects-on-shoaling-internal-solitary-waves
 paperurl: '/files/Hartharn-Evans2022.pdf'
-excerpt: 'Funding information: This work was supported by the Natural Environment Research Council (NERC) funded ONE Planet Doctoral Training Partnership (S.H.E., grant number [NE/S007512/1]).'
 date: 2022-02-25
 venue: 'Journal of Fluid Mechanics'
 citation: ' \{Samuel G.\} Hartharn-Evans,  Magda Carr,  Marek Stastna,  \{Peter A.\} Davies, &quot;Stratification effects on shoaling internal solitary waves.&quot; Journal of Fluid Mechanics, 2022.'
 ---
-Funding information: This work was supported by the Natural Environment Research Council (NERC) funded ONE Planet Doctoral Training Partnership (S.H.E., grant number [NE/S007512/1]).
-
-Use [Google Scholar](https://scholar.google.com/scholar?q=Stratification+effects+on+shoaling+internal+solitary+waves){:target="_blank"} for full citation
+[Access paper here](https://doi.org/10.1017/jfm.2021.1049){:target="_blank"}
