@@ -1,11 +1,15 @@
 ---
-layout: single
+layout: archive
 title: "About"
 permalink: /about/
+author_profile: true
+redirect_from:
+  - /cv
 header:
-  image: /assets/images/sal.png
+  image: sal.png
   caption: "Passive tracer field for a shear flow in the cold water cabbeling regime"
 ---
+
 
 ## About Me
 I am an experimental oceanographer. I am interested in using laboratory experiments (and laboratory scale simulations) to better understand the ocean interacts with ice in some of the hardest to observe regions on earth. Overall, I aim to understand how oceanic heat reaches and melts ice by combining laboratory experiments and numerical simulations to understand fundamental physical processes from the polar oceans. Alongside my research, I am involved in scientific leadership, outreach, and fostering collaboration within the academic and polar communities. You can find my full cv at the bottom of this page. 

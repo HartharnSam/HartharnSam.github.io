@@ -5,7 +5,7 @@ permalink: /video/
 # collection: research
 # entries_layout: grid
 header:
-  image: /assets/images/TankImage.jpg
+  image: /TankImage.jpg
   caption: "Laboratory setup for studing Internal Solitary Waves"
 ---
 

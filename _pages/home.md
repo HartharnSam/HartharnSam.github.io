@@ -9,7 +9,7 @@ feature_row0:
     excerpt: "I am a researcher at Newcastle University in the School of Mathematics, Statistics and Physics. My work aims to understand the physical processes in the ocean, and how they interact with different elements of the earth system. My main focus is on the polar oceans, and I currently investigate the interactions between ice shelves ice and buoyant meltwater plumes using both laboratory experiments and numerical modelling to understand these complex processes."
 
 feature_row1:
-  - image_path: /images/ResearchInterests.jpg
+  - image_path: ResearchInterests.jpg
     alt: "Photo of laboratory setup"
     image_size: 400em
     title: "Research Interests"
@@ -18,7 +18,7 @@ feature_row1:
     btn_label: "Read More"
     btn_class: "btn--primary"
 #feature_row2:
-#  - image_path: /images/outreach.jpeg
+#  - image_path: outreach.jpeg
 #    image_size: 250em
 #    alt: "Photo of Sam running an outreach activity"
 #    excerpt: 'I am the Antarctic President of the UK Polar Network ([UKPN](https://polarnetwork.org/)), where I organise training, networking, education and outreach opportunities to support the next generation of early career polar researchers. I also have outreach experience in delivering outreach sessions and managing larger projects as part of the ONE Planet Outreach project. In my spare time, I enjoy playing trombone with the Felling Band, a local second section brass band, and serve as charity trustee of the [UniBrass Foundation](https://www.unibrass.co.uk), supporting university level brass banding.'
@@ -32,5 +32,4 @@ feature_row1:
 {% include feature_row id="feature_row0" type="center" %}
 
 {% include feature_row id="feature_row1" type="left" %}
-#{% include feature_row id="feature_row2" type="right" %}
 ------
