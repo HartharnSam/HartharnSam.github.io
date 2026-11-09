@@ -26,8 +26,8 @@ As vice-president (formerly co-president) of the UK Polar Network, I am involved
 I enjoy sharing science and the polar regions with the wider community. I’ve led and participated in outreach programs that make complex scientific concepts accessible to the public. As part of the ONE Planet Outreach program, I delivered climate change sessions at the Great North Museum: Hancock and co-designed a week-long climate curriculum for primary schools. I believe it’s vital to engage with young people and the general public to help them understand the importance of polar regions and climate science.
 
 ### Curriculum Vitae
-<iframe src='/documents/CV.pdf' width="100%" height="1000px" style="border: none;"></iframe>
+<iframe src='/files/CV.pdf' width="100%" height="1000px" style="border: none;"></iframe>
 
 {: reversed="reversed"}
 
-[1]: /assets/documents/CV.pdf
+[1]: /assets/files/CV.pdf
